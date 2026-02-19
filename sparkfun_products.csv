@@ -1,0 +1,1192 @@
+id,name,price,stock,link,category
+1,SparkFun Thing Plus - STM32,$45.65,In stock,https://www.sparkfun.com/sparkfun-thing-plus-stm32.html,Development Boards
+2,SparkFun Roller Encoder Breakout,$1.95,In stock,https://www.sparkfun.com/sparkfun-roller-encoder-breakout.html,Development Boards
+3,SparkFun RedBoard Artemis,$24.95,In stock,https://www.sparkfun.com/sparkfun-redboard-artemis.html,Development Boards
+4,SparkFun OpenLog,$17.50,In stock,https://www.sparkfun.com/sparkfun-openlog.html,Development Boards
+5,SparkFun OpenLog Artemis,$59.95,In stock,https://www.sparkfun.com/sparkfun-openlog-artemis.html,Development Boards
+6,SparkFun MicroMod Teensy Processor with Copy Protection,$29.95,In stock,https://www.sparkfun.com/sparkfun-micromod-teensy-processor-with-copy-protection.html,Development Boards
+7,NVIDIA Jetson Orin™ Nano Super Developer Kit,$249.00,In stock,https://www.sparkfun.com/nvidia-jetson-orin-nano-developer-kit.html,Development Boards
+8,SparkFun RedBoard Qwiic,$21.95,In stock,https://www.sparkfun.com/sparkfun-redboard-qwiic.html,Development Boards
+9,SparkFun RedBoard - Programmed with Arduino,$22.50,In stock,https://www.sparkfun.com/sparkfun-redboard-programmed-with-arduino.html,Development Boards
+10,SparkFun IoT RedBoard - ESP32 Development Board,$41.87,In stock,https://www.sparkfun.com/sparkfun-iot-redboard-esp32-development-board.html,Development Boards
+11,SparkFun Digi XBee® Arduino Shield - USB-C (Qwiic),$13.95,In stock,https://www.sparkfun.com/sparkfun-digi-xbeer-arduino-shield-usb-c-qwiic.html,Development Boards
+12,SparkFun Thing Plus - ESP32 WROOM (USB-C),$33.73,Backorder,https://www.sparkfun.com/sparkfun-thing-plus-esp32-wroom-usb-c.html,Development Boards
+13,Alchitry Au+ FPGA Development Board (Xilinx Artix 7),$324.95,In stock,https://www.sparkfun.com/alchitry-au-fpga-development-board-xilinx-artix-7-dev-17514.html,Development Boards
+14,SparkFun Qwiic Pro Micro - USB-C,$23.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-pro-micro-usb-c-atmega32u4.html,Development Boards
+15,SparkFun Thing Plus Matter - MGM240P,$27.95,Backorder,https://www.sparkfun.com/sparkfun-thing-plus-matter-mgm240p.html,Development Boards
+16,Raspberry Pi 5 - 2GB,$70.00,In stock,https://www.sparkfun.com/raspberry-pi-5-2gb.html,Development Boards
+17,Raspberry Pi 5 - 4GB,$90.00,In stock,https://www.sparkfun.com/raspberry-pi-5-4gb.html,Development Boards
+18,Raspberry Pi 5 - 8GB,$130.00,In stock,https://www.sparkfun.com/raspberry-pi-5-8gb.html,Development Boards
+19,Teensy 4.0,$23.80,In stock,https://www.sparkfun.com/teensy-4-0.html,Development Boards
+20,Teensy 4.0 (Headers),$26.80,In stock,https://www.sparkfun.com/teensy-4-0-headers.html,Development Boards
+21,Teensy 4.1 (Headers),$35.95,In stock,https://www.sparkfun.com/teensy-4-1-headers.html,Development Boards
+22,Teensy 4.1,$31.50,In stock,https://www.sparkfun.com/teensy-4-1.html,Development Boards
+23,SparkFun AzureWave Thing Plus - AW-CU488,$28.50,In stock,https://www.sparkfun.com/sparkfun-azurewave-thing-plus-aw-cu488.html,Development Boards
+24,Arduino UNO R4 WiFi,$27.50,In stock,https://www.sparkfun.com/arduino-uno-r4-wifi.html,Development Boards
+25,SparkFun Thing Plus - NORA-W306,$39.95,In stock,https://www.sparkfun.com/sparkfun-thing-plus-nora-w306.html,Development Boards
+26,Nicla Voice,$82.00,In stock,https://www.sparkfun.com/nicla-voice.html,Development Boards
+27,Raspberry Pi 5 - 1GB,$50.00,In stock,https://www.sparkfun.com/raspberry-pi-5-1gb.html,Development Boards
+28,Raspberry Pi AI HAT+ 2,$130.00,Out of stock,https://www.sparkfun.com/raspberry-pi-ai-hat-2.html,Development Boards
+29,SparkFun Qwiic 24 Bit ADC - 4 Channel (ADS1219),$15.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-24-bit-adc-4-channel-ads1219.html,Development Boards
+30,REV Robotics SRS Programmer,$29.95,In stock,https://www.sparkfun.com/rev-robotics-srs-programmer.html,Development Boards
+31,Alchitry Pt V2,$249.99,In stock,https://www.sparkfun.com/alchitry-pt-v2.html,Development Boards
+32,Raspberry Pi Compute Module 5 IO Board,$31.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-io-board.html,Development Boards
+33,Raspberry Pi Compute Module 5 Development Kit,$160.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-development-kit.html,Development Boards
+34,Raspberry Pi Compute Module 5 Lite - 2GB RAM,$65.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-lite-2gb-ram.html,Development Boards
+35,Raspberry Pi Compute Module 5 16GB - 2GB RAM,$70.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-16gb-2gb-ram.html,Development Boards
+36,Raspberry Pi Compute Module 5 32GB - 2GB RAM,$75.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-32gb-2gb-ram.html,Development Boards
+37,Raspberry Pi Compute Module 5 Lite - 4GB,$80.00,Out of stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-lite-4gb.html,Development Boards
+38,Raspberry Pi Compute Module 5 16GB - 4GB RAM,$85.00,Out of stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-16gb-4gb-ram.html,Development Boards
+39,Raspberry Pi Compute Module 5 32GB - 4GB RAM,$90.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-32gb-4gb-ram.html,Development Boards
+40,Raspberry Pi Compute Module 5 Lite - 8GB RAM,$120.00,Out of stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-lite-8gb-ram.html,Development Boards
+41,Raspberry Pi Compute Module 5 16GB - 8GB RAM,$130.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-16gb-8gb-ram.html,Development Boards
+42,Raspberry Pi Compute Module 32GB - 8GB RAM,$135.00,Out of stock,https://www.sparkfun.com/raspberry-pi-compute-module-32gb-8gb-ram.html,Development Boards
+43,Raspberry Pi Compute Module 5 Lite (Wireless) - 2GB RAM,$65.00,Out of stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-lite-wireless-2gb-ram.html,Development Boards
+44,Raspberry Pi Compute Module 5 16GB (Wireless) - 2GB RAM,$65.00,Out of stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-16gb-wireless-2gb-ram.html,Development Boards
+45,Raspberry Pi Compute Module 5 32GB (Wireless) - 2GB RAM,$80.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-32gb-wireless-2gb-ram.html,Development Boards
+46,Raspberry Pi Compute Module 5 Lite (Wireless) - 4GB,$85.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-lite-wireless-4gb.html,Development Boards
+47,Raspberry Pi Compute Module 5 16GB (Wireless) - 4GB RAM,$90.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-16gb-wireless-4gb-ram.html,Development Boards
+48,Raspberry Pi Compute Module 5 32GB (Wireless) - 4GB RAM,$100.00,Out of stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-32gb-wireless-4gb-ram.html,Development Boards
+49,Raspberry Pi Compute Module 5 Lite (Wireless) - 8GB RAM,$130.00,Out of stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-lite-wireless-8gb-ram.html,Development Boards
+50,Raspberry Pi Compute Module 5 16GB (Wireless) - 8GB RAM,$135.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-16gb-wireless-8gb-ram.html,Development Boards
+51,Raspberry Pi Compute Module 5 32GB (Wireless) - 8GB RAM,$140.00,Out of stock,https://www.sparkfun.com/raspberry-pi-compute-module-32gb-wireless-8gb-ram.html,Development Boards
+52,Raspberry Pi Pico 2 with Headers,$6.60,In stock,https://www.sparkfun.com/raspberry-pi-pico-2-with-headers.html,Development Boards
+53,Raspberry Pi Pico 2 W with Headers,$8.80,In stock,https://www.sparkfun.com/raspberry-pi-pico-2-w-with-headers.html,Development Boards
+54,SparkFun Qwiic Pocket Development Board - ESP32-C6,$19.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-pocket-development-board-esp32-c6.html,Development Boards
+55,SparkFun Thing Plus - ESP32-C6,$22.50,In stock,https://www.sparkfun.com/sparkfun-thing-plus-esp32-c6.html,Development Boards
+56,SparkFun Thing Plus - ESP32-S3,$24.95,Backorder,https://www.sparkfun.com/sparkfun-thing-plus-esp32-s3.html,Development Boards
+57,SparkFun Qwiic Pro Mini - ESP32,$10.50,In stock,https://www.sparkfun.com/sparkfun-esp32-qwiic-pro-mini.html,Development Boards
+58,SparkFun Pro Micro - ESP32-C3,$10.25,In stock,https://www.sparkfun.com/sparkfun-pro-micro-esp32-c3.html,Development Boards
+59,SparkFun IoT Node for LoRaWAN®,$99.95,In stock,https://www.sparkfun.com/sparkfun-iot-node-lorawan.html,Development Boards
+60,SparkFun Thing Plus - RP2350,$30.95,In stock,https://www.sparkfun.com/sparkfun-thing-plus-rp2350.html,Development Boards
+61,SparkFun Thing Plus - RA6M5,$49.95,In stock,https://www.sparkfun.com/sparkfun-thing-plus-ra6m5.html,Development Boards
+62,SparkFun RFM69 Breakout (434MHz),$14.25,In stock,https://www.sparkfun.com/sparkfun-rfm69-breakout-434mhz.html,Development Boards
+63,SparkFun RFM69 Breakout (915MHz),$14.25,In stock,https://www.sparkfun.com/sparkfun-rfm69-breakout-915mhz.html,Development Boards
+64,SparkFun Thing Plus - ESP32-S2 WROOM,$24.50,In stock,https://www.sparkfun.com/sparkfun-thing-plus-esp32-s2-wroom.html,Development Boards
+65,SparkFun WiFi IR Blaster (ESP8266),$22.50,In stock,https://www.sparkfun.com/sparkfun-wifi-ir-blaster-esp8266.html,Development Boards
+66,SparkFun ESP8266 Thing - Dev Board (with Headers),$20.25,In stock,https://www.sparkfun.com/sparkfun-esp8266-thing-dev-board-with-headers.html,Development Boards
+67,SparkFun ESP8266 Thing,$19.95,In stock,https://www.sparkfun.com/sparkfun-esp8266-thing.html,Development Boards
+68,SparkFun ESP8266 Thing Starter Kit,$30.95,Discontinued,https://www.sparkfun.com/sparkfun-esp8266-thing-starter-kit.html,Development Boards
+69,SparkFun ESP8266 Thing - Dev Board,$19.95,In stock,https://www.sparkfun.com/sparkfun-esp8266-thing-dev-board.html,Development Boards
+70,SparkFun MicroMod WiFi Function Board - ESP32,$14.95,In stock,https://www.sparkfun.com/sparkfun-micromod-wifi-function-board-esp32.html,Development Boards
+71,SparkFun LoRa Thing Plus - expLoRaBLE,$54.95,In stock,https://www.sparkfun.com/sparkfun-lora-thing-plus-explorable.html,Development Boards
+72,SparkFun Thing Plus - ESP32 WROOM (U.FL),$25.50,In stock,https://www.sparkfun.com/sparkfun-thing-plus-esp32-wroom-u-fl.html,Development Boards
+73,SparkFun MicroMod ESP32 Processor,$19.95,In stock,https://www.sparkfun.com/sparkfun-micromod-esp32-processor.html,Development Boards
+74,SparkFun MicroMod Artemis Processor,$17.50,In stock,https://www.sparkfun.com/sparkfun-micromod-artemis-processor.html,Development Boards
+75,SparkFun Thing Plus - ESP32 WROOM (Micro-B),$24.95,In stock,https://www.sparkfun.com/sparkfun-thing-plus-esp32-wroom-micro-b.html,Development Boards
+76,SparkFun ESP32 Thing,$30.85,In stock,https://www.sparkfun.com/sparkfun-esp32-thing.html,Development Boards
+77,SparkFun SOIC to DIP Adapter - 8-Pin,$3.75,In stock,https://www.sparkfun.com/sparkfun-soic-to-dip-adapter-8-pin.html,Development Boards
+78,SparkFun Audio Player Breakout - MY1690X-16S,$14.95,In stock,https://www.sparkfun.com/sparkfun-audio-player-breakout-my1690x-16s.html,Development Boards
+79,SparkFun Serial MP3 Player Shield - MY1690X-16S,$15.95,In stock,https://www.sparkfun.com/sparkfun-serial-mp3-player-shield-my1690x.html,Development Boards
+80,Raspberry Pi 4 Model B (1GB),$45.00,In stock,https://www.sparkfun.com/raspberry-pi-4-model-b-1gb.html,Development Boards
+81,SparkFun IoT RedBoard - RP2350,$39.95,In stock,https://www.sparkfun.com/sparkfun-iot-redboard-rp2350.html,Development Boards
+82,SparkFun IoT RedBoard - ESP32 MicroPython Development Board,$29.95,In stock,https://www.sparkfun.com/sparkfun-iot-redboard-esp32-micropython-development-board.html,Development Boards
+83,SparkFun Experiential Robotics Platform (XRP) Controller,$52.95,In stock,https://www.sparkfun.com/sparkfun-experiential-robotics-platform-xrp-controller.html,Development Boards
+84,Teensy Prop Shield LC,$8.40,Discontinued,https://www.sparkfun.com/teensy-prop-shield-lc.html,Development Boards
+85,"Teensy 4.0, Lockable",$23.80,In stock,https://www.sparkfun.com/teensy-4-0-with-copy-protection.html,Development Boards
+86,"Teensy 4.1, Lockable",$31.50,Backorder,https://www.sparkfun.com/teensy-4-1-with-copy-protection.html,Development Boards
+87,"Teensy 4.1 without Ethernet, Lockable",$29.60,In stock,https://www.sparkfun.com/teensy-4-1-without-ethernet-with-copy-protection.html,Development Boards
+88,Alchitry Au V2,$99.99,In stock,https://www.sparkfun.com/alchitry-au-v2.html,Development Boards
+89,Alchitry Cu V2,$49.99,In stock,https://www.sparkfun.com/alchitry-cu-v2.html,Development Boards
+90,Alchitry Br V2,$14.99,Backorder,https://www.sparkfun.com/alchitry-br-v2.html,Development Boards
+91,Alchitry Br Wide V2,$14.99,In stock,https://www.sparkfun.com/alchitry-br-wide-v2.html,Development Boards
+92,Alchitry Io V2,$19.99,In stock,https://www.sparkfun.com/alchitry-io-v2.html,Development Boards
+93,Alchitry Ft V2,$39.99,In stock,https://www.sparkfun.com/alchitry-ft-v2.html,Development Boards
+94,Alchitry Ft+ V2,$44.99,In stock,https://www.sparkfun.com/alchitry-ft-plus-v2.html,Development Boards
+95,Raspberry Pi 5 - 16GB,$215.00,Out of stock,https://www.sparkfun.com/raspberry-pi-5-16gb.html,Development Boards
+96,SparkFun Experiential Robotics Platform (XRP) Controller - Beta,$25.00,In stock,https://www.sparkfun.com/sparkfun-experiential-robotics-platform-xrp-controller-beta.html,Development Boards
+97,Segger J-Link EDU Mini,$60.00,In stock,https://www.sparkfun.com/segger-j-link-edu-mini.html,Development Boards
+98,Raspberry Pi Touch Display 2,$88.00,Out of stock,https://www.sparkfun.com/raspberry-pi-touch-display-2.html,Development Boards
+99,Experiential Robotics Platform (XRP) - DIY Kit - Beta,$45.00,Out of stock,https://www.sparkfun.com/experiential-robotics-platform-xrp-diy-kit-beta.html,Development Boards
+100,Raspberry Pi 5 Essential Kit - 8GB,$149.95,Out of stock,https://www.sparkfun.com/raspberry-pi-5-essential-kit-8gb.html,Development Boards
+101,Raspberry Pi 5 Essential Kit - 4GB,$99.95,In stock,https://www.sparkfun.com/raspberry-pi-5-essential-kit-4gb.html,Development Boards
+102,Raspberry Pi 5 Basic Kit - 8GB,$159.95,In stock,https://www.sparkfun.com/raspberry-pi-5-basic-kit-8gb.html,Development Boards
+103,Raspberry Pi 5 Basic Kit - 4GB,$114.95,In stock,https://www.sparkfun.com/raspberry-pi-5-basic-kit-4gb.html,Development Boards
+104,SparkFun ISP Pogo Adapter v2,$15.50,In stock,https://www.sparkfun.com/sparkfun-isp-pogo-adapter-v2.html,Development Boards
+105,SparkFun Raspberry Pi Zero W Basic Kit,$53.50,In stock,https://www.sparkfun.com/sparkfun-raspberry-pi-zero-w-basic-kit-kit-23091.html,Development Boards
+106,Raspberry Pi 3 B+ Starter Kit,$99.50,Discontinued,https://www.sparkfun.com/raspberry-pi-3-b-starter-kit-kit-23090.html,Development Boards
+107,Experiential Robotics Platform (XRP) Kit - Beta,$60.00,In stock,https://www.sparkfun.com/experiential-robotics-platform-xrp-kit-beta.html,Development Boards
+108,SparkFun GPS-RTK Dead Reckoning pHAT for Raspberry Pi,$299.95,In stock,https://www.sparkfun.com/sparkfun-gps-rtk-dead-reckoning-phat-for-raspberry-pi-gps-21305.html,Development Boards
+109,W55RP20-EVB-PICO,$10.95,In stock,https://www.sparkfun.com/w55rp20-evb-pico.html,Development Boards
+110,Raspberry Pi Zero 2 W (with Headers),$20.70,Out of stock,https://www.sparkfun.com/raspberry-pi-zero-2-w-with-headers.html,Development Boards
+111,Raspberry Pi Pico 2,$5.75,In stock,https://www.sparkfun.com/raspberry-pi-pico-2.html,Development Boards
+112,Raspberry Pi M.2 HAT+,$27.00,In stock,https://www.sparkfun.com/raspberry-pi-m-2-hat.html,Development Boards
+113,SparkFun Pro Micro - RP2350,$16.95,In stock,https://www.sparkfun.com/sparkfun-pro-micro-rp2350.html,Development Boards
+114,Arduino Nano ESP32 with Headers,$21.00,In stock,https://www.sparkfun.com/arduino-nano-esp32-with-headers.html,Development Boards
+115,Arduino UNO R4 Minima,$20.00,In stock,https://www.sparkfun.com/arduino-uno-r4-minima.html,Development Boards
+116,Teensy 4 Audio Shield (Rev D2),$14.95,Discontinued,https://www.sparkfun.com/teensy-4-audio-shield-rev-d2.html,Development Boards
+117,NVIDIA Jetson AGX Orin 64GB Developer Kit,"$1,999.95",Backorder,https://www.sparkfun.com/nvidia-jetson-agx-orin-64gb-developer-kit.html,Development Boards
+118,SparkFun MicroMod STM32WB5MMG Processor,$19.95,In stock,https://www.sparkfun.com/sparkfun-micromod-stm32wb5mmg-processor.html,Development Boards
+119,Arduino Opta WiFi,$183.54,In stock,https://www.sparkfun.com/arduino-opta-wifi.html,Development Boards
+120,Arduino Opta RS485,$152.76,Discontinued,https://www.sparkfun.com/arduino-opta-rs485.html,Development Boards
+121,Arduino Opta Lite,$125.49,Discontinued,https://www.sparkfun.com/arduino-opta-lite.html,Development Boards
+122,SparkFun USB-C Host Shield,$40.95,In stock,https://www.sparkfun.com/sparkfun-usb-c-host-shield.html,Development Boards
+123,Raspberry Pi Pico WH,$7.70,In stock,https://www.sparkfun.com/raspberry-pi-pico-wh.html,Development Boards
+124,SparkFun MicroMod STM32 Processor,$16.50,Discontinued,https://www.sparkfun.com/sparkfun-micromod-stm32-processor-dev-17713.html,Development Boards
+125,"AVR®  14-Pin ATtiny Microcontroller IC - 8-Bit, 20MHz, 8KB (4K x 16) FLASH",$3.10,In stock,https://www.sparkfun.com/avrr-14-pin-attiny-microcontroller-ic-8-bit-20mhz-8kb-4k-x-16-flash.html,Development Boards
+126,SparkFun ESLOV to Qwiic Bridge,$1.95,In stock,https://www.sparkfun.com/sparkfun-eslov-to-qwiic-bridge.html,Development Boards
+127,Sipeed Tang Primer 25K,$36.95,Discontinued,https://www.sparkfun.com/sipeed-tang-primer-25k.html,Development Boards
+128,Raspberry Pi Compute Module 4 16GB (Wireless Version) - 4GB RAM,$85.00,Out of stock,https://www.sparkfun.com/raspberry-pi-compute-module-4-16gb-wireless-version-4gb-ram.html,Development Boards
+129,Mates Programmer,$8.95,In stock,https://www.sparkfun.com/mates-programmer.html,Development Boards
+130,NVIDIA Jetson Nano 2GB Developer Kit (without Wireless Adaptor),$54.00,Discontinued,https://www.sparkfun.com/nvidia-jetson-nano-2gb-developer-kit-without-wireless-adaptor.html,Development Boards
+131,Jetson Nano 2GB,$63.50,Discontinued,https://www.sparkfun.com/jetson-nano-2gb.html,Development Boards
+132,Raspberry Pi Compute Module 4 32GB (Wireless Version) - 2GB RAM,$70.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-4-32gb-wireless-version-2gb-ram.html,Development Boards
+133,Raspberry Pi Compute Module 4 32GB (Wireless Version) - 4GB RAM,$100.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-4-32gb-wireless-version-4gb-ram.html,Development Boards
+134,Raspberry Pi Compute Module 4 Lite (Wireless Version) - 2GB RAM,$55.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-4-lite-wireless-version-2gb-ram.html,Development Boards
+135,Raspberry Pi Compute Module 4 8GB - 2GB RAM,$55.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-4-8gb-2gb-ram.html,Development Boards
+136,Himax WE-I Plus EVB Endpoint AI Development Board,$69.95,Discontinued,https://www.sparkfun.com/himax-we-i-plus-evb-endpoint-ai-development-board.html,Development Boards
+137,"Argon40 Fan HAT for Raspberry Pi 4, 3B, and 3B+",$11.95,Discontinued,https://www.sparkfun.com/argon40-fan-hat-for-raspberry-pi-4-3b-and-3b.html,Development Boards
+138,PICAXE 8 Pin Proto Kit,$4.50,In stock,https://www.sparkfun.com/picaxe-8-pin-proto-kit.html,Development Boards
+139,Cluster HAT,$24.95,Discontinued,https://www.sparkfun.com/cluster-hat.html,Development Boards
+140,Raspberry Pi Zero,$11.00,In stock,https://www.sparkfun.com/raspberry-pi-zero.html,Development Boards
+141,Raspberry Pi Pico W,$4.95,In stock,https://www.sparkfun.com/raspberry-pi-pico-w.html,Development Boards
+142,Raspberry Pi Pico H,$5.50,In stock,https://www.sparkfun.com/raspberry-pi-pico-h.html,Development Boards
+143,Raspberry Pi Pico,$4.60,In stock,https://www.sparkfun.com/raspberry-pi-pico.html,Development Boards
+144,Raspberry Pi Compute Module 4 8GB (Wireless Version) - 2GB RAM,$60.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-4-8gb-wireless-version-2gb-ram.html,Development Boards
+145,Raspberry Pi Compute Module 4 16GB - 2GB RAM,$60.00,Out of stock,https://www.sparkfun.com/raspberry-pi-compute-module-4-16gb-2gb-ram.html,Development Boards
+146,Raspberry Pi Compute Module 4 - Lite,$45.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-4-lite.html,Development Boards
+147,Raspberry Pi Compute Module 4 I/O Board,$38.50,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-4-i-o-board.html,Development Boards
+148,Raspberry Pi Compute Module 3+ Development Kit,$108.90,Out of stock,https://www.sparkfun.com/raspberry-pi-compute-module-3-development-kit.html,Development Boards
+149,Raspberry Pi Compute Module 3+ - 32GB,$40.00,Discontinued,https://www.sparkfun.com/raspberry-pi-compute-module-3-32gb.html,Development Boards
+150,Raspberry Pi Compute Module 3+ - 16GB,$38.50,Out of stock,https://www.sparkfun.com/raspberry-pi-compute-module-3-16gb.html,Development Boards
+151,Raspberry Pi Compute Module 3+ - 8GB,$43.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-3-8gb.html,Development Boards
+152,Raspberry Pi 4 Model B (8 GB),$120.00,Out of stock,https://www.sparkfun.com/raspberry-pi-4-model-b-8-gb.html,Development Boards
+153,Raspberry Pi 4 Model B (4 GB),$75.00,In stock,https://www.sparkfun.com/raspberry-pi-4-model-b-4-gb.html,Development Boards
+154,Raspberry Pi 4 Model B (2 GB),$60.00,Out of stock,https://www.sparkfun.com/raspberry-pi-4-model-b-2-gb.html,Development Boards
+155,Raspberry Pi 3 A+,$27.50,In stock,https://www.sparkfun.com/raspberry-pi-3-a.html,Development Boards
+156,Raspberry Pi 3 B+,$43.50,In stock,https://www.sparkfun.com/raspberry-pi-3-b.html,Development Boards
+157,SparkFun Pro Micro - RP2040,$11.25,In stock,https://www.sparkfun.com/sparkfun-pro-micro-rp2040.html,Development Boards
+158,SparkFun Thing Plus - RP2040,$19.95,In stock,https://www.sparkfun.com/sparkfun-thing-plus-rp2040.html,Development Boards
+159,SparkFun MicroMod Update Tool,$5.95,In stock,https://www.sparkfun.com/sparkfun-micromod-update-tool.html,Development Boards
+160,SparkFun Qwiic pHAT Extension for Raspberry Pi 400,$5.75,In stock,https://www.sparkfun.com/sparkfun-qwiic-phat-extension-for-raspberry-pi-400.html,Development Boards
+161,SparkFun Raspberry Pi 4 Hardware Starter Kit - 8GB,$192.95,Discontinued,https://www.sparkfun.com/sparkfun-raspberry-pi-4-hardware-starter-kit-8gb.html,Development Boards
+162,SparkFun Qwiic pHAT v2.0 for Raspberry Pi,$7.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-phat-v2-0-for-raspberry-pi.html,Development Boards
+163,SparkFun Serial Basic Breakout - CH340C and USB-C,$10.50,In stock,https://www.sparkfun.com/sparkfun-serial-basic-breakout-ch340c-and-usb-c.html,Development Boards
+164,SparkFun Qwiic HAT for Raspberry Pi,$6.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-hat-for-raspberry-pi.html,Development Boards
+165,SparkFun Serial Basic Breakout - CH340G,$9.25,In stock,https://www.sparkfun.com/sparkfun-serial-basic-breakout-ch340g.html,Development Boards
+166,SparkFun SSOP to DIP Adapter - 16-Pin,$4.25,In stock,https://www.sparkfun.com/sparkfun-ssop-to-dip-adapter-16-pin.html,Development Boards
+167,SparkFun USB UART Serial Breakout - CY7C65213,$17.95,In stock,https://www.sparkfun.com/sparkfun-usb-uart-serial-breakout-cy7c65213.html,Development Boards
+168,SparkFun FT231X Breakout,$14.95,In stock,https://www.sparkfun.com/sparkfun-ft231x-breakout.html,Development Boards
+169,SparkFun USB to Serial Breakout - FT232RL,$22.95,In stock,https://www.sparkfun.com/sparkfun-usb-to-serial-breakout-ft232rl.html,Development Boards
+170,Tiny AVR Programmer,$18.95,Discontinued,https://www.sparkfun.com/tiny-avr-programmer.html,Development Boards
+171,SparkFun Transceiver Breakout - MAX3232,$7.26,In stock,https://www.sparkfun.com/sparkfun-transceiver-breakout-max3232.html,Development Boards
+172,SparkFun Transceiver Breakout - RS-485,$12.50,In stock,https://www.sparkfun.com/sparkfun-transceiver-breakout-rs-485.html,Development Boards
+173,Pocket AVR Programmer,$19.95,In stock,https://www.sparkfun.com/pocket-avr-programmer.html,Development Boards
+174,SparkFun USB to RS-485 Converter,$25.95,In stock,https://www.sparkfun.com/sparkfun-usb-to-rs-485-converter.html,Development Boards
+175,SparkFun SSOP to DIP Adapter - 28-Pin,$5.25,In stock,https://www.sparkfun.com/sparkfun-ssop-to-dip-adapter-28-pin.html,Development Boards
+176,SparkFun SSOP to DIP Adapter - 8-Pin,$3.95,In stock,https://www.sparkfun.com/sparkfun-ssop-to-dip-adapter-8-pin.html,Development Boards
+177,SparkFun SOIC to DIP Adapter - 28-Pin,$5.95,In stock,https://www.sparkfun.com/sparkfun-soic-to-dip-adapter-28-pin.html,Development Boards
+178,SparkFun SOIC to DIP Adapter - 20-Pin,$4.95,In stock,https://www.sparkfun.com/sparkfun-soic-to-dip-adapter-20-pin.html,Development Boards
+179,"D-Sub Serial Connector - 9-Pin, Female (PCB Mount)",$2.25,In stock,https://www.sparkfun.com/d-sub-serial-connector-9-pin-female-pcb-mount.html,Development Boards
+180,SparkFun RS232 Shifter SMD (No DE9),$1.95,In stock,https://www.sparkfun.com/sparkfun-rs232-shifter-smd-no-de9.html,Development Boards
+181,SparkFun Shift Register Breakout - 74HC595,$4.95,In stock,https://www.sparkfun.com/sparkfun-shift-register-breakout-74hc595.html,Development Boards
+182,SparkFun Logic Level Converter - Single Supply,$18.95,In stock,https://www.sparkfun.com/sparkfun-logic-level-converter-single-supply.html,Development Boards
+183,SparkFun Level Shifter - 8 Channel (TXS0108E),$5.57,In stock,https://www.sparkfun.com/sparkfun-level-shifter-8-channel-txs0108e.html,Development Boards
+184,SparkFun Level Translator Breakout - PCA9306,$5.25,In stock,https://www.sparkfun.com/sparkfun-level-translator-breakout-pca9306.html,Development Boards
+185,SparkFun Logic Level Converter - Bi-Directional,$3.95,In stock,https://www.sparkfun.com/sparkfun-logic-level-converter-bi-directional.html,Development Boards
+186,SparkFun Voltage-Level Translator Breakout - TXB0104,$5.95,In stock,https://www.sparkfun.com/sparkfun-voltage-level-translator-breakout-txb0104.html,Development Boards
+187,SparkFun Opto-isolator Breakout,$5.95,In stock,https://www.sparkfun.com/sparkfun-opto-isolator-breakout.html,Development Boards
+188,SparkFun Real Time Clock Module - RV-1805 (Qwiic),$8.33,In stock,https://www.sparkfun.com/products/14558,Development Boards
+189,SparkFun Real Time Clock Module - RV-8803 (Qwiic),$20.57,In stock,https://www.sparkfun.com/sparkfun-real-time-clock-module-rv-8803-qwiic.html,Development Boards
+190,SparkFun Real Time Clock Module,$8.50,In stock,https://www.sparkfun.com/sparkfun-real-time-clock-module.html,Development Boards
+191,SparkFun DeadOn RTC Breakout - DS3234,$27.50,In stock,https://www.sparkfun.com/sparkfun-deadon-rtc-breakout-ds3234.html,Development Boards
+192,PiJuice HAT - Raspberry Pi Portable Power Platform,$73.95,Discontinued,https://www.sparkfun.com/pijuice-hat-raspberry-pi-portable-power-platform.html,Development Boards
+193,SparkFun microSD Transflash Breakout,$5.95,In stock,https://www.sparkfun.com/sparkfun-microsd-transflash-breakout.html,Development Boards
+194,SparkFun Qwiic GPIO,$6.75,In stock,https://www.sparkfun.com/sparkfun-qwiic-gpio.html,Development Boards
+195,SparkFun Qwiic Mux Breakout - 8 Channel (TCA9548A),$6.95,Backorder,https://www.sparkfun.com/sparkfun-qwiic-mux-breakout-8-channel-tca9548a.html,Development Boards
+196,SparkFun Multiplexer Breakout - 8 Channel (74HC4051),$3.50,In stock,https://www.sparkfun.com/sparkfun-multiplexer-breakout-8-channel-74hc4051.html,Development Boards
+197,SparkFun 16 Output I/O Expander Breakout - SX1509,$7.50,Backorder,https://www.sparkfun.com/sparkfun-16-output-i-o-expander-breakout-sx1509.html,Development Boards
+198,SparkFun Analog/Digital MUX Breakout - CD74HC4067,$6.50,In stock,https://www.sparkfun.com/sparkfun-analog-digital-mux-breakout-cd74hc4067.html,Development Boards
+199,"Raspberry Pi LCD - 7"" Touchscreen",$88.30,In stock,https://www.sparkfun.com/raspberry-pi-lcd-7-touchscreen.html,Development Boards
+200,OBD-II to DE9 Cable,$14.95,In stock,https://www.sparkfun.com/obd-ii-to-de9-cable.html,Development Boards
+201,High Speed Optoisolator - 6N137,$1.10,Backorder,https://www.sparkfun.com/high-speed-optoisolator-6n137.html,Development Boards
+202,I/O Expander - MCP23008,$2.10,In stock,https://www.sparkfun.com/i-o-expander-mcp23008.html,Development Boards
+203,Schmitt Trigger - CD40106B,$1.95,In stock,https://www.sparkfun.com/schmitt-trigger-cd40106b.html,Development Boards
+204,Shift Register 8-Bit - SN74HC595,$1.05,In stock,https://www.sparkfun.com/shift-register-8-bit-sn74hc595.html,Development Boards
+205,Real Time Clock - DS3234,$10.95,In stock,https://www.sparkfun.com/real-time-clock-ds3234.html,Development Boards
+206,16 Channel Multiplexer,$1.05,In stock,https://www.sparkfun.com/16-channel-multiplexer.html,Development Boards
+207,Teensy Extended Header Kit,$1.80,In stock,https://www.sparkfun.com/teensy-extended-header-kit.html,Development Boards
+208,FTDI to USB-C Cable - 5V VCC-3.3V I/O,$22.95,In stock,https://www.sparkfun.com/ftdi-to-usb-c-cable-5v-vcc-3-3v-i-o.html,Development Boards
+209,SparkFun microSD Shield,$17.95,In stock,https://www.sparkfun.com/sparkfun-microsd-shield.html,Development Boards
+210,SparkFun Inventor's Kit for Arduino Uno - v4.1,$129.95,In stock,https://www.sparkfun.com/sparkfun-inventor-s-kit-for-arduino-uno-v4-1.html,Development Boards
+211,Kitronik Autonomous Robotics Platform for Pico,$51.95,Discontinued,https://www.sparkfun.com/kitronik-autonomous-robotics-platform-for-pico.html,Development Boards
+212,Kitronik Motor Driver Board for Raspberry Pi Pico,$11.95,Discontinued,https://www.sparkfun.com/kitronik-motor-driver-board-for-raspberry-pi-pico.html,Development Boards
+213,Raspberry Pi Build HAT,$29.70,In stock,https://www.sparkfun.com/raspberry-pi-build-hat.html,Development Boards
+214,SparkFun Auto pHAT for Raspberry Pi,$39.95,In stock,https://www.sparkfun.com/sparkfun-auto-phat-for-raspberry-pi.html,Development Boards
+215,SparkFun Servo pHAT for Raspberry Pi,$13.95,Backorder,https://www.sparkfun.com/sparkfun-servo-phat-for-raspberry-pi.html,Development Boards
+216,SparkFun RP2040 mikroBUS Starter Kit,$39.95,Discontinued,https://www.sparkfun.com/sparkfun-rp2040-mikrobus-starter-kit.html,Development Boards
+217,Bosch BME688 Development Kit,$54.50,Discontinued,https://www.sparkfun.com/bosch-bme688-development-kit.html,Development Boards
+218,SparkFun Environmental Sensor - BME688 (Qwiic),$34.95,In stock,https://www.sparkfun.com/sparkfun-environmental-sensor-bme688-qwiic.html,Development Boards
+219,Luxonis Oak-D LITE,$123.32,Discontinued,https://www.sparkfun.com/luxonis-oak-d-lite.html,Development Boards
+220,Luxonis OAK-D-IoT-40,$164.44,In stock,https://www.sparkfun.com/luxonis-oak-d-iot-40.html,Development Boards
+221,SparkFun JetBot AI Kit v3.0 (Without Jetson Nano),$160.50,Discontinued,https://www.sparkfun.com/sparkfun-jetbot-ai-kit-v3-0-without-jetson-nano.html,Development Boards
+222,SparkFun JetBot AI Kit v3.0 Powered by Jetson Nano,$310.50,Discontinued,https://www.sparkfun.com/sparkfun-jetbot-ai-kit-v3-0-powered-by-jetson-nano.html,Development Boards
+223,Luxonis Oak-D DepthAI Hardware,$175.95,Discontinued,https://www.sparkfun.com/luxonis-oak-d-depthai-hardware.html,Development Boards
+224,Luxonis Oak-1 DepthAI Hardware,$123.32,Discontinued,https://www.sparkfun.com/luxonis-oak-1-depthai-hardware.html,Development Boards
+225,Pixy2 CMUcam5,$129.95,In stock,https://www.sparkfun.com/pixy2-cmucam5.html,Development Boards
+226,Nicla Vision,$115.00,Discontinued,https://www.sparkfun.com/nicla-vision.html,Development Boards
+227,Nicla Sense ME,$82.80,Discontinued,https://www.sparkfun.com/nicla-sense-me.html,Development Boards
+228,SparkFun Raspberry Pi Zero 2 W Basic Kit,$54.95,In stock,https://www.sparkfun.com/sparkfun-raspberry-pi-zero-2-w-basic-kit.html,Development Boards
+229,SparkFun Raspberry Pi 4 Basic Kit - 8GB,$123.50,In stock,https://www.sparkfun.com/sparkfun-raspberry-pi-4-basic-kit-8gb.html,Development Boards
+230,SparkFun Raspberry Pi 4 Desktop Kit - Without Raspberry Pi,$104.95,In stock,https://www.sparkfun.com/sparkfun-raspberry-pi-4-desktop-kit-without-raspberry-pi.html,Development Boards
+231,SparkFun Raspberry Pi 4 Hardware Starter Kit - Without Raspberry Pi,$106.95,In stock,https://www.sparkfun.com/sparkfun-raspberry-pi-4-hardware-starter-kit-without-raspberry-pi.html,Development Boards
+232,SparkFun Raspberry Pi 4 Basic Kit - Without Raspberry Pi,$48.50,Discontinued,https://www.sparkfun.com/sparkfun-raspberry-pi-4-basic-kit-without-raspberry-pi.html,Development Boards
+233,SparkFun Raspberry Pi 4 Hardware Starter Kit - 4GB,$164.95,In stock,https://www.sparkfun.com/sparkfun-raspberry-pi-4-hardware-starter-kit-4gb.html,Development Boards
+234,SparkFun Raspberry Pi 4 Desktop Kit - 4GB,$171.50,Discontinued,https://www.sparkfun.com/sparkfun-raspberry-pi-4-desktop-kit-4gb.html,Development Boards
+235,SparkFun Raspberry Pi 4 Basic Kit - 4GB,$96.50,Discontinued,https://www.sparkfun.com/sparkfun-raspberry-pi-4-basic-kit-4gb.html,Development Boards
+236,SparkFun Raspberry Pi 4 Basic Kit - 2GB,$91.50,In stock,https://www.sparkfun.com/sparkfun-raspberry-pi-4-basic-kit-2gb.html,Development Boards
+237,SparkFun Raspberry Pi Zero W Camera Kit,$99.95,In stock,https://www.sparkfun.com/sparkfun-raspberry-pi-zero-w-camera-kit.html,Development Boards
+238,WizFi360-EVB-Pico,$6.49,In stock,https://www.sparkfun.com/wizfi360-evb-pico.html,Development Boards
+239,ALFA Network WiFi HaLow HAT,$82.50,In stock,https://www.sparkfun.com/alfa-network-wifi-halow-hat.html,Development Boards
+240,Arduino CTC GO! - Core Module,"$1,974.95",Discontinued,https://www.sparkfun.com/arduino-ctc-go-core-module.html,Development Boards
+241,Raspberry Pi Zero 2 W,$17.25,Out of stock,https://www.sparkfun.com/raspberry-pi-zero-2-w.html,Development Boards
+242,Raspberry Pi Zero W (with Headers),$17.60,In stock,https://www.sparkfun.com/raspberry-pi-zero-w-with-headers.html,Development Boards
+243,LilyTiny,$6.95,In stock,https://www.sparkfun.com/lilytiny.html,Development Boards
+244,LilyPad Arduino 328 Main Board,$19.50,In stock,https://www.sparkfun.com/lilypad-arduino-328-main-board.html,Development Boards
+245,LilyPad Arduino USB - ATmega32U4 Board,$31.95,In stock,https://www.sparkfun.com/lilypad-arduino-usb-atmega32u4-board.html,Development Boards
+246,Raspberry Pi IQAudio DAC+,$20.00,Discontinued,https://www.sparkfun.com/raspberry-pi-iqaudio-dac.html,Development Boards
+247,SparkFun Top pHAT for Raspberry Pi,$49.95,Discontinued,https://www.sparkfun.com/sparkfun-top-phat-for-raspberry-pi.html,Development Boards
+248,OpenMV Cam PureThermal,$259.00,Discontinued,https://www.sparkfun.com/openmv-cam-purethermal.html,Development Boards
+249,OpenMV Cam H7 Plus,$99.95,In stock,https://www.sparkfun.com/openmv-cam-h7-plus.html,Development Boards
+250,SparkFun Thing Plus - XBee3 Micro (Chip Antenna),$59.95,In stock,https://www.sparkfun.com/sparkfun-thing-plus-xbee3-micro-chip-antenna.html,Development Boards
+251,SparkFun Thing Plus - XBee3 Micro (U.FL),$56.50,In stock,https://www.sparkfun.com/sparkfun-thing-plus-xbee3-micro-u-fl.html,Development Boards
+252,SparkFun LumiDrive LED Driver,$25.50,In stock,https://www.sparkfun.com/sparkfun-lumidrive-led-driver.html,Development Boards
+253,Raspberry Pi PoE+ HAT,$31.00,In stock,https://www.sparkfun.com/raspberry-pi-poe-hat.html,Development Boards
+254,SparkFun Constellation MicroMod Kit,$29.95,Discontinued,https://www.sparkfun.com/sparkfun-constellation-micromod-kit.html,Development Boards
+255,SparkFun MicroMod mikroBUS Starter Kit,$59.95,In stock,https://www.sparkfun.com/sparkfun-micromod-mikrobus-starter-kit.html,Development Boards
+256,SparkFun Proximity Sensing Kit,$74.95,Discontinued,https://www.sparkfun.com/sparkfun-proximity-sensing-kit.html,Development Boards
+257,Elektor MIT App Inventor Bundle,$59.95,In stock,https://www.sparkfun.com/elektor-mit-app-inventor-bundle.html,Development Boards
+258,Elektor STM32 Nucleo Starter Kit,$39.95,In stock,https://www.sparkfun.com/elektor-stm32-nucleo-starter-kit.html,Development Boards
+259,Arduino Engineering Kit Rev2,$319.95,Discontinued,https://www.sparkfun.com/arduino-engineering-kit-rev2.html,Development Boards
+260,SparkFun JetBot AI Kit Powered by Jetson Nano 2GB,$224.95,Discontinued,https://www.sparkfun.com/sparkfun-jetbot-ai-kit-powered-by-jetson-nano-2gb.html,Development Boards
+261,Omega2+ Starter Kit,$125.00,Discontinued,https://www.sparkfun.com/omega2-starter-kit.html,Development Boards
+262,SparkFun Qwiic 12 Bit ADC - 4 Channel (ADS1015),$9.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-12-bit-adc-4-channel-ads1015.html,Development Boards
+263,SparkFun I2C DAC Breakout - MCP4725,$6.95,Backorder,https://www.sparkfun.com/sparkfun-i2c-dac-breakout-mcp4725.html,Development Boards
+264,Analog to Digital Converter - MCP3002,$2.75,In stock,https://www.sparkfun.com/analog-to-digital-converter-mcp3002.html,Development Boards
+265,SparkFun MicroMod Main Board - Single,$18.50,In stock,https://www.sparkfun.com/sparkfun-micromod-main-board-single.html,Development Boards
+266,Machinechat Software License Card - JEDI One,$197.00,In stock,https://www.sparkfun.com/machinechat-software-license-card-jedi-one.html,Development Boards
+267,SparkFun MicroMod Main Board - Double,$22.95,In stock,https://www.sparkfun.com/sparkfun-micromod-main-board-double.html,Development Boards
+268,W5500-EVB-Pico,$12.50,In stock,https://www.sparkfun.com/w5500-evb-pico.html,Development Boards
+269,TIMI to MikroBUS Adapter,$6.30,In stock,https://www.sparkfun.com/timi-to-mikrobus-adapter.html,Development Boards
+270,TIMI-MB Starter Kit,$33.95,In stock,https://www.sparkfun.com/timi-mb-starter-kit.html,Development Boards
+271,TIMI-MB,$25.95,In stock,https://www.sparkfun.com/timi-mb.html,Development Boards
+272,TIMI-96 Starter Kit,$33.95,In stock,https://www.sparkfun.com/timi-96-starter-kit.html,Development Boards
+273,TIMI-96,$25.95,In stock,https://www.sparkfun.com/timi-96.html,Development Boards
+274,SparkFun Cryptographic Co-Processor Breakout - ATECC608A (Qwiic),$5.05,In stock,https://www.sparkfun.com/sparkfun-cryptographic-co-processor-breakout-atecc608a-qwiic.html,Development Boards
+275,SparkFun MicroMod Qwiic Carrier Board - Double,$13.95,In stock,https://www.sparkfun.com/sparkfun-micromod-qwiic-carrier-board-double.html,Development Boards
+276,SparkFun MicroMod Qwiic Carrier Board - Single,$11.50,In stock,https://www.sparkfun.com/sparkfun-micromod-qwiic-carrier-board-single.html,Development Boards
+277,SparkFun Qwiic Shield for Thing Plus,$5.10,In stock,https://www.sparkfun.com/sparkfun-qwiic-shield-for-thing-plus.html,Development Boards
+278,SparkFun Cryptographic Co-Processor Breakout - ATECC508A (Qwiic),$7.85,In stock,https://www.sparkfun.com/sparkfun-cryptographic-co-processor-breakout-atecc508a-qwiic.html,Development Boards
+279,SparkFun Logomatic v2 - Serial SD Datalogger (FAT32),$69.95,In stock,https://www.sparkfun.com/sparkfun-logomatic-v2-serial-sd-datalogger-fat32.html,Development Boards
+280,SparkFun Big Red Box Proto Board,$13.50,In stock,https://www.sparkfun.com/sparkfun-big-red-box-proto-board.html,Development Boards
+281,SparkFun gamer:bit,$10.95,Discontinued,https://www.sparkfun.com/sparkfun-gamer-bit.html,Development Boards
+282,MI:pro Mountable Case for micro:bit V2,$5.75,In stock,https://www.sparkfun.com/mi-pro-mountable-case-for-micro-bit-v2.html,Development Boards
+283,MI:pro Protector Case for micro:bit V2,$6.75,In stock,https://www.sparkfun.com/mi-pro-protector-case-for-micro-bit-v2.html,Development Boards
+284,Kitronik MI:power Board V2,$7.95,In stock,https://www.sparkfun.com/kitronik-mi-power-board-v2.html,Development Boards
+285,SparkFun Inventor's Kit for micro:bit v2 Lab Pack,$460.00,In stock,https://www.sparkfun.com/sparkfun-inventor-s-kit-for-micro-bit-v2-lab-pack.html,Development Boards
+286,SparkFun Inventor's Kit for micro:bit v2,$53.50,In stock,https://www.sparkfun.com/sparkfun-inventor-s-kit-for-micro-bit-v2.html,Development Boards
+287,SparkFun Educator Lab Pack for micro:bit v2,$320.95,In stock,https://www.sparkfun.com/sparkfun-educator-lab-pack-for-micro-bit-v2.html,Development Boards
+288,micro:bit v2 Club Kit - Go Bundle 10-Pack,$199.95,In stock,https://www.sparkfun.com/micro-bit-v2-club-kit-go-bundle-10-pack.html,Development Boards
+289,micro:bit v2 Go Bundle,$24.95,In stock,https://www.sparkfun.com/micro-bit-v2-go-bundle.html,Development Boards
+290,micro:bit v2 Board,$16.50,In stock,https://www.sparkfun.com/micro-bit-v2-board.html,Development Boards
+291,"micro:bit Edge Connector - SMD, Right Angle (40-pin)",$4.50,In stock,https://www.sparkfun.com/micro-bit-edge-connector-smd-right-angle-40-pin.html,Development Boards
+292,Kitronik :MOVE mini MK2 buggy kit,$32.50,In stock,https://www.sparkfun.com/kitronik-move-mini-mk2-buggy-kit.html,Development Boards
+293,SparkFun Qwiic micro:bit Breakout (with Headers),$6.25,In stock,https://www.sparkfun.com/sparkfun-qwiic-micro-bit-breakout-with-headers.html,Development Boards
+294,SparkFun Qwiic micro:bit Breakout,$5.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-micro-bit-breakout.html,Development Boards
+295,SparkFun micro:arcade kit for micro:bit v2.0,$52.50,Discontinued,https://www.sparkfun.com/sparkfun-micro-arcade-kit-for-micro-bit-v2-0.html,Development Boards
+296,SparkFun micro:bot kit for micro:bit - v2.0,$77.50,In stock,https://www.sparkfun.com/sparkfun-micro-bot-kit-for-micro-bit-v2-0.html,Development Boards
+297,SparkFun micro:climate kit for micro:bit - v3.0,$119.95,In stock,https://www.sparkfun.com/sparkfun-micro-climate-kit-for-micro-bit-v3-0.html,Development Boards
+298,SparkFun controller:bit - micro:bit Carrier Board (Qwiic),$12.50,In stock,https://www.sparkfun.com/sparkfun-controller-bit-micro-bit-carrier-board-qwiic.html,Development Boards
+299,SparkFun weather:bit - micro:bit Carrier Board (Qwiic),$17.95,Backorder,https://www.sparkfun.com/sparkfun-weather-bit-micro-bit-carrier-board-qwiic.html,Development Boards
+300,SparkFun moto:bit - micro:bit Carrier Board (Qwiic),$28.50,Backorder,https://www.sparkfun.com/sparkfun-moto-bit-micro-bit-carrier-board-qwiic.html,Development Boards
+301,SparkFun gator:soil - micro:bit Accessory Board,$6.50,Discontinued,https://www.sparkfun.com/sparkfun-gator-soil-micro-bit-accessory-board.html,Development Boards
+302,micro:bit Battery Holder - 2xAAA (JST-PH),$2.50,In stock,https://www.sparkfun.com/micro-bit-battery-holder-2xaaa-jst-ph.html,Development Boards
+303,SparkFun Inventor's Kit Bridge Pack for micro:bit,$43.95,In stock,https://www.sparkfun.com/sparkfun-inventor-s-kit-bridge-pack-for-micro-bit.html,Development Boards
+304,Battery Holder - 2xAA (JST-PH),$1.75,In stock,https://www.sparkfun.com/battery-holder-2xaa-jst-ph.html,Development Boards
+305,Teensy 4.1 without Ethernet (Headers),$33.60,In stock,https://www.sparkfun.com/teensy-4-1-without-ethernet-headers.html,Development Boards
+306,Teensy 4.1 without Ethernet,$29.60,In stock,https://www.sparkfun.com/teensy-4-1-without-ethernet.html,Development Boards
+307,SparkFun MicroMod Teensy Processor,$24.95,In stock,https://www.sparkfun.com/sparkfun-micromod-teensy-processor.html,Development Boards
+308,Teensy 4 Audio Shield (Rev D),$9.80,In stock,https://www.sparkfun.com/teensy-4-audio-shield-rev-d.html,Development Boards
+309,Teensy Stackable Header Kit,$2.25,In stock,https://www.sparkfun.com/teensy-stackable-header-kit.html,Development Boards
+310,SparkFun gator:log - micro:bit Accessory Board,$13.95,In stock,https://www.sparkfun.com/sparkfun-gator-log-micro-bit-accessory-board.html,Development Boards
+311,SparkFun Digital Sandbox Add-On,$15.95,In stock,https://www.sparkfun.com/sparkfun-digital-sandbox-add-on.html,Development Boards
+312,SparkFun OpenLog Artemis (without IMU),$48.95,In stock,https://www.sparkfun.com/sparkfun-openlog-artemis-without-imu.html,Development Boards
+313,SparkFun Thing Plus Dual-Port Logging Shield,$32.95,In stock,https://www.sparkfun.com/sparkfun-thing-plus-dual-port-logging-shield.html,Development Boards
+314,SparkFun FTDI Starter Kit - 5V,$19.50,Discontinued,https://www.sparkfun.com/sparkfun-ftdi-starter-kit-5v.html,Development Boards
+315,SparkFun FTDI Starter Kit - 3.3V,$15.95,In stock,https://www.sparkfun.com/sparkfun-ftdi-starter-kit-3-3v.html,Development Boards
+316,SparkFun Qwiic OpenLog,$19.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-openlog.html,Development Boards
+317,The SparkFun Arduino Inventor's Guide,$32.50,Discontinued,https://www.sparkfun.com/the-sparkfun-arduino-inventor-s-guide.html,Development Boards
+318,SparkFun OpenLog with Headers,$21.50,In stock,https://www.sparkfun.com/sparkfun-openlog-with-headers.html,Development Boards
+319,SparkFun Beefy 3 - FTDI Basic Breakout,$18.95,In stock,https://www.sparkfun.com/sparkfun-beefy-3-ftdi-basic-breakout.html,Development Boards
+320,SparkFun MicroView - USB Programmer,$9.95,In stock,https://www.sparkfun.com/sparkfun-microview-usb-programmer.html,Development Boards
+321,ATmega328 with Arduino Optiboot (Uno),$6.50,In stock,https://www.sparkfun.com/atmega328-with-arduino-optiboot-uno.html,Development Boards
+322,SparkFun FTDI Basic Breakout - 3.3V,$14.95,In stock,https://www.sparkfun.com/sparkfun-ftdi-basic-breakout-3-3v.html,Development Boards
+323,SparkFun FTDI Basic Breakout - 5V,$17.50,In stock,https://www.sparkfun.com/sparkfun-ftdi-basic-breakout-5v.html,Development Boards
+324,SparkFun MicroMod ATP Carrier Board Constellation,$19.95,Discontinued,https://www.sparkfun.com/sparkfun-micromod-atp-carrier-board-constellation.html,Development Boards
+325,Arduino Fio,$10.83,In stock,https://www.sparkfun.com/arduino-fio.html,Development Boards
+326,Arduino Nano BLE Sense Rev2,$38.95,In stock,https://www.sparkfun.com/arduino-nano-ble-sense-rev2.html,Development Boards
+327,Arduino Nano BLE Sense Rev2 with Headers,$43.50,In stock,https://www.sparkfun.com/arduino-nano-ble-sense-rev2-with-headers.html,Development Boards
+328,SparkFun Qwiic Speaker Kit,$39.95,Discontinued,https://www.sparkfun.com/sparkfun-qwiic-speaker-kit.html,Development Boards
+329,SparkFun RedBoard Plus,$29.50,In stock,https://www.sparkfun.com/sparkfun-redboard-plus.html,Development Boards
+330,SparkFun MicroMod nRF52840 Processor,$29.50,In stock,https://www.sparkfun.com/sparkfun-micromod-nrf52840-processor.html,Development Boards
+331,SparkFun MicroMod ATP Carrier Board,$20.50,In stock,https://www.sparkfun.com/sparkfun-micromod-atp-carrier-board.html,Development Boards
+332,"SparkFun Pro RF - LoRa, 915MHz (SAMD21)",$36.95,In stock,https://www.sparkfun.com/sparkfun-pro-rf-lora-915mhz-samd21.html,Development Boards
+333,Arduino Nano Every,$13.70,Backorder,https://www.sparkfun.com/arduino-nano-every.html,Development Boards
+334,Arduino Nano 33 IoT with Headers,$31.95,Backorder,https://www.sparkfun.com/arduino-nano-33-iot-with-headers.html,Development Boards
+335,Arduino Nano 33 BLE,$32.95,Discontinued,https://www.sparkfun.com/arduino-nano-33-ble.html,Development Boards
+336,SparkFun Thing Plus - Artemis,$25.95,In stock,https://www.sparkfun.com/sparkfun-thing-plus-artemis.html,Development Boards
+337,SparkFun Artemis Module - Low Power Machine Learning BLE Cortex-M4F,$9.95,In stock,https://www.sparkfun.com/sparkfun-artemis-module-low-power-machine-learning-ble-cortex-m4f.html,Development Boards
+338,SparkFun RedBoard Artemis Nano,$19.95,In stock,https://www.sparkfun.com/sparkfun-redboard-artemis-nano.html,Development Boards
+339,SparkFun RedBoard Artemis ATP,$30.95,In stock,https://www.sparkfun.com/sparkfun-redboard-artemis-atp.html,Development Boards
+340,SparkFun Pro nRF52840 Mini - Bluetooth Development Board,$41.50,In stock,https://www.sparkfun.com/sparkfun-pro-nrf52840-mini-bluetooth-development-board.html,Development Boards
+341,SparkFun AST-CAN485 Dev Board,$55.95,In stock,https://www.sparkfun.com/sparkfun-ast-can485-dev-board.html,Development Boards
+342,Qduino Mini - Arduino Dev Board,$35.95,In stock,https://www.sparkfun.com/qduino-mini-arduino-dev-board.html,Development Boards
+343,Bare Conductive Touch Board,$64.50,Out of stock,https://www.sparkfun.com/bare-conductive-touch-board.html,Development Boards
+344,SparkFun MicroView - OLED Arduino Module,$47.95,Discontinued,https://www.sparkfun.com/sparkfun-microview-oled-arduino-module.html,Development Boards
+345,Pro Micro - 5V/16MHz,$22.50,Backorder,https://www.sparkfun.com/pro-micro-5v-16mhz.html,Development Boards
+346,Pro Micro - 3.3V/8MHz,$21.50,In stock,https://www.sparkfun.com/pro-micro-3-3v-8mhz.html,Development Boards
+347,Arduino Uno - R3 SMD,$26.30,In stock,https://www.sparkfun.com/arduino-uno-r3-smd.html,Development Boards
+348,Arduino Pro Mini 328 - 3.3V/8MHz,$11.25,In stock,https://www.sparkfun.com/arduino-pro-mini-328-3-3v-8mhz.html,Development Boards
+349,Arduino Pro Mini 328 - 5V/16MHz,$11.25,In stock,https://www.sparkfun.com/arduino-pro-mini-328-5v-16mhz.html,Development Boards
+350,Arduino Mega 2560 R3,$48.40,Backorder,https://www.sparkfun.com/arduino-mega-2560-r3.html,Development Boards
+351,Arduino Uno - R3,$27.60,In stock,https://www.sparkfun.com/arduino-uno-r3.html,Development Boards
+352,Arduino Pro 328 - 3.3V/8MHz,$18.50,In stock,https://www.sparkfun.com/arduino-pro-328-3-3v-8mhz.html,Development Boards
+353,SparkFun Qwiic Shield for Teensy - Extended,$2.38,In stock,https://www.sparkfun.com/sparkfun-qwiic-shield-for-teensy-extended.html,Development Boards
+354,SparkFun Qwiic Shield for Teensy,$1.40,Out of stock,https://www.sparkfun.com/sparkfun-qwiic-shield-for-teensy.html,Development Boards
+355,MyoWare 2.0 Arduino Shield,$10.25,In stock,https://www.sparkfun.com/myoware-2-0-arduino-shield.html,Development Boards
+356,SparkFun Qwiic Shield for Arduino Nano,$5.50,In stock,https://www.sparkfun.com/sparkfun-qwiic-shield-for-arduino-nano.html,Development Boards
+357,Teensy Arduino Shield Adapter,$15.50,In stock,https://www.sparkfun.com/teensy-arduino-shield-adapter.html,Development Boards
+358,EasyVR 3 Plus Shield for Arduino,$53.50,Out of stock,https://www.sparkfun.com/easyvr-3-plus-shield-for-arduino.html,Development Boards
+359,SparkFun LTE CAT M1/NB-IoT Shield - SARA-R4 (with Hologram SIM Card),$96.50,Discontinued,https://www.sparkfun.com/sparkfun-lte-cat-m1-nb-iot-shield-sara-r4-with-hologram-sim-card.html,Development Boards
+360,SparkFun LTE CAT M1/NB-IoT Shield - SARA-R4,$90.95,Discontinued,https://www.sparkfun.com/sparkfun-lte-cat-m1-nb-iot-shield-sara-r4.html,Development Boards
+361,SparkFun Qwiic Shield for Arduino,$7.75,In stock,https://www.sparkfun.com/sparkfun-qwiic-shield-for-arduino.html,Development Boards
+362,SparkFun Wireless Motor Driver Shield,$26.95,In stock,https://www.sparkfun.com/sparkfun-wireless-motor-driver-shield.html,Development Boards
+363,SparkFun Ardumoto Shield Kit,$36.50,In stock,https://www.sparkfun.com/sparkfun-ardumoto-shield-kit.html,Development Boards
+364,SparkFun Ardumoto - Motor Driver Shield,$24.95,In stock,https://www.sparkfun.com/sparkfun-ardumoto-motor-driver-shield.html,Development Boards
+365,SparkFun Weather Shield,$42.95,Discontinued,https://www.sparkfun.com/sparkfun-weather-shield.html,Development Boards
+366,SparkFun ProtoShield Kit,$14.95,In stock,https://www.sparkfun.com/sparkfun-protoshield-kit.html,Development Boards
+367,SparkFun Arduino ProtoShield - Bare PCB,$6.95,In stock,https://www.sparkfun.com/sparkfun-arduino-protoshield-bare-pcb.html,Development Boards
+368,SparkFun WiFi Shield - ESP8266,$19.50,In stock,https://www.sparkfun.com/sparkfun-wifi-shield-esp8266.html,Development Boards
+369,CAN-BUS Shield,$35.95,In stock,https://www.sparkfun.com/can-bus-shield.html,Development Boards
+370,SparkFun Spectrum Shield,$29.95,In stock,https://www.sparkfun.com/sparkfun-spectrum-shield.html,Development Boards
+371,SparkFun MIDI Shield,$24.50,In stock,https://www.sparkfun.com/sparkfun-midi-shield.html,Development Boards
+372,SparkFun XBee Shield,$21.50,In stock,https://www.sparkfun.com/sparkfun-xbee-shield.html,Development Boards
+373,SparkFun MP3 Player Shield,$35.95,In stock,https://www.sparkfun.com/sparkfun-mp3-player-shield.html,Development Boards
+374,Mux Shield II,$28.50,Discontinued,https://www.sparkfun.com/mux-shield-ii.html,Development Boards
+375,SparkFun Music Instrument Shield,$39.95,In stock,https://www.sparkfun.com/sparkfun-music-instrument-shield.html,Development Boards
+376,Silicon Labs BGM220 Explorer Kit,$12.45,In stock,https://www.sparkfun.com/silicon-labs-bgm220-explorer-kit.html,Development Boards
+377,NVIDIA Jetson Nano 2GB Developer Kit,$63.50,Discontinued,https://www.sparkfun.com/nvidia-jetson-nano-2gb-developer-kit.html,Development Boards
+378,SparkFun Artemis Development Kit with Camera,$54.95,Discontinued,https://www.sparkfun.com/sparkfun-artemis-development-kit-with-camera.html,Development Boards
+379,SparkFun MicroMod STM32 Processor,$20.50,In stock,https://www.sparkfun.com/sparkfun-micromod-stm32-processor.html,Development Boards
+380,SparkFun Thing Plus - DA16200,$14.95,Discontinued,https://www.sparkfun.com/sparkfun-thing-plus-da16200.html,Development Boards
+381,SparkFun MicroMod WiFi Function Board - DA16200,$29.95,In stock,https://www.sparkfun.com/sparkfun-micromod-wifi-function-board-da16200.html,Development Boards
+382,SparkFun Qwiic WiFi Shield - DA16200,$19.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-wifi-shield-da16200.html,Development Boards
+383,SparkFun Thing Plus - nRF9160,$139.95,Discontinued,https://www.sparkfun.com/sparkfun-thing-plus-nrf9160.html,Development Boards
+384,Raspberry Pi Compute Module 3+ Lite,$27.50,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-3-lite.html,Development Boards
+385,SparkFun Artemis Development Kit,$21.83,Discontinued,https://www.sparkfun.com/sparkfun-artemis-development-kit.html,Development Boards
+386,SparkFun MicroMod SAMD51 Processor,$18.95,In stock,https://www.sparkfun.com/sparkfun-micromod-samd51-processor.html,Development Boards
+387,NVIDIA Jetson Nano Developer Kit (V3),$149.00,Discontinued,https://www.sparkfun.com/nvidia-jetson-nano-developer-kit-v3.html,Development Boards
+388,SparkFun Qwiic Micro - SAMD21 Development Board,$22.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-micro-samd21-development-board.html,Development Boards
+389,SparkFun Edge Development Board - Apollo3 Blue,$16.50,Discontinued,https://www.sparkfun.com/sparkfun-edge-development-board-apollo3-blue.html,Development Boards
+390,SparkFun RedBoard Turbo - SAMD21 Development Board,$22.50,In stock,https://www.sparkfun.com/sparkfun-redboard-turbo-samd21-development-board.html,Development Boards
+391,SparkFun Thing Plus - SAMD51,$25.50,Backorder,https://www.sparkfun.com/sparkfun-thing-plus-samd51.html,Development Boards
+392,SparkFun SAMD21 Development Breakout,$14.95,In stock,https://www.sparkfun.com/sparkfun-samd21-dev-breakout.html,Development Boards
+393,SparkFun SAMD21 Mini Breakout,$24.95,In stock,https://www.sparkfun.com/sparkfun-samd21-mini-breakout.html,Development Boards
+394,BeagleBone Blue,$82.00,Discontinued,https://www.sparkfun.com/beaglebone-blue.html,Development Boards
+395,BeagleBone Black - Rev C,$69.95,In stock,https://www.sparkfun.com/beaglebone-black-rev-c.html,Development Boards
+396,bladeRF x40,$520.00,Discontinued,https://www.sparkfun.com/bladerf-x40.html,Development Boards
+397,SparkFun MicroMod Alorium Sno M2 Processor,$49.95,Discontinued,https://www.sparkfun.com/sparkfun-micromod-alorium-sno-m2-processor.html,Development Boards
+398,Alchitry Ft Element Board,$32.50,In stock,https://www.sparkfun.com/alchitry-ft-element-board.html,Development Boards
+399,Alchitry Io Element Board,$26.95,Discontinued,https://www.sparkfun.com/alchitry-io-element-board.html,Development Boards
+400,SparkFun QuickLogic Thing Plus - EOS S3,$49.50,In stock,https://www.sparkfun.com/sparkfun-quicklogic-thing-plus-eos-s3.html,Development Boards
+401,Alchitry Au FPGA Development Board (Xilinx Artix 7),$109.95,Discontinued,https://www.sparkfun.com/alchitry-au-fpga-development-board-xilinx-artix-7.html,Development Boards
+402,Alchitry Cu FPGA Development Board (Lattice iCE40 HX),$53.50,In stock,https://www.sparkfun.com/alchitry-cu-fpga-development-board-lattice-ice40-hx.html,Development Boards
+403,Alchitry Br Prototype Element Board,$16.50,In stock,https://www.sparkfun.com/alchitry-br-prototype-element-board.html,Development Boards
+404,Alchitry Au FPGA Kit,$144.95,Discontinued,https://www.sparkfun.com/alchitry-au-fpga-kit.html,Development Boards
+405,PICAXE 08M2 Microcontroller (8 pin),$3.50,In stock,https://www.sparkfun.com/picaxe-08m2-microcontroller-8-pin.html,Development Boards
+406,PICAXE 18M2+ Microcontroller (18 pin),$5.50,In stock,https://www.sparkfun.com/picaxe-18m2-microcontroller-18-pin.html,Development Boards
+407,AVR 8 Pin 20MHz 8K 4A/D - ATtiny85,$3.50,In stock,https://www.sparkfun.com/avr-8-pin-20mhz-8k-4a-d-attiny85.html,Development Boards
+408,IOIO-OTG - v2.2,$49.95,In stock,https://www.sparkfun.com/ioio-otg-v2-2.html,Development Boards
+409,USB 32-Bit Whacker - PIC32MX795 Development Board,$56.95,In stock,https://www.sparkfun.com/usb-32-bit-whacker-pic32mx795-development-board.html,Development Boards
+410,Espressif JTAG Debugger - ESP-PROG,$12.00,Backorder,https://www.sparkfun.com/esp-prog.html,Development Boards
+411,Raspberry Pi M.2 HAT+ Compact,$27.00,In stock,https://www.sparkfun.com/raspberry-pi-m-2-hat-compact.html,Development Boards
+412,Raspberry Pi Radio Module 2 (RMC20452T),$4.60,In stock,https://www.sparkfun.com/raspberry-pi-radio-module-rmc20452t.html,Development Boards
+413,Raspberry Pi 500 Kit,$160.00,In stock,https://www.sparkfun.com/raspberry-pi-500-kit.html,Development Boards
+414,Raspberry Pi 500 (Unit Only),$140.00,In stock,https://www.sparkfun.com/raspberry-pi-500-unit-only.html,Development Boards
+415,Raspberry Pi 500+ (Unit Only),$280.00,In stock,https://www.sparkfun.com/raspberry-pi-500-plus-unit-only.html,Development Boards
+416,Raspberry Pi 500+ Kit,$300.00,Out of stock,https://www.sparkfun.com/raspberry-pi-500-plus-kit.html,Development Boards
+417,SparkFun GNSS Flex pHAT - LG290P & IM19 IMU,$399.95,In stock,https://www.sparkfun.com/sparkfun-gnss-flex-phat-lg290p-im19-imu.html,Development Boards
+418,SparkFun GNSS Flex pHAT - ZED-X20P,$299.95,In stock,https://www.sparkfun.com/sparkfun-gnss-flex-phat-zed-x20p.html,Development Boards
+419,SparkFun GNSS Flex pHAT - ZED-X20P & IM19 IMU,$599.95,In stock,https://www.sparkfun.com/sparkfun-gnss-flex-phat-zed-x20p-im19-imu.html,Development Boards
+420,Raspberry Pi Touch Display 2 (5” Portrait),$64.00,In stock,https://www.sparkfun.com/raspberry-pi-touch-display-2-5-portrait.html,Development Boards
+421,Raspberry Pi Hat Hardware Kit,$9.95,In stock,https://www.sparkfun.com/raspberry-pi-hat-hardware-kit.html,Development Boards
+422,Raspberry Pi Compute Module 5 IO Case,$40.00,Backorder,https://www.sparkfun.com/raspberry-pi-compute-module-5-io-case.html,Development Boards
+423,Raspberry Pi Compute Module 5 Passive Cooler,$15.00,In stock,https://www.sparkfun.com/raspberry-pi-compute-module-5-passive-cooler.html,Development Boards
+424,Raspberry Pi 4 Compute Module Antenna Kit,$15.00,Backorder,https://www.sparkfun.com/raspberry-pi-4-compute-module-antenna-kit.html,Development Boards
+425,Raspberry Pi 5 Desktop Kit (No board),$75.00,In stock,https://www.sparkfun.com/raspberry-pi-5-desktop-kit-no-board.html,Development Boards
+426,Raspberry Pi RP2350A Microcontroller IC,$1.20,In stock,https://www.sparkfun.com/raspberry-pi-rp2350-microcontroller.html,Development Boards
+427,Raspberry Pi 4 Official Case (Red/White),$7.75,In stock,https://www.sparkfun.com/raspberry-pi-4-official-case-red-white.html,Development Boards
+428,Raspberry Pi Monitor - Red/White,$110.00,Out of stock,https://www.sparkfun.com/raspberry-pi-monitor-red-white.html,Development Boards
+429,Raspberry Pi Monitor - Black,$110.00,Out of stock,https://www.sparkfun.com/raspberry-pi-monitor-black.html,Development Boards
+430,Raspberry Pi Global Shutter Camera,$63.75,In stock,https://www.sparkfun.com/raspberry-pi-global-shutter-camera.html,Development Boards
+431,Raspberry Pi Camera Module 3 NoIR,$32.95,In stock,https://www.sparkfun.com/raspberry-pi-camera-module-3-noir.html,Development Boards
+432,Raspberry Pi Camera Module 3 NoIR - Wide Angle,$45.05,In stock,https://www.sparkfun.com/raspberry-pi-camera-module-3-noir-wide-angle.html,Development Boards
+433,M12 Mount 12 MP 8mm Lens,$49.95,In stock,https://www.sparkfun.com/m12-mount-12-mp-8mm-lens.html,Development Boards
+434,M12 Mount 5 MP 25mm Lens,$27.50,In stock,https://www.sparkfun.com/m12-mount-5-mp-25mm-lens.html,Development Boards
+435,Raspberry Pi 5 Camera Cable - 500mm,$8.00,In stock,https://www.sparkfun.com/raspberry-pi-5-camera-cable-500mm.html,Development Boards
+436,Raspberry Pi 5 Camera Cable - 300mm,$6.00,In stock,https://www.sparkfun.com/raspberry-pi-5-camera-cable-300mm.html,Development Boards
+437,Raspberry Pi 5 Display Cable - 200mm,$2.50,In stock,https://www.sparkfun.com/raspberry-pi-5-display-cable-200mm.html,Development Boards
+438,Raspberry Pi 5 Camera Cable - 200mm,$2.50,In stock,https://www.sparkfun.com/raspberry-pi-5-camera-cable-200mm.html,Development Boards
+439,Raspberry Pi 5 Case - Black/Grey,$12.05,In stock,https://www.sparkfun.com/raspberry-pi-5-case-black-grey.html,Development Boards
+440,Raspberry Pi 5 Case - Red/White,$12.05,In stock,https://www.sparkfun.com/raspberry-pi-5-case-red-white.html,Development Boards
+441,Raspberry Pi SSD Kit for Raspberry Pi - 256GB,$62.00,Out of stock,https://www.sparkfun.com/raspberry-pi-ssd-kit-for-raspberry-pi-256gb.html,Development Boards
+442,Raspberry Pi AI Camera,$90.15,In stock,https://www.sparkfun.com/raspberry-pi-ai-camera.html,Development Boards
+443,Raspberry Pi RP2040 Microcontroller IC,$1.00,In stock,https://www.sparkfun.com/raspberry-pi-rp2040-microcontroller-ic.html,Development Boards
+444,ATMEGA2560-16AUR Microcontroller,$17.95,In stock,https://www.sparkfun.com/atmega2560-16aur.html,Development Boards
+445,SparkFun Inventor's Kit Lab Pack - v4.1.2,$989.95,In stock,https://www.sparkfun.com/sparkfun-inventor-s-kit-lab-pack-v4-1-2.html,Development Boards
+446,SparkFun Arduino IoT Weather Station,$129.95,In stock,https://www.sparkfun.com/sparkfun-arduino-iot-weather-station.html,Development Boards
+447,Raspberry Pi Camera Module 3 - Wide Angle,$45.05,Out of stock,https://www.sparkfun.com/raspberry-pi-camera-module-3-wide-angle.html,Development Boards
+448,Raspberry Pi Camera Module 3,$32.95,In stock,https://www.sparkfun.com/raspberry-pi-camera-module-3.html,Development Boards
+449,Raspberry Pi Pico 2 W,$7.70,In stock,https://www.sparkfun.com/raspberry-pi-pico-2-w.html,Development Boards
+450,MPLAB PICkit 4 In-Circuit Debugger,$124.95,In stock,https://www.sparkfun.com/mplab-pickit-4-in-circuit-debugger.html,Development Boards
+451,Raspberry Pi 400 Personal Computer (Unit Only),$77.00,In stock,https://www.sparkfun.com/raspberry-pi-400-personal-computer-unit-only.html,Development Boards
+452,Raspberry Pi 400 Personal Computer Kit,$110.00,In stock,https://www.sparkfun.com/raspberry-pi-400-personal-computer-kit.html,Development Boards
+453,Raspberry Pi 4 Case Fan,$5.80,In stock,https://www.sparkfun.com/raspberry-pi-4-case-fan.html,Development Boards
+454,Raspberry Pi Camera Module - Pi NoIR V2,$46.45,Out of stock,https://www.sparkfun.com/raspberry-pi-camera-module-pi-noir-v2.html,Development Boards
+455,SparkFun MicroMod RP2040 Processor,$13.95,Discontinued,https://www.sparkfun.com/sparkfun-micromod-rp2040-processor.html,Development Boards
+456,SparkFun Pi Wedge,$13.50,In stock,https://www.sparkfun.com/sparkfun-pi-wedge.html,Development Boards
+457,"Pimoroni Pico Display Pack 2.8""",$24.95,In stock,https://www.sparkfun.com/pimoroni-pico-display-pack-2-8.html,Development Boards
+458,Raspberry Pi Micro USB to USB-C Adapter - Black,$1.75,In stock,https://www.sparkfun.com/raspberry-pi-micro-usb-to-usb-c-adapter-black.html,Development Boards
+459,Raspberry Pi 45W USB-C Power Supply,$20.15,In stock,https://www.sparkfun.com/raspberry-pi-45w-usb-c-power-supply.html,Development Boards
+460,Raspberry Pi Pico Debug Cable,$3.75,In stock,https://www.sparkfun.com/raspberry-pi-pico-debug-cable.html,Development Boards
+461,SparkFun Noobs Card for Raspberry Pi (16GB),$19.95,Discontinued,https://www.sparkfun.com/sparkfun-noobs-card-for-raspberry-pi-16gb.html,Development Boards
+462,Raspberry Pi SSD Kit for Raspberry Pi - 512GB,$85.25,In stock,https://www.sparkfun.com/raspberry-pi-ssd-kit-for-raspberry-pi-512gb.html,Development Boards
+463,Raspberry Pi AI HAT+ (13 TOPS),$84.00,In stock,https://www.sparkfun.com/raspberry-pi-ai-hat-13-tops.html,Development Boards
+464,Raspberry Pi AI HAT+ (26 TOPS),$132.00,In stock,https://www.sparkfun.com/raspberry-pi-ai-hat-26-tops.html,Development Boards
+465,pi-topCEED (Green),$99.95,Discontinued,https://www.sparkfun.com/pi-topceed-green.html,Development Boards
+466,Pi Zero USB Stem,$4.95,In stock,https://www.sparkfun.com/pi-zero-usb-stem.html,Development Boards
+467,Raspberry Pi A2-Class SD Card - 32GB,$12.00,In stock,https://www.sparkfun.com/raspberry-pi-a2-class-sd-card-32gb.html,Development Boards
+468,Raspberry Pi A2-Class SD Card - 64GB,$18.00,Discontinued,https://www.sparkfun.com/raspberry-pi-a2-class-sd-card-64gb.html,Development Boards
+469,Raspberry Pi Active Cooler,$15.00,In stock,https://www.sparkfun.com/raspberry-pi-active-cooler.html,Development Boards
+470,Raspberry Pi RTC Battery,$7.10,In stock,https://www.sparkfun.com/raspberry-pi-rtc-battery.html,Development Boards
+471,Raspberry Pi 27W USB-C PD Power Supply - White,$17.25,In stock,https://www.sparkfun.com/raspberry-pi-27w-usb-c-pd-power-supply-white.html,Development Boards
+472,SparkFun Qwiic Starter Kit for Raspberry Pi,$61.50,In stock,https://www.sparkfun.com/sparkfun-qwiic-starter-kit-for-raspberry-pi.html,Development Boards
+473,Raspberry Pi 27W USB-C PD Power Supply - Black,$17.25,In stock,https://www.sparkfun.com/raspberry-pi-27w-usb-c-pd-power-supply-black.html,Development Boards
+474,Raspberry Pi USB 3.0 Hub,$18.60,In stock,https://www.sparkfun.com/raspberry-pi-usb-3-0-hub.html,Development Boards
+475,Raspberry Pi SSD - 256GB,$46.50,Out of stock,https://www.sparkfun.com/raspberry-pi-ssd-256gb.html,Development Boards
+476,Kitronik Discovery Kit for Raspberry Pi Pico (Pico Not Included),$15.95,Discontinued,https://www.sparkfun.com/kitronik-discovery-kit-for-raspberry-pi-pico-pico-not-included.html,Development Boards
+477,IPS Touch Display with Speakers for Raspberry Pi - 10.1 Inch,$119.95,Discontinued,https://www.sparkfun.com/ips-touch-display-with-speakers-for-raspberry-pi-10-1-inch.html,Development Boards
+478,SparkFun Arduino UNO R4 WiFi Qwiic Kit,$104.95,Discontinued,https://www.sparkfun.com/sparkfun-arduino-uno-r4-wifi-qwiic-kit.html,Development Boards
+479,Official Raspberry Pi 3A+ Case - Red/White,$5.25,In stock,https://www.sparkfun.com/official-raspberry-pi-3a-case-red-white.html,Development Boards
+480,micro:bit Battery Box with Switch,$3.95,In stock,https://www.sparkfun.com/micro-bit-battery-box-with-switch.html,Development Boards
+481,micro:bit Battery Box,$3.75,In stock,https://www.sparkfun.com/micro-bit-battery-box.html,Development Boards
+482,micro:bit USB Cable 300mm - Black,$3.75,In stock,https://www.sparkfun.com/micro-bit-usb-cable-300mm-black.html,Development Boards
+483,micro:bit USB Cable 300mm - Green,$3.75,In stock,https://www.sparkfun.com/micro-bit-usb-cable-300mm-green.html,Development Boards
+484,Gravity: Huskylens AI Vision Sensor,$34.95,In stock,https://www.sparkfun.com/gravity-huskylens-ai-vision-sensor.html,Development Boards
+485,Gravity: Huskylens AI Vision Sensor with Qwiic Cable,$35.95,In stock,https://www.sparkfun.com/gravity-huskylens-ai-vision-sensor-with-qwiic-cable-kit.html,Development Boards
+486,"micro:bit Edge Connector - PTH, Right Angle (80-pin)",$2.95,In stock,https://www.sparkfun.com/micro-bit-edge-connector-pth-right-angle-80-pin.html,Development Boards
+487,Person Sensor by Useful Sensors,$9.95,Discontinued,https://www.sparkfun.com/person-sensor-by-useful-sensors.html,Development Boards
+488,NVIDIA Jetson Nano 2GB Developer Kit (without Wireless Adaptor),$54.00,Discontinued,https://www.sparkfun.com/nvidia-jetson-nano-2gb-developer-kit-without-wireless-adaptor-dev-17283.html,Development Boards
+489,Raspberry Pi High Quality Camera M12 Mount,$63.75,In stock,https://www.sparkfun.com/raspberry-pi-high-quality-camera-m12-mount.html,Development Boards
+490,ArduCam 64MP Autofocus Camera Module,$109.95,In stock,https://www.sparkfun.com/arducam-64mp-autofocus-camera-module.html,Development Boards
+491,"USB-C Wall Adapter - 5.1V, 3A (Black)",$4.25,In stock,https://www.sparkfun.com/usb-c-wall-adapter-5-1v-3a-black.html,Development Boards
+492,SparkFun GNSS Flex pHAT - mosaic-X5,$649.95,In stock,https://www.sparkfun.com/sparkfun-gnss-flex-phat-mosaic-x5.html,Development Boards
+493,"Shrouded GPIO Header (PTH, 0.1in., 2x13-Pin)",$0.24,In stock,https://www.sparkfun.com/shrouded-gpio-header-pth-0-1in-2x13-pin.html,Development Boards
+494,Arducam Camera Module V3 with Autofocus,$46.95,In stock,https://www.sparkfun.com/arducam-camera-module-v3-with-autofocus.html,Development Boards
+495,SparkFun GNSS Flex pHAT - LG290P,$174.95,In stock,https://www.sparkfun.com/sparkfun-gnss-flex-phat-lg290p.html,Development Boards
+496,Raspberry Pi Pico Header Kit,$1.50,In stock,https://www.sparkfun.com/raspberry-pi-pico-header-kit.html,Development Boards
+497,Raspberry Pi HQ Camera Lens - 6mm Wide Angle,$65.00,Out of stock,https://www.sparkfun.com/raspberry-pi-hq-camera-lens-6mm-wide-angle.html,Development Boards
+498,SparkFun Tinker Kit,$55.50,In stock,https://www.sparkfun.com/sparkfun-tinker-kit.html,Development Boards
+499,"Extended GPIO Header - Female (PTH, 0.1in., 2x20-Pin, 13.5mm/9.80mm)",$3.25,In stock,https://www.sparkfun.com/extended-gpio-header-female-pth-0-1in-2x20-pin-13-5mm-9-80mm.html,Development Boards
+500,Raspberry Pi HQ Camera Lens - 16mm Telephoto,$125.00,In stock,https://www.sparkfun.com/raspberry-pi-hq-camera-lens-16mm-telephoto.html,Development Boards
+501,"Extended GPIO Header - Female (PTH, 0.1in., 2x20-Pin, 16mm/7.30mm)",$3.25,In stock,https://www.sparkfun.com/extended-gpio-header-female-pth-0-1in-2x20-pin-16mm-7-30mm.html,Development Boards
+502,Raspberry Pi HQ Camera Module,$63.75,In stock,https://www.sparkfun.com/raspberry-pi-hq-camera-module.html,Development Boards
+503,Raspberry Pi Camera Module V2,$48.00,In stock,https://www.sparkfun.com/raspberry-pi-camera-module-v2.html,Development Boards
+504,SparkFun FT231X Breakout Kit,$17.50,Discontinued,https://www.sparkfun.com/sparkfun-ft231x-breakout-kit.html,Development Boards
+505,"GPIO Header - Male (PTH, 0.1in., 2x20-Pin)",$1.10,In stock,https://www.sparkfun.com/gpio-header-male-pth-0-1in-2x20-pin.html,Development Boards
+506,"Insulated GPIO Header - Female (PTH, 0.1in., 2x20-Pin)",$3.50,In stock,https://www.sparkfun.com/insulated-gpio-header-female-pth-0-1in-2x20-pin.html,Development Boards
+507,"Shrouded GPIO Header (PTH, 0.1in., 2x20-Pin)",$1.05,In stock,https://www.sparkfun.com/shrouded-gpio-header-pth-0-1in-2x20-pin.html,Development Boards
+508,Raspberry Pi 12.5W Micro-USB Power Adapter (US),$11.30,In stock,https://www.sparkfun.com/raspberry-pi-12-5w-micro-usb-power-adapter-us.html,Development Boards
+509,Raspberry Pi Build HAT Power Supply - 48W,$21.35,In stock,https://www.sparkfun.com/raspberry-pi-build-hat-power-supply-48w.html,Development Boards
+510,"Raspberry Pi Wall Adapter Power Supply - 5.1VDC, 3.0A, 15.3W (USB-C)",$16.00,In stock,https://www.sparkfun.com/raspberry-pi-wall-adapter-power-supply-5-1vdc-3-0a-15-3w-usb-c.html,Development Boards
+511,Raspberry Pi Official HDMI Cable (1m),$9.00,In stock,https://www.sparkfun.com/raspberry-pi-official-hdmi-cable-1m.html,Development Boards
+512,Raspberry Pi Official Micro HDMI to HDMI-A Cable (2m),$14.00,In stock,https://www.sparkfun.com/raspberry-pi-official-micro-hdmi-to-hdmi-a-cable-2m.html,Development Boards
+513,Raspberry Pi Official Micro HDMI to HDMI-A Cable (1m),$11.00,In stock,https://www.sparkfun.com/raspberry-pi-official-micro-hdmi-to-hdmi-a-cable-1m.html,Development Boards
+514,Micro HDMI Cable - 3ft,$8.95,In stock,https://www.sparkfun.com/micro-hdmi-cable-3ft.html,Development Boards
+515,Macchina OBD-II Extender Cable,$47.95,In stock,https://www.sparkfun.com/macchina-obd-ii-extender-cable.html,Development Boards
+516,Mini HDMI Cable - 3ft,$6.75,In stock,https://www.sparkfun.com/mini-hdmi-cable-3ft.html,Development Boards
+517,Espressif Module Prog 1 - ESP32 WROOM Module Programmer,$17.00,In stock,https://www.sparkfun.com/espressif-module-prog-1-esp32-wroom-module-programmer.html,Development Boards
+518,Real Time Clock Module (RV-1805-C3),$5.50,In stock,https://www.sparkfun.com/real-time-clock-module-rv-1805-c3.html,Development Boards
+519,Raspberry Pi Zero Camera Cable,$9.00,In stock,https://www.sparkfun.com/raspberry-pi-zero-camera-cable.html,Development Boards
+520,"Raspberry Pi GPIO Ribbon Cable - 40-pin, 6"" (RPi 3, RPi2, B+)",$4.00,In stock,https://www.sparkfun.com/raspberry-pi-gpio-ribbon-cable-40-pin-6-rpi-3-rpi2-b.html,Development Boards
+521,Pi Zero Micro-B to USB A socket - 5in,$3.95,In stock,https://www.sparkfun.com/pi-zero-micro-usb-to-usb-a-socket-5in.html,Development Boards
+522,Wall Adapter Power Supply - 5.1V DC 2.5A (USB Micro-B),$13.95,In stock,https://www.sparkfun.com/wall-adapter-power-supply-5-1v-dc-2-5a-usb-micro-b.html,Development Boards
+523,AVR Programming Cable,$2.25,In stock,https://www.sparkfun.com/avr-programming-cable.html,Development Boards
+524,Arduino Nano Stackable Header Set,$2.50,In stock,https://www.sparkfun.com/arduino-nano-stackable-header-set.html,Development Boards
+525,SparkFun Raspberry Pi 4 Desktop Kit - 8GB,$192.95,Discontinued,https://www.sparkfun.com/sparkfun-raspberry-pi-4-desktop-kit-8gb.html,Development Boards
+526,Feather Stackable Header Set,$2.25,In stock,https://www.sparkfun.com/feather-stackable-header-set.html,Development Boards
+527,SparkFun Qwiic SHIM for Raspberry Pi,$1.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-shim-for-raspberry-pi.html,Development Boards
+528,Arduino Stackable Header Kit - R3,$2.75,In stock,https://www.sparkfun.com/arduino-stackable-header-kit-r3.html,Development Boards
+529,Argon ONE Raspberry Pi 4 Case,$26.95,Discontinued,https://www.sparkfun.com/argon-one-raspberry-pi-4-case.html,Development Boards
+530,"IBM TJBot, a Watson Maker Kit",$125.00,Discontinued,https://www.sparkfun.com/ibm-tjbot-a-watson-maker-kit.html,Development Boards
+531,"Stackable Header - Female (PTH, 0.1in., 10-Pin)",$0.95,In stock,https://www.sparkfun.com/stackable-header-female-pth-0-1in-10-pin.html,Development Boards
+532,Arduino and Breadboard Holder,$6.50,In stock,https://www.sparkfun.com/arduino-and-breadboard-holder.html,Development Boards
+533,"JST-SH Jumper 8 Wire Assembly - 8""",$1.05,In stock,https://www.sparkfun.com/mega-pro-mini-cable-8-8-wire.html,Development Boards
+534,Arduino Stackable Header Kit,$2.50,In stock,https://www.sparkfun.com/arduino-stackable-header-kit.html,Development Boards
+535,Pi Tin for the Raspberry Pi - Clear,$8.95,Discontinued,https://www.sparkfun.com/pi-tin-for-the-raspberry-pi-clear.html,Development Boards
+536,OpenMV Cam RT1062,$120.00,In stock,https://www.sparkfun.com/openmv-cam-rt1062.html,Development Boards
+537,SparkFun Pulsed Coherent Radar Sensor - Acconeer XM125 (Qwiic),$49.95,In stock,https://www.sparkfun.com/sparkfun-pulsed-coherent-radar-sensor-acconeer-xm125-qwiic.html,Development Boards
+538,FTDI Cable 5V,$25.95,In stock,https://www.sparkfun.com/ftdi-cable-5v.html,Development Boards
+539,FTDI Cable 5V VCC-3.3V I/O,$25.95,In stock,https://www.sparkfun.com/ftdi-cable-5v-vcc-3-3v-i-o.html,Development Boards
+540,Raspberry Pi Zero W,$16.50,In stock,https://www.sparkfun.com/raspberry-pi-zero-w.html,Development Boards
+541,SparkFun RS232 Shifter - SMD,$17.50,In stock,https://www.sparkfun.com/sparkfun-rs232-shifter-smd.html,Development Boards
+542,Official Raspberry Pi 4 Case - Black/Gray,$5.50,In stock,https://www.sparkfun.com/official-raspberry-pi-4-case-black-gray.html,Development Boards
+543,Argon NEO Raspberry Pi 4 Case,$17.50,In stock,https://www.sparkfun.com/argon-neo-raspberry-pi-4-case.html,Development Boards
+544,SparkFun Pulsed Radar Breakout - A111,$60.95,In stock,https://www.sparkfun.com/sparkfun-pulsed-radar-breakout-a111.html,Development Boards
+545,"Stackable Header - Female (PTH, 0.1in., 6-Pin)",$0.80,In stock,https://www.sparkfun.com/stackable-header-female-pth-0-1in-6-pin.html,Development Boards
+546,"Stackable Header - Female (PTH, 0.1in., 8-Pin)",$0.95,In stock,https://www.sparkfun.com/stackable-header-female-pth-0-1in-8-pin.html,Development Boards
+547,Aluminum Heatsink Case for Raspberry Pi 4 - Obsidian Black,$45.00,In stock,https://www.sparkfun.com/aluminum-heatsink-case-for-raspberry-pi-4-obsidian-black.html,Development Boards
+548,Raspberry Pi 3 B+ Baseplate,$4.00,In stock,https://www.sparkfun.com/raspberry-pi-3-b-baseplate.html,Development Boards
+549,Raspberry Pi Zero Case,$6.50,In stock,https://www.sparkfun.com/raspberry-pi-zero-case.html,Development Boards
+550,SparkFun Inventor's Kit for MicroPython,$124.95,In stock,https://www.sparkfun.com/sparkfun-inventors-kit-for-micropython.html,Development Boards
+551,Pi Tin for the Raspberry Pi - Black,$2.95,In stock,https://www.sparkfun.com/pi-tin-for-the-raspberry-pi-black.html,Development Boards
+552,USB to TTL Serial Cable,$18.95,In stock,https://www.sparkfun.com/usb-to-ttl-serial-cable.html,Development Boards
+553,SparkFun MicroMod Machine Learning Carrier Board,$22.95,In stock,https://www.sparkfun.com/sparkfun-micromod-machine-learning-carrier-board.html,Development Boards
+554,Multimedia Wireless Keyboard,$23.50,In stock,https://www.sparkfun.com/multimedia-wireless-keyboard.html,Development Boards
+555,Alchitry Hd V2,$29.99,In stock,https://www.sparkfun.com/alchitry-hd-v2.html,Development Boards
+556,Logitech K400 Plus Wireless Touch Keyboard,$42.95,In stock,https://www.sparkfun.com/logitech-k400-plus-wireless-touch-keyboard.html,Development Boards
+557,Breadboard - Self-Adhesive (White),$6.25,In stock,https://www.sparkfun.com/breadboard-self-adhesive-white.html,Development Boards
+558,SparkFun Solder-able Breadboard,$6.95,In stock,https://www.sparkfun.com/sparkfun-solder-able-breadboard.html,Development Boards
+559,"ProtoBoard - Square 1"" Single Sided",$2.95,In stock,https://www.sparkfun.com/protoboard-square-1-single-sided.html,Development Boards
+560,Breadboard - Giant,$29.95,In stock,https://www.sparkfun.com/breadboard-giant.html,Development Boards
+561,SparkFun Solder-able Breadboard - Mini,$4.25,In stock,https://www.sparkfun.com/sparkfun-solder-able-breadboard-mini.html,Development Boards
+562,Breadboard - Full-Size (Bare),$7.75,In stock,https://www.sparkfun.com/breadboard-full-size-bare.html,Development Boards
+563,SparkFun Solder-able Breadboard - Large,$12.95,In stock,https://www.sparkfun.com/sparkfun-solder-able-breadboard-large.html,Development Boards
+564,SparkFun Portability Shield,$46.76,In stock,https://www.sparkfun.com/sparkfun-portability-shield.html,Development Boards
+565,Breadboard - Mini Modular (Black),$4.60,In stock,https://www.sparkfun.com/breadboard-mini-modular-black.html,Development Boards
+566,SparkFun Snappable Protoboard,$13.50,In stock,https://www.sparkfun.com/sparkfun-snappable-protoboard.html,Development Boards
+567,Binho Nova Multi-Protocol USB Host Adapter,$229.00,Discontinued,https://www.sparkfun.com/binho-nova-multi-protocol-usb-host-adapter.html,Development Boards
+568,ProtoBoard - Wombat (PTH),$7.25,In stock,https://www.sparkfun.com/protoboard-wombat-pth.html,Development Boards
+569,Breadboard - Mini Modular (Green),$4.50,In stock,https://www.sparkfun.com/breadboard-mini-modular-green.html,Development Boards
+570,Breadboard - Mini Modular (Blue),$4.60,In stock,https://www.sparkfun.com/breadboard-mini-modular-blue.html,Development Boards
+571,SparkFun Inventor's Kit - v4.1.2,$99.95,In stock,https://www.sparkfun.com/sparkfun-inventor-s-kit-v4-1-2.html,Development Boards
+572,Breadboard - Mini Modular (Red),$1.25,In stock,https://www.sparkfun.com/breadboard-mini-modular-red.html,Development Boards
+573,"ProtoBoard - Square 2""",$5.75,In stock,https://www.sparkfun.com/protoboard-square-2.html,Development Boards
+574,Breadboard - Mini Modular (White),$5.25,In stock,https://www.sparkfun.com/breadboard-mini-modular-white.html,Development Boards
+575,Breadboard - Translucent Self-Adhesive (Red),$5.50,In stock,https://www.sparkfun.com/breadboard-translucent-self-adhesive-red.html,Development Boards
+576,Breadboard - Translucent Self-Adhesive (Clear),$6.95,In stock,https://www.sparkfun.com/breadboard-translucent-self-adhesive-clear.html,Development Boards
+577,Breadboard - Classic,$16.95,Backorder,https://www.sparkfun.com/breadboard-classic.html,Development Boards
+578,SparkFun MicroMod DIY Carrier Kit (5 pack),$8.25,In stock,https://www.sparkfun.com/sparkfun-micromod-diy-carrier-kit-5-pack.html,Development Boards
+579,USB to TTL Serial Cable (5V VCC),$13.50,In stock,https://www.sparkfun.com/usb-to-ttl-serial-cable-5v-vcc.html,Development Boards
+580,SparkFun MicroMod Single Pair Ethernet Kit,$89.95,Discontinued,https://www.sparkfun.com/sparkfun-micromod-single-pair-ethernet-kit-kit-24804.html,Development Boards
+581,SparkFun Environmental Combo Breakout - ENS160/BME280 (Qwiic),$39.95,In stock,https://www.sparkfun.com/sparkfun-environmental-combo-breakout-ens160-bme280-qwiic.html,Sensors
+582,"SparkFun Indoor Air Quality Combo Sensor - SCD41, SEN55 (Qwiic)",$184.95,In stock,https://www.sparkfun.com/sparkfun-indoor-air-quality-combo-sensor-scd41-sen55-qwiic.html,Sensors
+583,SparkFun Tristimulus Color Sensor - OPT4048DTSR (Qwiic),$13.50,In stock,https://www.sparkfun.com/sparkfun-tristimulus-color-sensor-opt4048dtsr-qwiic.html,Sensors
+584,SparkFun Optical Tracking Odometry Sensor - PAA5160E1 (Qwiic),$84.95,In stock,https://www.sparkfun.com/sparkfun-optical-tracking-odometry-sensor-paa5160e1-qwiic.html,Sensors
+585,MyoWare 2.0 Muscle Sensor,$43.50,Discontinued,https://www.sparkfun.com/myoware-2-0-muscle-sensor.html,Sensors
+586,SparkFun Sensor Kit,$167.50,In stock,https://www.sparkfun.com/sparkfun-sensor-kit.html,Sensors
+587,MyoWare 2.0 Muscle Sensor Basic Kit,$77.50,Discontinued,https://www.sparkfun.com/myoware-2-0-muscle-sensor-basic-kit.html,Sensors
+588,MyoWare 2.0 Muscle Sensor Development Kit,$154.95,Discontinued,https://www.sparkfun.com/myoware-2-0-muscle-sensor-development-kit.html,Sensors
+589,SparkFun Human Presence and Motion Sensor - STHS34PF80 (Qwiic),$16.95,In stock,https://www.sparkfun.com/sparkfun-human-presence-and-motion-sensor-sths34pf80-qwiic.html,Sensors
+590,SparkFun 9DoF IMU Breakout - ICM-20948 (Qwiic),$21.95,Backorder,https://www.sparkfun.com/sparkfun-9dof-imu-breakout-icm-20948-qwiic.html,Sensors
+591,SparkFun Pulse Oximeter and Heart Rate Sensor - MAX30101 & MAX32664 (Qwiic),$48.95,In stock,https://www.sparkfun.com/sparkfun-pulse-oximeter-and-heart-rate-sensor-max30101-max32664-qwiic.html,Sensors
+592,SparkFun Mini Spectral UV Sensor - AS7331 (Qwiic),$32.95,In stock,https://www.sparkfun.com/sparkfun-mini-spectral-uv-sensor-as7331-qwiic.html,Sensors
+593,SparkFun Soil Moisture Sensor,$6.55,In stock,https://www.sparkfun.com/sparkfun-soil-moisture-sensor.html,Sensors
+594,SparkFun Soil Moisture Sensor (with Screw Terminals),$7.95,In stock,https://www.sparkfun.com/sparkfun-soil-moisture-sensor-with-screw-terminals.html,Sensors
+595,SparkFun Qwiic Soil Moisture Sensor,$19.95,Discontinued,https://www.sparkfun.com/sparkfun-qwiic-soil-moisture-sensor.html,Sensors
+596,SparkFun Essential Sensor Kit V2,$36.95,Discontinued,https://www.sparkfun.com/sparkfun-essential-sensor-kit-v2.html,Sensors
+597,SparkFun OpenLog Data Collector with Machinechat - Air Quality Monitoring,$109.95,In stock,https://www.sparkfun.com/sparkfun-openlog-data-collector-with-machinechat-air-quality-monitoring.html,Sensors
+598,SparkFun OpenLog Data Collector with Machinechat - Environmental Monitoring,$104.95,In stock,https://www.sparkfun.com/sparkfun-openlog-data-collector-with-machinechat-environmental-monitoring.html,Sensors
+599,Weather Meter Kit,$79.95,In stock,https://www.sparkfun.com/weather-meter-kit.html,Sensors
+600,SparkFun Power Meter - ACS37800 (Qwiic),$19.95,In stock,https://www.sparkfun.com/sparkfun-power-meter-acs37800-qwiic.html,Sensors
+601,SparkFun Digital Compass - HMC6343 (Qwiic),$129.95,In stock,https://www.sparkfun.com/sparkfun-digital-compass-hmc6343-qwiic.html,Sensors
+602,"SparkFun Micro Proximity Sensor - 20cm, VCNL4040 (Qwiic)",$5.50,In stock,https://www.sparkfun.com/sparkfun-micro-proximity-sensor-20cm-vcnl4040-qwiic.html,Sensors
+603,SparkFun Red Vision Kit for RedBoard,$109.95,In stock,https://www.sparkfun.com/sparkfun-red-vision-kit-for-redboard.html,Sensors
+604,SparkFun Fingerprint Sensor - FPC2534 (Qwiic),$59.95,In stock,https://www.sparkfun.com/sparkfun-fingerprint-sensor-fpc2534-qwiic.html,Sensors
+605,UHF RFID H9 Tag - 30mm x 16mm (Adhesive),$1.25,In stock,https://www.sparkfun.com/uhf-rfid-h9-tags-30mm-x-16mm-adhesive.html,Sensors
+606,SparkFun Magnetic Imaging Tile - 8x8,$99.95,In stock,https://www.sparkfun.com/sparkfun-magnetic-imaging-tile-8x8.html,Sensors
+607,Renesas FS3000-1005 Air Velocity Module (SMD),$24.95,In stock,https://www.sparkfun.com/renesas-fs3000-1005-air-velocity-module-smd.html,Sensors
+608,SparkFun CO2 Sensor - STC31 (Qwiic),$124.95,In stock,https://www.sparkfun.com/sparkfun-co2-sensor-stc31-qwiic.html,Sensors
+609,SparkFun Red Vision Kit for XRP,$119.95,In stock,https://www.sparkfun.com/sparkfun-pico-vision-kit-for-xrp.html,Sensors
+610,SparkFun Red Vision Camera Board - HM01B0 (Color),$54.95,Backorder,https://www.sparkfun.com/sparkfun-red-vision-camera-board-hm01b0-color.html,Sensors
+611,SparkFun Micro Triple Axis Accelerometer Breakout - LIS3DH (Qwiic),$5.95,In stock,https://www.sparkfun.com/sparkfun-micro-triple-axis-accelerometer-breakout-lis3dh-qwiic.html,Sensors
+612,SparkFun Triple Axis Accelerometer Breakout - LIS3DH (Qwiic),$4.95,Backorder,https://www.sparkfun.com/sparkfun-triple-axis-accelerometer-breakout-lis3dh-qwiic.html,Sensors
+613,Rain Gauge,$14.95,In stock,https://www.sparkfun.com/rain-gauge.html,Sensors
+614,Cygbot CygLiDAR D2,$181.95,Backorder,https://www.sparkfun.com/cygbot-cyglidar-d2.html,Sensors
+615,SparkFun Ambient Light Sensor - VEML7700 (Qwiic),$6.95,In stock,https://www.sparkfun.com/sparkfun-ambient-light-sensor-veml7700-qwiic.html,Sensors
+616,IR Array Sensor - 55 Degree FOV (MLX90640),$35.95,In stock,https://www.sparkfun.com/ir-array-sensor-55-degree-fov-mlx90640.html,Sensors
+617,IR Array Sensor - 110 Degree FOV (MLX90640),$64.95,In stock,https://www.sparkfun.com/ir-array-sensor-110-degree-fov-mlx90640.html,Sensors
+618,SparkFun Spectral Sensor - AS7343 (Qwiic),$21.95,In stock,https://www.sparkfun.com/sparkfun-spectral-sensor-as7343-qwiic.html,Sensors
+619,MyoWare 2 Muscle Sensor Development Kit,$154.95,In stock,https://www.sparkfun.com/myoware-2-muscle-sensor-development-kit.html,Sensors
+620,MyoWare 2 Muscle Sensor Basic Kit,$79.95,In stock,https://www.sparkfun.com/myoware-2-muscle-sensor-basic-kit.html,Sensors
+621,MyoWare 2 Muscle Sensor Wireless Kit,$124.95,In stock,https://www.sparkfun.com/myoware-2-muscle-sensor-wireless-kit.html,Sensors
+622,MyoWare 2 Muscle Sensor,$43.50,Backorder,https://www.sparkfun.com/myoware-2-muscle-sensor.html,Sensors
+623,Wind Vane,$17.95,In stock,https://www.sparkfun.com/wind-vane.html,Sensors
+624,Anemometer,$10.95,In stock,https://www.sparkfun.com/anemometer.html,Sensors
+625,SparkFun Qwiic Soil Moisture Sensor,$6.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-soil-moisture-sensor-1.html,Sensors
+626,"Ultrasonic Distance Sensor - 3.3V (HC-SR04), 15° (red)",$6.95,In stock,https://www.sparkfun.com/ultrasonic-distance-sensor-3-3v-hc-sr04-180-red.html,Sensors
+627,MyoWare 2.0 Wireless Shield - Ding & Dent,$26.95,In stock,https://www.sparkfun.com/myoware-2-0-wireless-shield-ding-dent.html,Sensors
+628,Arducam IMX219 Visible Light Fixed Focus Camera Module for NVIDIA® Jetson AGX Orin/Orin Nano/Orin NX,$19.95,Backorder,https://www.sparkfun.com/arducam-imx219-visible-light-fixed-focus-camera-module-for-nvidiar-jetson-agx-orin-orin-nano-orin-nx.html,Sensors
+629,"OV5640 Camera Board - 5 Megapixel (2592x1944), Fisheye Lens",$19.95,Out of stock,https://www.sparkfun.com/ov5640-camera-board-5-megapixel-2592x1944-fisheye-lens.html,Sensors
+630,Renesas FS3000-1015 Air Velocity Sensor Module,$19.95,Discontinued,https://www.sparkfun.com/renesas-fs3000-air-velocity-sensor-module.html,Sensors
+631,SparkFun Air Quality PM1/PM2.5/PM10 Sensor - BMV080 (Qwiic),$64.95,In stock,https://www.sparkfun.com/sparkfun-air-quality-pm1-pm2-5-pm10-sensor-bmv080-qwiic.html,Sensors
+632,SparkFun RFID USB-C Reader,$24.50,In stock,https://www.sparkfun.com/sparkfun-rfid-usb-c-reader.html,Sensors
+633,SparkFun Ultrasonic Distance Sensor - TCT40 (Qwiic),$11.50,In stock,https://www.sparkfun.com/sparkfun-ultrasonic-distance-sensor-tct40-qwiic.html,Sensors
+634,SparkFun Qwiic Ultrasonic Distance Sensor - HC-SR04,$17.95,Discontinued,https://www.sparkfun.com/sparkfun-qwiic-ultrasonic-distance-sensor-hc-sr04.html,Sensors
+635,"Electret Condenser Microphone, with Washer",$2.25,In stock,https://www.sparkfun.com/electret-condenser-microphone-with-washer.html,Sensors
+636,UHF RFID H3 Tags - 30mm x 16mm (Adhesive),$1.25,Discontinued,https://www.sparkfun.com/uhf-rfid-h3-tags-30mm-x-16mm-adhesive.html,Sensors
+637,MagnetoPot Linear Potentiometer - 50mm (Male Pins),$30.95,In stock,https://www.sparkfun.com/magnetopot-linear-potentiometer-50mm-male-pins.html,Sensors
+638,ThingMagic M7e UHF RAIN RFID Module,$199.95,In stock,https://www.sparkfun.com/thingmagic-m7e-uhf-rain-rfid-module.html,Sensors
+639,UHF RFID Tags - 30mm x 16mm (Adhesive),$0.60,Discontinued,https://www.sparkfun.com/uhf-rfid-tags-30mm-x-16mm-adhesive.html,Sensors
+640,FGSensors Full Gradiometer Kit,$310.95,Discontinued,https://www.sparkfun.com/fgsensors-full-gradiometer-kit.html,Sensors
+641,FGSensors FG-3+ Sensor,$54.95,In stock,https://www.sparkfun.com/fgsensors-fg-3-sensor.html,Sensors
+642,Ultrasonic Distance Sensor - 3.3V (HC-SR04),$6.95,In stock,https://www.sparkfun.com/ultrasonic-distance-sensor-3-3v-hc-sr04.html,Sensors
+643,SparkFun Mini Linear 3D Hall-Effect Sensor - TMAG5273 (Qwiic),$7.90,In stock,https://www.sparkfun.com/sparkfun-mini-linear-3d-hall-effect-sensor-tmag5273-qwiic.html,Sensors
+644,SparkFun Linear 3D Hall-Effect Sensor - TMAG5273 (Qwiic),$7.50,In stock,https://www.sparkfun.com/sparkfun-linear-3d-hall-effect-sensor-tmag5273-qwiic.html,Sensors
+645,"Sensirion Particle, VOC, Humidity, and Temperature Sensor - SEN55",$36.95,Backorder,https://www.sparkfun.com/sensirion-particle-voc-humidity-and-temperature-sensor-sen55.html,Sensors
+646,SparkFun Spectral UV Sensor - AS7331 (Qwiic),$27.50,In stock,https://www.sparkfun.com/sparkfun-spectral-uv-sensor-as7331-qwiic.html,Sensors
+647,Useful Sensors Tiny Code Reader,$7.00,In stock,https://www.sparkfun.com/useful-sensors-tiny-code-reader.html,Sensors
+648,SparkFun Mini Human Presence and Motion Sensor - STHS34PF80 (Qwiic),$17.95,Backorder,https://www.sparkfun.com/sparkfun-mini-human-presence-and-motion-sensor-sths34pf80-qwiic.html,Sensors
+649,Ambient Light Sensor 3mm,$0.95,In stock,https://www.sparkfun.com/ambient-light-sensor-3mm.html,Sensors
+650,SparkFun Mini Tristimulus Color Sensor - OPT4048DTSR (Qwiic),$11.50,In stock,https://www.sparkfun.com/sparkfun-mini-tristimulus-color-sensor-opt4048dtsr-qwiic.html,Sensors
+651,SparkFun 6DoF IMU Breakout - BMI270 (Qwiic),$18.50,Backorder,https://www.sparkfun.com/sparkfun-6dof-imu-breakout-bmi270-qwiic.html,Sensors
+652,SparkFun CO2 Humidity and Temperature Sensor - SCD41 (Qwiic),$74.95,In stock,https://www.sparkfun.com/sparkfun-co2-humidity-and-temperature-sensor-scd41-qwiic.html,Sensors
+653,SparkFun CO2 Humidity and Temperature Sensor - SCD40 (Qwiic),$82.15,In stock,https://www.sparkfun.com/sparkfun-co2-humidity-and-temperature-sensor-scd40-qwiic.html,Sensors
+654,SparkFun Micro 6DoF IMU Breakout - LSM6DSV16X (Qwiic),$25.50,In stock,https://www.sparkfun.com/sparkfun-micro-6dof-imu-breakout-lsm6dsv16x-qwiic.html,Sensors
+655,SparkFun 6DoF IMU Breakout - LSM6DSV16X (Qwiic),$24.54,Backorder,https://www.sparkfun.com/sparkfun-6dof-imu-breakout-lsm6dsv16x-qwiic.html,Sensors
+656,MyoWare 2.0 Wireless Shield,$26.95,In stock,https://www.sparkfun.com/myoware-2-0-wireless-shield.html,Sensors
+657,MyoWare 2.0 LED Shield,$27.50,Backorder,https://www.sparkfun.com/myoware-2-0-led-shield.html,Sensors
+658,MyoWare 2.0 Power Shield,$16.50,In stock,https://www.sparkfun.com/myoware-2-0-power-shield.html,Sensors
+659,Infrared Emitter - LTE-302,$0.50,In stock,https://www.sparkfun.com/infrared-emitter-lte-302.html,Sensors
+660,Panasonic® PIR Motion Sensor - EKMB1107112,$10.68,In stock,https://www.sparkfun.com/panasonicr-pir-motion-sensor-ekmb1107112.html,Sensors
+661,"Load Cell - 10kg, Straight Bar with Hook",$19.95,In stock,https://www.sparkfun.com/load-cell-10kg-straight-bar-with-hook.html,Sensors
+662,U.FL to U.FL Mini Coax Cable - 200mm,$2.75,In stock,https://www.sparkfun.com/u-fl-to-u-fl-mini-coax-cable-200mm.html,Sensors
+663,2D Barcode Scanner Module - DE2120,$29.95,Discontinued,https://www.sparkfun.com/2d-barcode-scanner-module-de2120.html,Sensors
+664,Fingerprint Sensor (GT-NUCL1633),$29.95,In stock,https://www.sparkfun.com/fingerprint-sensor-gt-nucl1633.html,Sensors
+665,Disposable Surface EMG/ECG/EKG Electrode - 24mm (10 pack),$9.95,In stock,https://www.sparkfun.com/disposable-surface-emg-ecg-ekg-electrode-24mm-10-pack.html,Sensors
+666,RFID Reader ID-3LA (125 kHz),$27.95,In stock,https://www.sparkfun.com/rfid-reader-id-3la-125-khz.html,Sensors
+667,RFID Reader ID-20LA (125 kHz),$37.50,In stock,https://www.sparkfun.com/rfid-reader-id-20la-125-khz.html,Sensors
+668,RFID Reader ID-12LA (125 kHz),$32.50,In stock,https://www.sparkfun.com/rfid-reader-id-12la-125-khz.html,Sensors
+669,Pulse Sensor,$29.95,In stock,https://www.sparkfun.com/pulse-sensor.html,Sensors
+670,RFID Tag - Adhesive MIFARE Classic® 1K (13.56 MHz),$5.25,In stock,https://www.sparkfun.com/rfid-tag-adhesive-mifare-classicr-1k-13-56-mhz.html,Sensors
+671,RFID Tag - Transparent MIFARE Classic® 1K (13.56 MHz),$3.75,In stock,https://www.sparkfun.com/rfid-tag-transparent-mifare-classicr-1k-13-56-mhz.html,Sensors
+672,RFID Tag - ABS Token MIFARE Classic® 1K (13.56 MHz),$3.75,In stock,https://www.sparkfun.com/rfid-tag-abs-token-mifare-classicr-1k-13-56-mhz.html,Sensors
+673,SparkFun RFID USB Reader,$29.95,In stock,https://www.sparkfun.com/sparkfun-rfid-usb-reader.html,Sensors
+674,RFID Button - 16mm (125kHz),$4.75,In stock,https://www.sparkfun.com/rfid-button-16mm-125khz.html,Sensors
+675,RFID Glass Capsule (125kHz),$5.75,Backorder,https://www.sparkfun.com/rfid-glass-capsule-125khz.html,Sensors
+676,SparkFun RFID Starter Kit,$53.50,In stock,https://www.sparkfun.com/sparkfun-rfid-starter-kit.html,Sensors
+677,RFID Tag (125kHz),$2.75,In stock,https://www.sparkfun.com/rfid-tag-125khz.html,Sensors
+678,SparkFun 6DoF IMU Breakout - ISM330DHCX (Qwiic),$25.50,In stock,https://www.sparkfun.com/sparkfun-6dof-imu-breakout-ism330dhcx-qwiic.html,Sensors
+679,SparkFun Air Velocity Sensor Breakout - FS3000-1015 (Qwiic),$79.50,In stock,https://www.sparkfun.com/sparkfun-air-velocity-sensor-breakout-fs3000-1015-qwiic.html,Sensors
+680,MyoWare 2.0 Link Shield,$13.50,In stock,https://www.sparkfun.com/myoware-2-0-link-shield.html,Sensors
+681,MyoWare 2.0 Cable Shield,$6.10,In stock,https://www.sparkfun.com/myoware-2-0-cable-shield.html,Sensors
+682,SparkFun Air Velocity Sensor Breakout - FS3000-1005 (Qwiic),$60.95,In stock,https://www.sparkfun.com/sparkfun-air-velocity-sensor-breakout-fs3000-1005-qwiic.html,Sensors
+683,SparkFun 2D Barcode Scanner Breakout,$66.95,In stock,https://www.sparkfun.com/sparkfun-2d-barcode-scanner-breakout.html,Sensors
+684,SparkFun Photodetector Breakout - MAX30101 (Qwiic),$34.39,In stock,https://www.sparkfun.com/sparkfun-photodetector-breakout-max30101-qwiic.html,Sensors
+685,SparkFun RFID Qwiic Reader,$23.50,In stock,https://www.sparkfun.com/sparkfun-rfid-qwiic-reader.html,Sensors
+686,SparkFun RFID Reader Breakout,$3.50,In stock,https://www.sparkfun.com/sparkfun-rfid-reader-breakout.html,Sensors
+687,SparkFun Single Lead Heart Rate Monitor - AD8232,$24.41,In stock,https://www.sparkfun.com/sparkfun-single-lead-heart-rate-monitor-ad8232.html,Sensors
+688,SparkFun Gas Sensor Breakout,$1.50,In stock,https://www.sparkfun.com/sparkfun-gas-sensor-breakout.html,Sensors
+689,SparkFun Simultaneous RFID Reader - M6E Nano,$235.95,Discontinued,https://www.sparkfun.com/sparkfun-simultaneous-rfid-reader-m6e-nano.html,Sensors
+690,British Telecom Connector - BTD (Female),$2.10,Out of stock,https://www.sparkfun.com/british-telecom-connector-btd-female.html,Sensors
+691,SparkFun Micro Temperature Sensor - STTS22H (Qwiic),$8.53,In stock,https://www.sparkfun.com/sparkfun-micro-temperature-sensor-stts22h-qwiic.html,Sensors
+692,SparkFun Temperature Sensor - STTS22H (Qwiic),$6.95,In stock,https://www.sparkfun.com/sparkfun-temperature-sensor-stts22h-qwiic.html,Sensors
+693,Hydrogen Sulfide Gas Sensor - MQ-136,$24.95,In stock,https://www.sparkfun.com/hydrogen-sulfide-gas-sensor-mq-136.html,Sensors
+694,Ammonia Gas Sensor - MQ-137,$63.95,In stock,https://www.sparkfun.com/ammonia-gas-sensor-mq-137.html,Sensors
+695,Dual Gas CO and CH4 Detection Sensor - MQ-9B,$6.50,In stock,https://www.sparkfun.com/dual-gas-co-and-ch4-detection-sensor-mq-9b.html,Sensors
+696,Smoke Sensor - MQ-2,$3.75,In stock,https://www.sparkfun.com/smoke-sensor-mq-2.html,Sensors
+697,Carbon Monoxide Sensor - MQ-7,$7.50,In stock,https://www.sparkfun.com/carbon-monoxide-sensor-mq-7.html,Sensors
+698,Methane CNG Gas Sensor - MQ-4,$6.75,In stock,https://www.sparkfun.com/methane-cng-gas-sensor-mq-4.html,Sensors
+699,Hydrogen Gas Sensor - MQ-8,$7.25,In stock,https://www.sparkfun.com/hydrogen-gas-sensor-mq-8.html,Sensors
+700,LPG Gas Sensor - MQ-6,$6.75,In stock,https://www.sparkfun.com/lpg-gas-sensor-mq-6.html,Sensors
+701,Alcohol Gas Sensor - MQ-3,$7.95,In stock,https://www.sparkfun.com/alcohol-gas-sensor-mq-3.html,Sensors
+702,MyoWare 2.0 Reference Cable - 10 pack,$11.50,In stock,https://www.sparkfun.com/myoware-2-0-reference-cable-10-pack.html,Sensors
+703,MyoWare 2.0 Reference Cable,$1.30,In stock,https://www.sparkfun.com/myoware-2-0-reference-cable.html,Sensors
+704,Sensor Cable - Electrode  Pads (3 connector),$8.75,In stock,https://www.sparkfun.com/sensor-cable-electrode-pads-3-connector.html,Sensors
+705,SparkFun RFID Qwiic Kit,$49.95,In stock,https://www.sparkfun.com/sparkfun-rfid-qwiic-kit.html,Sensors
+706,Ambient Light Sensor - VEML7700 (Qwiic),$5.95,Discontinued,https://www.sparkfun.com/ambient-light-sensor-veml7700-qwiic.html,Sensors
+707,CO₂ Sensor - STC31 (Qwiic),$79.95,Discontinued,https://www.sparkfun.com/co-sensor-stc31-qwiic.html,Sensors
+708,Magnetic Imaging Tile - 8x8,$74.98,Discontinued,https://www.sparkfun.com/magnetic-imaging-tile-8x8.html,Sensors
+709,Robotic Finger Sensor v2,$39.95,Discontinued,https://www.sparkfun.com/robotic-finger-sensor-v2.html,Sensors
+710,BitZero V2 for Shapeoko,$120.00,In stock,https://www.sparkfun.com/bitzero-v2-for-shapeoko.html,Sensors
+711,SparkFun OpenLog Data Collector with Machinechat - Base Kit,$244.95,In stock,https://www.sparkfun.com/sparkfun-openlog-data-collector-with-machinechat-base-kit.html,Sensors
+712,Interface Cable for RP-TNC to RP-SMA - 1m,$7.95,In stock,https://www.sparkfun.com/interface-cable-for-rp-tnc-to-rp-sma-1m.html,Sensors
+713,UHF RFID Antenna (RP-TNC),$48.50,In stock,https://www.sparkfun.com/uhf-rfid-antenna-rp-tnc.html,Sensors
+714,Pixhawk 6C with PM07 Power Module,$289.99,Discontinued,https://www.sparkfun.com/pixhawk-6c-with-pm07-power-module.html,Sensors
+715,LilyPad Light Sensor,$5.25,In stock,https://www.sparkfun.com/lilypad-light-sensor.html,Sensors
+716,SparkFun Sound Detector (with Headers),$13.95,In stock,https://www.sparkfun.com/sparkfun-sound-detector-with-headers.html,Sensors
+717,SparkFun Electret Microphone Breakout,$8.50,In stock,https://www.sparkfun.com/sparkfun-electret-microphone-breakout.html,Sensors
+718,SparkFun Sound Detector,$12.50,In stock,https://www.sparkfun.com/sparkfun-sound-detector.html,Sensors
+719,Electret Microphone,$1.50,In stock,https://www.sparkfun.com/electret-microphone.html,Sensors
+720,3-Axis MEMS Accelerometer - MMA8452Q,$1.49,In stock,https://www.sparkfun.com/3-axis-mems-accelerometer-mma8452q.html,Sensors
+721,SparkFun RedBot Sensor - Accelerometer,$7.50,In stock,https://www.sparkfun.com/sparkfun-redbot-sensor-accelerometer.html,Sensors
+722,SparkFun Triple Axis Accelerometer Breakout - BMA400 (Qwiic),$10.50,In stock,https://www.sparkfun.com/sparkfun-triple-axis-accelerometer-breakout-bma400-qwiic.html,Sensors
+723,SparkFun Micro Triple Axis Accelerometer Breakout - BMA400 (Qwiic),$10.50,In stock,https://www.sparkfun.com/sparkfun-micro-triple-axis-accelerometer-breakout-bma400-qwiic.html,Sensors
+724,SparkFun Micro 6DoF IMU - ISM330DHCX (Qwiic),$26.50,In stock,https://www.sparkfun.com/sparkfun-micro-6dof-imu-ism330dhcx-qwiic.html,Sensors
+725,SparkFun Triple Axis Accelerometer Breakout - KX132 (Qwiic),$15.50,In stock,https://www.sparkfun.com/sparkfun-triple-axis-accelerometer-breakout-kx132-qwiic.html,Sensors
+726,SparkFun Triple Axis Accelerometer Breakout - KX134 (Qwiic),$35.95,In stock,https://www.sparkfun.com/sparkfun-triple-axis-accelerometer-breakout-kx134-qwiic.html,Sensors
+727,SparkFun Triple Axis Digital Accelerometer Breakout - ADXL313 (Qwiic),$22.10,In stock,https://www.sparkfun.com/sparkfun-triple-axis-digital-accelerometer-breakout-adxl313-qwiic.html,Sensors
+728,SparkFun Triple Axis Accelerometer Breakout - H3LIS331DL,$17.10,Backorder,https://www.sparkfun.com/sparkfun-triple-axis-accelerometer-breakout-h3lis331dl.html,Sensors
+729,SparkFun Triple Axis Accelerometer Breakout - LIS3DH,$7.75,In stock,https://www.sparkfun.com/sparkfun-triple-axis-accelerometer-breakout-lis3dh.html,Sensors
+730,SparkFun Triple Axis Accelerometer Breakout - ADXL362,$19.95,In stock,https://www.sparkfun.com/sparkfun-triple-axis-accelerometer-breakout-adxl362.html,Sensors
+731,3-Axis Gyro/Accelerometer IC - MPU-6050,$13.95,Discontinued,https://www.sparkfun.com/3-axis-gyro-accelerometer-ic-mpu-6050.html,Sensors
+732,SparkFun Triple Axis Accelerometer Breakout - ADXL345,$20.95,In stock,https://www.sparkfun.com/sparkfun-triple-axis-accelerometer-breakout-adxl345.html,Sensors
+733,SparkFun Triple Axis Accelerometer Breakout - ADXL335,$22.27,In stock,https://www.sparkfun.com/sparkfun-triple-axis-accelerometer-breakout-adxl335.html,Sensors
+734,"Geophone - SM-24, with Insulating Disc",$69.95,In stock,https://www.sparkfun.com/geophone-sm-24-with-insulating-disc.html,Sensors
+735,SparkFun Indoor Air Quality Sensor - ENS160 (Qwiic),$26.59,In stock,https://www.sparkfun.com/sparkfun-indoor-air-quality-sensor-ens160-qwiic.html,Sensors
+736,SparkFun MicroMod Environmental Function Board,$149.95,In stock,https://www.sparkfun.com/sparkfun-micromod-environmental-function-board.html,Sensors
+737,SparkFun Air Quality Sensor - SGP40 (Qwiic),$18.95,In stock,https://www.sparkfun.com/sparkfun-air-quality-sensor-sgp40-qwiic.html,Sensors
+738,SparkFun Humidity Sensor Breakout - SHTC3 (Qwiic),$13.11,In stock,https://www.sparkfun.com/sparkfun-humidity-sensor-breakout-shtc3-qwiic.html,Sensors
+739,SparkFun Lightning Detector - AS3935,$34.95,In stock,https://www.sparkfun.com/sparkfun-lightning-detector-as3935.html,Sensors
+740,CO₂ Humidity and Temperature Sensor - SCD30,$73.50,In stock,https://www.sparkfun.com/co-humidity-and-temperature-sensor-scd30.html,Sensors
+741,SparkFun Atmospheric Sensor Breakout - BME280 (with Headers),$22.50,In stock,https://www.sparkfun.com/sparkfun-atmospheric-sensor-breakout-bme280-with-headers.html,Sensors
+742,SparkFun Humidity and Temperature Sensor Breakout - Si7021,$17.95,Out of stock,https://www.sparkfun.com/sparkfun-humidity-and-temperature-sensor-breakout-si7021.html,Sensors
+743,SparkFun Atmospheric Sensor Breakout - BME280,$25.50,In stock,https://www.sparkfun.com/sparkfun-atmospheric-sensor-breakout-bme280.html,Sensors
+744,SparkX Power Meter - ACS37800 (Qwiic),$24.95,Out of stock,https://www.sparkfun.com/sparkx-power-meter-acs37800-qwiic.html,Sensors
+745,KR Sense Current and Voltage Sensor - 90A,$21.50,Discontinued,https://www.sparkfun.com/kr-sense-current-and-voltage-sensor-90a.html,Sensors
+746,KR Sense Current and Voltage Sensor - 45A,$22.50,Backorder,https://www.sparkfun.com/kr-sense-current-and-voltage-sensor-45a.html,Sensors
+747,SparkFun Current Sensor Breakout - ACS723 (Low Current),$15.95,In stock,https://www.sparkfun.com/sparkfun-current-sensor-breakout-acs723-low-current.html,Sensors
+748,SparkFun Current Sensor Breakout - ACS723,$13.50,In stock,https://www.sparkfun.com/sparkfun-current-sensor-breakout-acs723.html,Sensors
+749,SparkFun Coulomb Counter Breakout - LTC4150,$18.95,In stock,https://www.sparkfun.com/sparkfun-coulomb-counter-breakout-ltc4150.html,Sensors
+750,SparkFun Current Sensor Breakout - INA169,$13.93,In stock,https://www.sparkfun.com/sparkfun-current-sensor-breakout-ina169.html,Sensors
+751,Non-Invasive Current Sensor - 30A,$15.95,Backorder,https://www.sparkfun.com/non-invasive-current-sensor-30a.html,Sensors
+752,Fingerprint Scanner - TTL (GT-521F52),$58.95,In stock,https://www.sparkfun.com/fingerprint-scanner-ttl-gt-521f52.html,Sensors
+753,Optical Dust Sensor - GP2Y1010AU0F,$11.95,In stock,https://www.sparkfun.com/optical-dust-sensor-gp2y1010au0f.html,Sensors
+754,SparkFun Qwiic Scale - NAU7802,$18.50,In stock,https://www.sparkfun.com/sparkfun-qwiic-scale-nau7802.html,Sensors
+755,"Load Cell - 5kg, Straight Bar (TAL220B)",$15.50,In stock,https://www.sparkfun.com/load-cell-5kg-straight-bar-tal220b.html,Sensors
+756,"Mini Load Cell - 500g, Straight Bar (TAL221)",$15.50,In stock,https://www.sparkfun.com/mini-load-cell-500g-straight-bar-tal221.html,Sensors
+757,"Mini Load Cell - 100g, Straight Bar (TAL221)",$14.50,In stock,https://www.sparkfun.com/mini-load-cell-100g-straight-bar-tal221.html,Sensors
+758,SparkFun Qwiic Flex Glove Controller,$29.95,Discontinued,https://www.sparkfun.com/sparkfun-qwiic-flex-glove-controller.html,Sensors
+759,"Load Cell - 200kg, S-Type (TAS501)",$96.95,In stock,https://www.sparkfun.com/load-cell-200kg-s-type-tas501.html,Sensors
+760,SparkFun Load Cell Amplifier - HX711,$11.50,In stock,https://www.sparkfun.com/sparkfun-load-cell-amplifier-hx711.html,Sensors
+761,SparkFun Load Sensor Combinator,$2.75,Backorder,https://www.sparkfun.com/sparkfun-load-sensor-combinator.html,Sensors
+762,"Load Cell - 200kg, Disc (TAS606)",$99.95,In stock,https://www.sparkfun.com/load-cell-200kg-disc-tas606.html,Sensors
+763,"Load Cell - 50kg, Disc (TAS606)",$99.95,In stock,https://www.sparkfun.com/load-cell-50kg-disc-tas606.html,Sensors
+764,"Load Cell - 10kg, Straight Bar (TAL220)",$12.95,In stock,https://www.sparkfun.com/load-cell-10kg-straight-bar-tal220.html,Sensors
+765,SparkFun OpenScale,$40.26,In stock,https://www.sparkfun.com/sparkfun-openscale.html,Sensors
+766,"FlexiForce Pressure Sensor - 25lbs (1"" area)",$27.95,In stock,https://www.sparkfun.com/flexiforce-pressure-sensor-25lbs-1-area.html,Sensors
+767,Piezo Element,$1.75,In stock,https://www.sparkfun.com/piezo-element.html,Sensors
+768,Tilt Sensor - AT407,$2.50,In stock,https://www.sparkfun.com/tilt-sensor-at407.html,Sensors
+769,"Flex Sensor 2.2""",$12.50,In stock,https://www.sparkfun.com/flex-sensor-2-2.html,Sensors
+770,Load Sensor - 50kg (Generic),$6.25,In stock,https://www.sparkfun.com/load-sensor-50kg-generic.html,Sensors
+771,Force Sensitive Resistor - Long,$30.95,In stock,https://www.sparkfun.com/force-sensitive-resistor-long.html,Sensors
+772,Force Sensitive Resistor - Small,$10.95,In stock,https://www.sparkfun.com/force-sensitive-resistor-small.html,Sensors
+773,Force Sensitive Resistor - Square,$17.50,In stock,https://www.sparkfun.com/force-sensitive-resistor-square.html,Sensors
+774,"Force Sensitive Resistor 0.5""",$10.95,In stock,https://www.sparkfun.com/force-sensitive-resistor-0-5.html,Sensors
+775,Piezo Vibration Sensor - Small Vertical,$14.95,In stock,https://www.sparkfun.com/piezo-vibration-sensor-small-vertical.html,Sensors
+776,Piezo Vibration Sensor - Small Horizontal,$14.95,In stock,https://www.sparkfun.com/piezo-vibration-sensor-small-horizontal.html,Sensors
+777,Piezo Vibration Sensor - Large with Mass,$10.95,In stock,https://www.sparkfun.com/piezo-vibration-sensor-large-with-mass.html,Sensors
+778,Piezo Vibration Sensor - Large,$9.95,In stock,https://www.sparkfun.com/piezo-vibration-sensor-large.html,Sensors
+779,FlexiForce Pressure Sensor - 1lb.,$22.95,Backorder,https://www.sparkfun.com/flexiforce-pressure-sensor-1lb.html,Sensors
+780,FlexiForce Pressure Sensor - 25lbs.,$24.95,In stock,https://www.sparkfun.com/flexiforce-pressure-sensor-25lbs.html,Sensors
+781,FlexiForce Pressure Sensor - 100lbs.,$22.95,Backorder,https://www.sparkfun.com/flexiforce-pressure-sensor-100lbs.html,Sensors
+782,SoftPot Membrane Potentiometer - 500mm,$27.50,In stock,https://www.sparkfun.com/softpot-membrane-potentiometer-500mm.html,Sensors
+783,SoftPot Membrane Potentiometer - 50mm,$8.95,In stock,https://www.sparkfun.com/softpot-membrane-potentiometer-50mm.html,Sensors
+784,SoftPot Membrane Potentiometer - 200mm,$13.95,In stock,https://www.sparkfun.com/softpot-membrane-potentiometer-200mm.html,Sensors
+785,"Flex Sensor 4.5""",$18.95,In stock,https://www.sparkfun.com/flex-sensor-4-5.html,Sensors
+786,Infrared Detector,$0.95,In stock,https://www.sparkfun.com/infrared-detector.html,Sensors
+787,Infrared Emitter,$0.95,In stock,https://www.sparkfun.com/infrared-emitter.html,Sensors
+788,Infrared Proximity Contactless Button,$24.95,Backorder,https://www.sparkfun.com/infrared-proximity-contactless-button.html,Sensors
+789,"SparkFun IR Array Breakout - 55 Degree FOV, MLX90640 (Qwiic)",$69.95,In stock,https://www.sparkfun.com/sparkfun-ir-array-breakout-55-degree-fov-mlx90640-qwiic.html,Sensors
+790,"SparkFun IR Array Breakout - 110 Degree FOV, MLX90640 (Qwiic)",$69.95,In stock,https://www.sparkfun.com/sparkfun-ir-array-breakout-110-degree-fov-mlx90640-qwiic.html,Sensors
+791,SparkFun Grid-EYE Infrared Array Breakout - AMG8833 (Qwiic),$47.50,In stock,https://www.sparkfun.com/sparkfun-grid-eye-infrared-array-breakout-amg8833-qwiic.html,Sensors
+792,SparkFun Spectral Sensor Breakout - AS7263 NIR (Qwiic),$33.95,In stock,https://www.sparkfun.com/sparkfun-spectral-sensor-breakout-as7263-nir-qwiic.html,Sensors
+793,SST Liquid Level Sensor,$29.50,In stock,https://www.sparkfun.com/sst-liquid-level-sensor.html,Sensors
+794,SparkFun Line Follower Array,$38.95,In stock,https://www.sparkfun.com/sparkfun-line-follower-array.html,Sensors
+795,SparkFun RedBot Sensor - Line Follower,$3.95,In stock,https://www.sparkfun.com/sparkfun-redbot-sensor-line-follower.html,Sensors
+796,IR Receiver Diode - TSOP38238,$2.25,In stock,https://www.sparkfun.com/ir-receiver-diode-tsop38238.html,Sensors
+797,SparkFun Line Sensor Breakout - QRE1113 (Digital),$4.50,In stock,https://www.sparkfun.com/sparkfun-line-sensor-breakout-qre1113-digital.html,Sensors
+798,SparkFun Line Sensor Breakout - QRE1113 (Analog),$4.08,In stock,https://www.sparkfun.com/sparkfun-line-sensor-breakout-qre1113-analog.html,Sensors
+799,SparkFun Photo Interrupter Breakout Board - GP1A57HRJ00F,$1.95,In stock,https://www.sparkfun.com/sparkfun-photo-interrupter-breakout-board-gp1a57hrj00f.html,Sensors
+800,Photo Interrupter - GP1A57HRJ00F,$3.95,In stock,https://www.sparkfun.com/photo-interrupter-gp1a57hrj00f.html,Sensors
+801,Infrared Sensor Jumper Wire - 3-Pin JST,$1.60,In stock,https://www.sparkfun.com/infrared-sensor-jumper-wire-3-pin-jst.html,Sensors
+802,Optical Detector / Phototransistor - QRD1114,$1.05,In stock,https://www.sparkfun.com/optical-detector-phototransistor-qrd1114.html,Sensors
+803,Qwiic Pressure/Humidity/Temp (PHT) Sensor - MS8607,$19.95,Discontinued,https://www.sparkfun.com/qwiic-pressure-humidity-temp-pht-sensor-ms8607.html,Sensors
+804,Barometric Pressure Sensor - MPL115A1,$7.95,In stock,https://www.sparkfun.com/barometric-pressure-sensor-mpl115a1.html,Sensors
+805,SparkFun Micro Absolute Digital Barometer - LPS28DFW (Qwiic),$20.95,In stock,https://www.sparkfun.com/sparkfun-micro-absolute-digital-barometer-lps28dfw-qwiic.html,Sensors
+806,SparkFun Absolute Digital Barometer - LPS28DFW (Qwiic),$19.95,In stock,https://www.sparkfun.com/sparkfun-absolute-digital-barometer-lps28dfw-qwiic.html,Sensors
+807,SparkFun Micro Pressure Sensor - BMP581 (Qwiic),$23.95,In stock,https://www.sparkfun.com/sparkfun-micro-pressure-sensor-bmp581-qwiic.html,Sensors
+808,SparkFun Pressure Sensor - BMP581 (Qwiic),$22.95,In stock,https://www.sparkfun.com/sparkfun-pressure-sensor-bmp581-qwiic.html,Sensors
+809,SparkFun Micro Pressure Sensor - BMP384 (Qwiic),$15.95,In stock,https://www.sparkfun.com/sparkfun-micro-pressure-sensor-bmp384-qwiic.html,Sensors
+810,SparkFun Pressure Sensor - BMP384 (Qwiic),$14.95,In stock,https://www.sparkfun.com/sparkfun-pressure-sensor-bmp384-qwiic.html,Sensors
+811,SparkFun Qwiic MicroPressure Sensor,$37.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-micropressure-sensor.html,Sensors
+812,SparkFun Environmental Sensor Breakout - BME680 (Qwiic),$22.95,In stock,https://www.sparkfun.com/sparkfun-environmental-sensor-breakout-bme680-qwiic.html,Sensors
+813,SparkFun Atmospheric Sensor Breakout - BME280 (Qwiic),$16.95,In stock,https://www.sparkfun.com/sparkfun-atmospheric-sensor-breakout-bme280-qwiic.html,Sensors
+814,SparkFun Pressure Sensor Breakout - MS5803-14BA,$80.50,In stock,https://www.sparkfun.com/sparkfun-pressure-sensor-breakout-ms5803-14ba.html,Sensors
+815,SparkFun Altitude/Pressure Sensor Breakout - MPL3115A2,$16.75,In stock,https://www.sparkfun.com/sparkfun-altitude-pressure-sensor-breakout-mpl3115a2.html,Sensors
+816,SparkFun Variable Load Kit,$48.50,Discontinued,https://www.sparkfun.com/sparkfun-variable-load-kit.html,Sensors
+817,SparkFun Capacitive Touch Slider - CAP1203 (Qwiic),$7.95,In stock,https://www.sparkfun.com/sparkfun-capacitive-touch-slider-cap1203-qwiic.html,Sensors
+818,SparkFun Capacitive Touch Breakout - AT42QT1011,$4.99,In stock,https://www.sparkfun.com/sparkfun-capacitive-touch-breakout-at42qt1011.html,Sensors
+819,SparkFun Capacitive Touch Breakout - AT42QT1010,$3.95,In stock,https://www.sparkfun.com/sparkfun-capacitive-touch-breakout-at42qt1010.html,Sensors
+820,eYs3D Stereo Camera - EX8036,$280.00,Discontinued,https://www.sparkfun.com/eys3d-stereo-camera-ex8036.html,Sensors
+821,Himax CMOS Imaging Camera - HM01B0 (Monochrome),$10.95,In stock,https://www.sparkfun.com/himax-cmos-imaging-camera-hm01b0-monochrome.html,Sensors
+822,PureThermal 3 - FLIR Lepton Smart I/O Board with Lepton FS,$249.95,Discontinued,https://www.sparkfun.com/purethermal-3-flir-lepton-smart-i-o-board-with-lepton-fs.html,Sensors
+823,PureThermal 3 - FLIR Lepton Smart I/O Board,$129.95,In stock,https://www.sparkfun.com/purethermal-3-flir-lepton-smart-i-o-board.html,Sensors
+824,Arducam 5MP Plus OV5642 Mini Camera Module,$72.95,In stock,https://www.sparkfun.com/arducam-5mp-plus-ov5642-mini-camera-module.html,Sensors
+825,PureThermal Mini Pro JST-SR (with FLIR Lepton 3.5),$369.95,In stock,https://www.sparkfun.com/purethermal-mini-pro-jst-sr-with-flir-lepton-3-5.html,Sensors
+826,FLiR Lepton Breakout Board V2,$51.35,In stock,https://www.sparkfun.com/flir-lepton-breakout-board-v2.html,Sensors
+827,FLIR Lepton 2.5 - Thermal Imaging Module,$179.95,In stock,https://www.sparkfun.com/flir-lepton-2-5-thermal-imaging-module.html,Sensors
+828,Logitech C270 Webcam - USB 2.0,$24.95,In stock,https://www.sparkfun.com/logitech-c270-webcam-usb-2-0.html,Sensors
+829,Leopard Imaging Camera - 136 Degree FOV,$26.16,In stock,https://www.sparkfun.com/leopard-imaging-camera-136-degree-fov.html,Sensors
+830,FLIR Radiometric Lepton Dev Kit V2,$199.95,In stock,https://www.sparkfun.com/flir-radiometric-lepton-dev-kit-v2.html,Sensors
+831,SparkFun Ambient Light Sensor - VEML6030 (Qwiic),$5.95,In stock,https://www.sparkfun.com/sparkfun-ambient-light-sensor-veml6030-qwiic.html,Sensors
+832,SparkFun Triad Spectroscopy Sensor - AS7265x (Qwiic),$69.95,In stock,https://www.sparkfun.com/sparkfun-triad-spectroscopy-sensor-as7265x-qwiic.html,Sensors
+833,SparkFun Spectral Sensor Breakout - AS7262 Visible (Qwiic),$28.50,In stock,https://www.sparkfun.com/sparkfun-spectral-sensor-breakout-as7262-visible-qwiic.html,Sensors
+834,SparkFun RGB Light Sensor - ISL29125,$11.95,In stock,https://www.sparkfun.com/sparkfun-rgb-light-sensor-isl29125.html,Sensors
+835,Mini Photocell,$1.75,In stock,https://www.sparkfun.com/mini-photocell.html,Sensors
+836,SparkFun Ambient Light Sensor Breakout - TEMT6000,$4.95,In stock,https://www.sparkfun.com/sparkfun-ambient-light-sensor-breakout-temt6000.html,Sensors
+837,SparkFun 6 Degrees of Freedom Breakout - LSM6DSO (Qwiic),$16.95,In stock,https://www.sparkfun.com/sparkfun-6-degrees-of-freedom-breakout-lsm6dso-qwiic.html,Sensors
+838,Doppler Radar Sensor Module - RCWL-0516 (with Headers),$2.50,Backorder,https://www.sparkfun.com/human-body-induction-module-rcwl-0516-with-headers.html,Sensors
+839,SparkFun PIR Breakout Starter Kit (170uA),$30.36,In stock,https://www.sparkfun.com/sparkfun-pir-breakout-starter-kit-170ua.html,Sensors
+840,SparkFun PIR Breakout Starter Kit (1uA),$25.25,In stock,https://www.sparkfun.com/sparkfun-pir-breakout-starter-kit-1ua.html,Sensors
+841,SparkFun Qwiic Mini dToF Imager - TMF8821,$14.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-mini-dtof-imager-tmf8821.html,Sensors
+842,SparkFun Qwiic Mini dToF Imager - TMF8820,$14.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-mini-dtof-imager-tmf8820.html,Sensors
+843,SparkFun Qwiic dToF Imager - TMF8821,$14.50,In stock,https://www.sparkfun.com/sparkfun-qwiic-dtof-imager-tmf8821.html,Sensors
+844,SparkFun Qwiic dToF Imager - TMF8820,$14.50,In stock,https://www.sparkfun.com/sparkfun-qwiic-dtof-imager-tmf8820.html,Sensors
+845,SparkFun Qwiic Mini ToF Imager - VL53L5CX,$25.95,Backorder,https://www.sparkfun.com/sparkfun-qwiic-mini-tof-imager-vl53l5cx.html,Sensors
+846,"SparkFun Distance Sensor - 1.3 Meter, VL53L4CD (Qwiic)",$22.45,In stock,https://www.sparkfun.com/sparkfun-distance-sensor-1-3-meter-vl53l4cd-qwiic.html,Sensors
+847,SparkFun Qwiic ToF Imager - VL53L5CX,$32.50,Backorder,https://www.sparkfun.com/sparkfun-qwiic-tof-imager-vl53l5cx.html,Sensors
+848,Garmin LIDAR-Lite v4 LED - Distance Measurement Sensor (Qwiic),$119.95,In stock,https://www.sparkfun.com/garmin-lidar-lite-v4-led-distance-measurement-sensor-qwiic.html,Sensors
+849,SparkFun Qwiic PIR - 1uA (EKMB1107112),$33.50,Discontinued,https://www.sparkfun.com/sparkfun-qwiic-pir-1ua-ekmb1107112.html,Sensors
+850,SparkFun Qwiic PIR - 170uA (EKMC4607112K),$22.50,In stock,https://www.sparkfun.com/sparkfun-qwiic-pir-170ua-ekmc4607112k.html,Sensors
+851,SparkFun PIR Breakout - 1uA (EKMB1107112),$14.95,Discontinued,https://www.sparkfun.com/sparkfun-pir-breakout-1ua-ekmb1107112.html,Sensors
+852,SparkFun PIR Breakout - 170uA (EKMC4607112K),$12.90,In stock,https://www.sparkfun.com/sparkfun-pir-breakout-170ua-ekmc4607112k.html,Sensors
+853,TFMini-S - Micro LiDAR Module,$72.95,In stock,https://www.sparkfun.com/tfmini-s-micro-lidar-module.html,Sensors
+854,Garmin LIDAR-Lite v4 LED - Distance Measurement Sensor,$69.99,In stock,https://www.sparkfun.com/garmin-lidar-lite-v4-led-distance-measurement-sensor.html,Sensors
+855,Ultrasonic Distance Sensor - 5V (HC-SR04),$5.25,In stock,https://www.sparkfun.com/ultrasonic-distance-sensor-hc-sr04.html,Sensors
+856,TFMini Plus - Micro LiDAR Module,$88.95,In stock,https://www.sparkfun.com/tfmini-plus-micro-lidar-module.html,Sensors
+857,"SparkFun Proximity Sensor Breakout - 20cm, VCNL4040 (Qwiic)",$4.95,In stock,https://www.sparkfun.com/sparkfun-proximity-sensor-breakout-20cm-vcnl4040-qwiic.html,Sensors
+858,"SparkFun Distance Sensor Breakout - 4 Meter, VL53L1X (Qwiic)",$29.95,In stock,https://www.sparkfun.com/sparkfun-distance-sensor-breakout-4-meter-vl53l1x-qwiic.html,Sensors
+859,LIDAR-Lite v3HP,$169.99,In stock,https://www.sparkfun.com/lidar-lite-v3hp.html,Sensors
+860,SparkFun Human Presence Sensor Breakout - AK9753 (Qwiic),$22.50,In stock,https://www.sparkfun.com/sparkfun-human-presence-sensor-breakout-ak9753-qwiic.html,Sensors
+861,LIDAR-Lite v3,$149.99,In stock,https://www.sparkfun.com/lidar-lite-v3.html,Sensors
+862,PIR Motion Sensor (JST),$11.50,Backorder,https://www.sparkfun.com/pir-motion-sensor-jst.html,Sensors
+863,ZX Distance and Gesture Sensor,$28.50,In stock,https://www.sparkfun.com/zx-distance-and-gesture-sensor.html,Sensors
+864,SparkFun RGB and Gesture Sensor - APDS-9960,$3.99,Out of stock,https://www.sparkfun.com/sparkfun-rgb-and-gesture-sensor-apds-9960.html,Sensors
+865,SparkFun ToF Range Finder Sensor - VL6180,$22.95,In stock,https://www.sparkfun.com/sparkfun-tof-range-finder-sensor-vl6180.html,Sensors
+866,SparkFun ToF Range Finder Breakout - VL6180,$12.95,In stock,https://www.sparkfun.com/sparkfun-tof-range-finder-breakout-vl6180.html,Sensors
+867,Infrared Proximity Sensor Short Range - Sharp GP2Y0A41SK0F,$22.50,In stock,https://www.sparkfun.com/infrared-proximity-sensor-short-range-sharp-gp2y0a41sk0f.html,Sensors
+868,SparkFun RedBot Sensor - Mechanical Bumper,$1.75,In stock,https://www.sparkfun.com/sparkfun-redbot-sensor-mechanical-bumper.html,Sensors
+869,Infrared Proximity Sensor - Sharp GP2Y0A21YK,$15.50,In stock,https://www.sparkfun.com/infrared-proximity-sensor-sharp-gp2y0a21yk.html,Sensors
+870,SparkFun Micro Magnetometer - MMC5983MA (Qwiic),$18.50,In stock,https://www.sparkfun.com/sparkfun-micro-magnetometer-mmc5983ma-qwiic.html,Sensors
+871,Hall-Effect Sensor - AH1815 (Non-Latching),$1.05,In stock,https://www.sparkfun.com/hall-effect-sensor-ah1815-non-latching.html,Sensors
+872,SparkFun Triple Axis Magnetometer Breakout - MLX90393 (Qwiic),$19.96,In stock,https://www.sparkfun.com/sparkfun-triple-axis-magnetometer-breakout-mlx90393-qwiic.html,Sensors
+873,LilyPad Reed Switch,$6.75,In stock,https://www.sparkfun.com/lilypad-reed-switch.html,Sensors
+874,Magnetic Door Switch Set,$4.50,In stock,https://www.sparkfun.com/magnetic-door-switch-set.html,Sensors
+875,SparkFun Digital Compass - HMC6343,$124.95,In stock,https://www.sparkfun.com/sparkfun-hmc6343-breakout.html,Sensors
+876,Reed Switch - Insulated,$3.50,In stock,https://www.sparkfun.com/reed-switch-insulated.html,Sensors
+877,Hall-Effect Sensor - US1881 (Latching),$1.10,In stock,https://www.sparkfun.com/hall-effect-sensor-us1881-latching.html,Sensors
+878,Reed Switch,$2.25,In stock,https://www.sparkfun.com/reed-switch.html,Sensors
+879,Thermocouple Connector - PCC-SMP-K-R,$10.95,In stock,https://www.sparkfun.com/thermocouple-connector-pcc-smp-k-r.html,Sensors
+880,Elektor 6-Channel Temperature Monitor & Logger – Partly Assembled Module,$94.95,In stock,https://www.sparkfun.com/elektor-6-channel-temperature-monitor-logger-partly-assembled-module.html,Sensors
+881,"Particle, VOC, Humidity, and Temperature Sensor - SEN54",$34.95,In stock,https://www.sparkfun.com/particle-voc-humidity-and-temperature-sensor-sen54.html,Sensors
+882,SparkFun Digital Temperature Sensor Breakout - AS6212 (Qwiic),$10.95,In stock,https://www.sparkfun.com/sparkfun-digital-temperature-sensor-breakout-as6212-qwiic.html,Sensors
+883,"Temperature Sensor - High Temperature, Waterproof (DS18B20)",$11.95,Backorder,https://www.sparkfun.com/temperature-sensor-high-temperature-waterproof-ds18b20.html,Sensors
+884,Humidity and Temperature Sensor - DHT20,$8.95,In stock,https://www.sparkfun.com/humidity-and-temperature-sensor-dht20.html,Sensors
+885,Platinum RTD Sensor - PT100,$16.50,In stock,https://www.sparkfun.com/platinum-rtd-sensor-pt100.html,Sensors
+886,SparkFun Digital Temperature Sensor - TMP102 (Qwiic),$8.23,In stock,https://www.sparkfun.com/sparkfun-digital-temperature-sensor-tmp102-qwiic.html,Sensors
+887,SparkFun Qwiic Thermocouple Amplifier - MCP9600 (Screw Terminals),$30.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-thermocouple-amplifier-mcp9600-screw-terminals.html,Sensors
+888,SparkFun Qwiic Thermocouple Amplifier - MCP9600 (PCC Connector),$39.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-thermocouple-amplifier-mcp9600-pcc-connector.html,Sensors
+889,SparkFun High Precision Temperature Sensor - TMP117 (Qwiic),$16.95,In stock,https://www.sparkfun.com/sparkfun-high-precision-temperature-sensor-tmp117-qwiic.html,Sensors
+890,Particulate Matter Sensor - SPS30,$60.50,In stock,https://www.sparkfun.com/particulate-matter-sensor-sps30.html,Sensors
+891,One-Wire Ambient Temperature Sensor - MAX31820,$5.75,In stock,https://www.sparkfun.com/one-wire-ambient-temperature-sensor-max31820.html,Sensors
+892,Thermocouple Type-K - Stainless Steel,$8.50,In stock,https://www.sparkfun.com/thermocouple-type-k-stainless-steel.html,Sensors
+893,Thermocouple Connector - PCC-SMP-K,$10.95,In stock,https://www.sparkfun.com/thermocouple-connector-pcc-smp-k.html,Sensors
+894,SparkFun Digital Temperature Sensor Breakout - TMP102,$5.95,In stock,https://www.sparkfun.com/sparkfun-digital-temperature-sensor-breakout-tmp102.html,Sensors
+895,SparkFun Thermocouple Breakout - MAX31855K,$20.95,In stock,https://www.sparkfun.com/sparkfun-thermocouple-breakout-max31855k.html,Sensors
+896,Temperature Sensor - Waterproof (DS18B20),$10.95,In stock,https://www.sparkfun.com/temperature-sensor-waterproof-ds18b20.html,Sensors
+897,SparkFun IR Thermometer Evaluation Board - MLX90614,$30.95,In stock,https://www.sparkfun.com/sparkfun-ir-thermometer-evaluation-board-mlx90614.html,Sensors
+898,Infrared Thermometer - MLX90614,$18.95,In stock,https://www.sparkfun.com/infrared-thermometer-mlx90614.html,Sensors
+899,LilyPad Temperature Sensor,$5.95,In stock,https://www.sparkfun.com/lilypad-temperature-sensor.html,Sensors
+900,Thermocouple Type-K - Glass Braid Insulated (Bare Wire),$17.95,In stock,https://www.sparkfun.com/thermocouple-type-k-glass-braid-insulated-bare-wire.html,Sensors
+901,Thermistor 10K,$1.25,In stock,https://www.sparkfun.com/thermistor-10k.html,Sensors
+902,"SparkFun 9DoF IMU Breakout - ISM330DHCX, MMC5983MA (Qwiic)",$45.74,In stock,https://www.sparkfun.com/sparkfun-9dof-imu-breakout-ism330dhcx-mmc5983ma-qwiic.html,Sensors
+903,MyoWare 2.0 LED Shield,$26.95,Discontinued,https://www.sparkfun.com/myoware-2-0-led-shield-1.html,Sensors
+904,LilyPad Accelerometer - ADXL335,$18.50,In stock,https://www.sparkfun.com/lilypad-accelerometer-adxl335.html,Sensors
+905,SparkFun Qwiic Dynamic NFC/RFID Tag,$11.95,In stock,https://www.sparkfun.com/sparkfun-qwiic-dynamic-nfc-rfid-tag.html,Sensors
+906,SpectraFlex™ Flex Sensor - 55mm (Male Pins),$10.50,In stock,https://www.sparkfun.com/spectraflextm-flex-sensor-55mm-male-pins.html,Sensors
+907,SparkFun DataLogger IoT RFID Kit,$64.95,Discontinued,https://www.sparkfun.com/sparkfun-datalogger-iot-rfid-kit.html,Sensors
+908,SpectraFlex™ Flex Sensor - 95mm (Male Pins),$14.95,In stock,https://www.sparkfun.com/spectraflextm-flex-sensor-95mm-male-pins.html,Sensors
+909,SparkFun Simultaneous RFID Reader - M7E Hecto,$309.95,In stock,https://www.sparkfun.com/sparkfun-simultaneous-rfid-reader-m7e-hecto.html,Sensors
+910,SparkFun Thing Plus - NINA-B306,$56.95,In stock,https://www.sparkfun.com/sparkfun-thing-plus-nina-b306.html,Sensors
+911,Gas Sensor Module - ZMOD4450,$9.95,In stock,https://www.sparkfun.com/gas-sensor-module-zmod4450.html,Sensors
+912,Line Follower Sensor,$4.95,In stock,https://www.sparkfun.com/line-follower-sensor.html,Sensors
+913,MyoWare 2.0 Muscle Sensor Wireless Kit,$124.95,Discontinued,https://www.sparkfun.com/myoware-2-0-muscle-sensor-wireless-kit.html,Sensors
+914,SparkFun BlueSMiRF v2,$20.25,In stock,https://www.sparkfun.com/sparkfun-bluesmirf-v2.html,IoT & Wireless
+915,SparkFun BlueSMiRF v2 - Headers,$23.50,In stock,https://www.sparkfun.com/sparkfun-bluesmirf-v2-headers.html,IoT & Wireless
+916,SparkFun DataLogger IoT,$57.95,In stock,https://www.sparkfun.com/sparkfun-datalogger-iot.html,IoT & Wireless
+917,SparkFun DataLogger IoT - 9DoF,$79.95,In stock,https://www.sparkfun.com/sparkfun-datalogger-iot-9dof.html,IoT & Wireless
+918,SparkFun LoRaSerial Kit - 915MHz (Enclosed),$179.95,Backorder,https://www.sparkfun.com/sparkfun-loraserial-kit-915mhz-enclosed.html,IoT & Wireless
+919,SparkFun Artemis Global Tracker,$419.95,Backorder,https://www.sparkfun.com/sparkfun-artemis-global-tracker.html,IoT & Wireless
+920,HackRF Pro,$400.00,In stock,https://www.sparkfun.com/hackrf-pro.html,IoT & Wireless
+921,Wireless Joystick Breakout Board,$14.95,In stock,https://www.sparkfun.com/wireless-joystick-breakout-board.html,IoT & Wireless
+922,Iridium Qualified 9704 Helical Antenna,$109.95,In stock,https://www.sparkfun.com/iridium-qualified-9704-helical-antenna.html,IoT & Wireless
+923,RockBLOCK 9704 - SMA,$279.95,Backorder,https://www.sparkfun.com/rockblock-9704-sma.html,IoT & Wireless
+924,SparkFun MicroMod Asset Tracker Carrier Board (SARA-R510AWS),$139.95,In stock,https://www.sparkfun.com/sparkfun-micromod-asset-tracker-carrier-board-sara-r510aws.html,IoT & Wireless
+925,RockBLOCK 9704 - Patch Antenna,$274.95,Backorder,https://www.sparkfun.com/rockblock-9704-patch-antenna.html,IoT & Wireless
+926,ISM/LoRa Compact Flexible PCB Antenna - 860-928MHz,$9.95,In stock,https://www.sparkfun.com/868-915mhz-ism-lora-compact-flexible-pcb-antenna.html,IoT & Wireless
+927,RTL-SDR Blog V4 USB Dongle with Dipole Antenna Kit,$84.95,In stock,https://www.sparkfun.com/rtl-sdr-blog-v4-usb-dongle-with-dipole-antenna-kit.html,IoT & Wireless
+928,SparkFun XBee 3 Wireless Kit,$87.95,In stock,https://www.sparkfun.com/sparkfun-xbee-3-wireless-kit.html,IoT & Wireless
+929,Digi XBee® RR Pro Module  - PCB Antenna,$38.25,In stock,https://www.sparkfun.com/digi-xbeer-rr-pro-module-pcb-antenna.html,IoT & Wireless
+930,Digi XBee® RR Module  - PCB Antenna,$23.95,In stock,https://www.sparkfun.com/digi-xbeer-rr-module-pcb-antenna.html,IoT & Wireless
+931,SparkFun Digi XBee® Explorer Regulated,$14.50,In stock,https://www.sparkfun.com/sparkfun-digi-xbeer-explorer-regulated.html,IoT & Wireless
+932,SparkFun Digi XBee® Development Board,$22.95,In stock,https://www.sparkfun.com/sparkfun-digi-xbeer-development-board.html,IoT & Wireless
+933,Sparkfun Digi X-ON Kit for LoRaWAN® (North America),$399.95,In stock,https://www.sparkfun.com/sparkfun-iot-node-lorawan-gateway-kit-north-america.html,IoT & Wireless
+934,SparkFun Digi XBee® Explorer USB-C,$19.50,In stock,https://www.sparkfun.com/sparkfun-digi-xbeer-explorer-usb-c.html,IoT & Wireless
+935,RTL-SDR BLOG V3 USB Dongle with Dipole Antenna Kit,$84.50,In stock,https://www.sparkfun.com/rtl-sdr-blog-v3-usb-dongle-with-dipole-antenna-kit.html,IoT & Wireless
+936,Digi XBee® RR Pro Module - SMA Antenna,$38.95,In stock,https://www.sparkfun.com/digi-xbeer-rr-pro-module-sma-antenna.html,IoT & Wireless
+937,Digi XBee® RR Module - SMA Antenna,$23.95,In stock,https://www.sparkfun.com/digi-xbeer-rr-module-sma-antenna.html,IoT & Wireless
+938,Digi XBee® RR Pro Module  - U.FL Antenna,$38.95,In stock,https://www.sparkfun.com/digi-xbeer-rr-pro-module-u-fl-antenna.html,IoT & Wireless
+939,Digi XBee® RR Module - U.FL Antenna,$23.95,In stock,https://www.sparkfun.com/digi-xbeer-rr-module-u-fl-antenna.html,IoT & Wireless
+940,"Digi XBee® 3 North America LTE Cat 1, 3G, GNSS, no SIM",$116.95,In stock,https://www.sparkfun.com/digi-xbeer-3-north-america-lte-cat-1-3g-gnss-no-sim.html,IoT & Wireless
+941,"Digi XBee® 3 Low-Power LTE-M/NB-IoT, GNSS, no SIM",$60.87,In stock,https://www.sparkfun.com/digi-xbeer-3-low-power-lte-m-nb-iot-gnss-no-sim.html,IoT & Wireless
+942,SparkFun NanoBeacon Board - IN100,$6.10,In stock,https://www.sparkfun.com/sparkfun-nanobeacon-board-in100.html,IoT & Wireless
+943,AWS IoT ExpressLink SARA-R5 Starter Kit V2,$199.95,Discontinued,https://www.sparkfun.com/aws-iot-expresslink-sara-r5-starter-kit-v2.html,IoT & Wireless
+944,SparkFun LTE GNSS Function Board - SARA-R5,$99.95,Discontinued,https://www.sparkfun.com/sparkfun-lte-gnss-function-board-sara-r5.html,IoT & Wireless
+945,BeaglePlay,$99.00,In stock,https://www.sparkfun.com/beagleplay.html,IoT & Wireless
+946,SparkFun LTE Stick - LARA-R6,$149.95,Discontinued,https://www.sparkfun.com/sparkfun-lte-stick-lara-r6.html,IoT & Wireless
+947,LTE Wide Band Flex Antenna 600MHz - 6000MHz,$9.95,In stock,https://www.sparkfun.com/lte-wide-band-flex-antenna-600mhz-6000mhz.html,IoT & Wireless
+948,Nordic nRF52840 BLE Module (MDBT50Q-1MV2),$8.95,In stock,https://www.sparkfun.com/nordic-nrf52840-ble-module-mdbt50q-1mv2.html,IoT & Wireless
+949,"Surface Mount Bluetooth v5.0, Thread, Zigbee Transceiver Module (2.4GHz, U.FL)",$8.95,In stock,https://www.sparkfun.com/surface-mount-bluetooth-v5-0-thread-zigbee-transceiver-module-2-4ghz-u-fl.html,IoT & Wireless
+950,"SparkFun Antenna - SMA, 2dBi (433MHz)",$16.95,In stock,https://www.sparkfun.com/sparkfun-antenna-sma-2dbi-433mhz.html,IoT & Wireless
+951,"SparkFun DiPole Antenna - SMA, 2dBi (868MHz)",$17.95,In stock,https://www.sparkfun.com/sparkfun-dipole-antenna-sma-2dbi-868mhz.html,IoT & Wireless
+952,Interface Cable RP-SMA to U.FL - 100mm,$4.95,In stock,https://www.sparkfun.com/interface-cable-rp-sma-to-u-fl.html,IoT & Wireless
+953,Breakout Board for XBee Module,$3.75,In stock,https://www.sparkfun.com/breakout-board-for-xbee-module.html,IoT & Wireless
+954,SparkFun XBee Explorer Serial,$24.13,In stock,https://www.sparkfun.com/sparkfun-xbee-explorer-serial.html,IoT & Wireless
+955,SparkFun XBee Explorer USB,$32.65,In stock,https://www.sparkfun.com/sparkfun-xbee-explorer-usb.html,IoT & Wireless
+956,SparkFun XBee Explorer Dongle,$32.29,In stock,https://www.sparkfun.com/sparkfun-xbee-explorer-dongle.html,IoT & Wireless
+957,SparkFun XBee Explorer Regulated,$14.50,Backorder,https://www.sparkfun.com/sparkfun-xbee-explorer-regulated.html,IoT & Wireless
+958,GNSS Multi-Band L1/L2 Surveying Antenna - TNC (TOP106),$199.95,In stock,https://www.sparkfun.com/gnss-multi-band-l1-l2-surveying-antenna-tnc-top106.html,IoT & Wireless
+959,Antenna Thread Adapter - 1/4in. to 5/8in.,$6.50,In stock,https://www.sparkfun.com/antenna-thread-adapter-1-4in-to-5-8in.html,IoT & Wireless
+960,Molex Flexible GNSS Antenna - U.FL (Adhesive),$6.50,In stock,https://www.sparkfun.com/molex-flexible-gnss-antenna-u-fl-adhesive.html,IoT & Wireless
+961,GNSS L1/L2 Multi-Band Magnetic Mount Antenna - 5m (SMA),$109.95,In stock,https://www.sparkfun.com/gnss-multi-band-magnetic-mount-antenna-5m-sma.html,IoT & Wireless
+962,Quad-band Cellular Antenna SMA,$11.50,In stock,https://www.sparkfun.com/quad-band-cellular-antenna-sma.html,IoT & Wireless
+963,Quad-band Cellular Duck Antenna SMA,$1.95,In stock,https://www.sparkfun.com/quad-band-cellular-duck-antenna-sma.html,IoT & Wireless
+964,Quad-band Wired Cellular Antenna SMA,$17.50,In stock,https://www.sparkfun.com/quad-band-wired-cellular-antenna-sma.html,IoT & Wireless
+965,ARGOS Omnidirectional Antenna - 401MHz,$14.95,In stock,https://www.sparkfun.com/argos-omnidirectional-antenna-401mhz.html,IoT & Wireless
+966,868MHz European LoRa Antenna RP-SMA - 1/4 Wave 2dBi,$8.95,Discontinued,https://www.sparkfun.com/868mhz-european-lora-antenna-rp-sma-1-4-wave-2dbi.html,IoT & Wireless
+967,"Steedan MA350 – Low Profile, 5-in-1 Magnetic Mount Combination Antenna",$185.95,In stock,https://www.sparkfun.com/steedan-ma350-low-profile-5-in-1-magnetic-mount-combination-antenna.html,IoT & Wireless
+968,Interface Cable N to RP-SMA Cable - 1m,$7.95,In stock,https://www.sparkfun.com/interface-cable-n-to-rp-sma-cable-1m.html,IoT & Wireless
+969,Telescopic Antenna SMA - 300 MHz to 1.1 GHz (ANT700),$29.50,In stock,https://www.sparkfun.com/telescopic-antenna-sma-300-mhz-to-1-1-ghz-ant700.html,IoT & Wireless
+970,Interface Cable - SMA Female to SMA Male (25cm),$5.50,In stock,https://www.sparkfun.com/interface-cable-sma-female-to-sma-male-25cm.html,IoT & Wireless
+971,Interface Cable MMCX to SMA,$8.95,Discontinued,https://www.sparkfun.com/interface-cable-mmcx-to-sma.html,IoT & Wireless
+972,2.4GHz Ceramic Chip Antenna,$3.50,In stock,https://www.sparkfun.com/2-4ghz-ceramic-chip-antenna.html,IoT & Wireless
+973,SparkFun MicroMod Cellular Function Board - Blues Wireless Notecarrier,$64.95,In stock,https://www.sparkfun.com/sparkfun-micromod-cellular-function-board-blues-wireless-notecarrier.html,IoT & Wireless
+974,SparkFun LTE GNSS Breakout - SARA-R5,$133.95,Discontinued,https://www.sparkfun.com/sparkfun-lte-gnss-breakout-sara-r5.html,IoT & Wireless
+975,SparkFun MicroMod Asset Tracker Carrier Board,$154.50,In stock,https://www.sparkfun.com/sparkfun-micromod-asset-tracker-carrier-board.html,IoT & Wireless
+976,Hologram eUICC SIM Card,$5.75,In stock,https://www.sparkfun.com/hologram-euicc-sim-card.html,IoT & Wireless
+977,SparkFun SIM Card Socket Breakout,$5.10,In stock,https://www.sparkfun.com/sparkfun-sim-card-socket-breakout.html,IoT & Wireless
+978,WiFi HaLow Antenna - SMA (915Mhz),$10.95,In stock,https://www.sparkfun.com/wifi-halow-antenna-sma-915mhz.html,IoT & Wireless
+979,Magnetic Mount SMA - 2m,$32.50,In stock,https://www.sparkfun.com/magnetic-mount-sma-2m.html,IoT & Wireless
+980,RP-SMA to U.FL Cable - 150mm,$2.75,In stock,https://www.sparkfun.com/rp-sma-to-u-fl-cable-150mm.html,IoT & Wireless
+981,SMA to U.FL Cable - 150mm,$2.75,In stock,https://www.sparkfun.com/sma-to-u-fl-cable-150mm.html,IoT & Wireless
+982,"Dual Band Antenna - U.FL (2.4GHz, 5.8GHz)",$2.50,In stock,https://www.sparkfun.com/dual-band-antenna-u-fl-2-4ghz-5-8ghz.html,IoT & Wireless
+983,PCB Antenna - U.FL (2.4GHz),$1.95,In stock,https://www.sparkfun.com/pcb-antenna-u-fl-2-4ghz.html,IoT & Wireless
+984,Wide Band 4G LTE Internal LoRa Antenna,$2.50,In stock,https://www.sparkfun.com/wide-band-4g-lte-internal-lora-antenna.html,IoT & Wireless
+985,"2.4GHz Terminal Antenna, I-PEX MHF® I (U.FL), 250mm RG-178",$12.95,Discontinued,https://www.sparkfun.com/2-4ghz-terminal-antenna-i-pex-mhfr-i-u-fl-250mm-rg-178.html,IoT & Wireless
+986,"LTE Hinged External Antenna - 698MHz-2.7GHz, SMA Male",$12.95,In stock,https://www.sparkfun.com/lte-hinged-external-antenna-698mhz-2-7ghz-sma-male.html,IoT & Wireless
+987,LTE Antenna 175mm Duck SMA Male - VT4GLTE-R-10,$8.95,In stock,https://www.sparkfun.com/lte-antenna-175mm-duck-sma-male-vt4glte-r-10.html,IoT & Wireless
+988,Telescopic Antenna SMA - 75 MHz to 1 GHz (ANT500),$44.95,Backorder,https://www.sparkfun.com/telescopic-antenna-sma-75-mhz-to-1-ghz-ant500.html,IoT & Wireless
+989,SMA Male to RPSMA Male Adapter,$2.25,In stock,https://www.sparkfun.com/sma-male-to-rpsma-male-adapter.html,IoT & Wireless
+990,RPSMA Male to SMA Female Adapter,$2.25,In stock,https://www.sparkfun.com/rpsma-male-to-sma-female-adapter.html,IoT & Wireless
+991,Interface Cable SMA to U.FL - 100mm,$5.75,In stock,https://www.sparkfun.com/interface-cable-sma-to-u-fl.html,IoT & Wireless
+992,900/1800MHz Dual Frequency Duck Antenna - RP-SMA,$9.95,In stock,https://www.sparkfun.com/900-1800mhz-dual-frequency-duck-antenna-rp-sma.html,IoT & Wireless
+993,SMA Connector,$2.75,In stock,https://www.sparkfun.com/sma-connector.html,IoT & Wireless
+994,Reverse Polarized SMA Connector,$2.95,In stock,https://www.sparkfun.com/reverse-polarized-sma-connector.html,IoT & Wireless
+995,2.4GHz Duck Antenna RP-SMA - Large,$18.50,Backorder,https://www.sparkfun.com/2-4ghz-duck-antenna-rp-sma-large.html,IoT & Wireless
+996,2.4GHz Duck Antenna RP-SMA,$14.95,In stock,https://www.sparkfun.com/2-4ghz-duck-antenna-rp-sma.html,IoT & Wireless
+997,RockBLOCK 9603N - Iridium SatComm Module,$299.95,Backorder,https://www.sparkfun.com/rockblock-9603n-iridium-satcomm-module.html,IoT & Wireless
+998,RockBLOCK Mk2 - Iridium SatComm Module,$274.95,Discontinued,https://www.sparkfun.com/rockblock-mk2-iridium-satcomm-module.html,IoT & Wireless
+999,LoRa Fiberglass Antenna Type N - 5.8dBi (863-870MHz),$29.95,In stock,https://www.sparkfun.com/lora-fiberglass-antenna-type-n-5-8dbi-863-870mhz.html,IoT & Wireless
+1000,SparkFun MicroMod LoRa Function Board,$13.95,Discontinued,https://www.sparkfun.com/sparkfun-micromod-lora-function-board.html,IoT & Wireless
+1001,LoRa Fiberglass Antenna Type N - 5.8dBi (902-928MHz),$14.95,In stock,https://www.sparkfun.com/lora-fiberglass-antenna-type-n-5-8dbi-902-928mhz.html,IoT & Wireless
+1002,915MHz LoRa Antenna RP-SMA - 1/2 Wave 2dBi,$17.95,In stock,https://www.sparkfun.com/915mhz-lora-antenna-rp-sma-1-2-wave-2dbi.html,IoT & Wireless
+1003,915MHz LoRa Antenna RP-SMA - 1/4 Wave 2dBi,$18.95,In stock,https://www.sparkfun.com/915mhz-lora-antenna-rp-sma-1-4-wave-2dbi.html,IoT & Wireless
+1004,ARGOS Satellite Transceiver Shield - ARTIC R2,$199.95,Discontinued,https://www.sparkfun.com/argos-satellite-transceiver-shield-artic-r2.html,IoT & Wireless
+1005,Qwiic Iridium 9603N,$249.95,Discontinued,https://www.sparkfun.com/qwiic-iridium-9603n.html,IoT & Wireless
+1006,"SiK Telemetry Radio V3 - 915MHz, 100mW",$149.95,In stock,https://www.sparkfun.com/sik-telemetry-radio-v3-915mhz-100mw.html,IoT & Wireless
+1007,LoRa 1W Breakout - 915M30S,$29.95,In stock,https://www.sparkfun.com/lora-1w-breakout-915m30s.html,IoT & Wireless
+1008,LoRa Transceiver Module (RFM95CW),$14.95,In stock,https://www.sparkfun.com/lora-transceiver-module-rfm95cw.html,IoT & Wireless
+1009,LoRa/FSK Transceiver Module - 915MHz (RFM97CW),$5.99,Discontinued,https://www.sparkfun.com/lora-fsk-transceiver-module-915mhz-rfm97cw.html,IoT & Wireless
+1010,RFM69HCW Wireless Transceiver - 434MHz,$8.75,In stock,https://www.sparkfun.com/rfm69hcw-wireless-transceiver-434mhz.html,IoT & Wireless
+1011,RFM69HCW Wireless Transceiver - 915MHz,$8.50,In stock,https://www.sparkfun.com/rfm69hcw-wireless-transceiver-915mhz.html,IoT & Wireless
+1012,HackRF One,$339.95,Discontinued,https://www.sparkfun.com/hackrf-one.html,IoT & Wireless
+1013,RF Link Transmitter - 315MHz,$5.75,In stock,https://www.sparkfun.com/rf-link-transmitter-315mhz.html,IoT & Wireless
+1014,RF Link Transmitter - 434MHz,$5.75,In stock,https://www.sparkfun.com/rf-link-transmitter-434mhz.html,IoT & Wireless
+1015,RF Link Receiver - 4800bps (315MHz),$6.75,In stock,https://www.sparkfun.com/rf-link-receiver-4800bps-315mhz.html,IoT & Wireless
+1016,RF Link Receiver - 4800bps (434MHz),$6.75,In stock,https://www.sparkfun.com/rf-link-receiver-4800bps-434mhz.html,IoT & Wireless
+1017,ESP32-C3 WROOM Development Board,$10.95,Discontinued,https://www.sparkfun.com/esp32-c3-wroom-development-board.html,IoT & Wireless
+1018,WiFi Module - ESP8266 (4MB Flash),$7.50,In stock,https://www.sparkfun.com/wifi-module-esp8266-4mb-flash.html,IoT & Wireless
+1019,OpenMV WiFi Shield,$32.50,Discontinued,https://www.sparkfun.com/openmv-wifi-shield.html,IoT & Wireless
+1020,Iridium/GPS/GLONASS Passive Antenna,$70.95,In stock,https://www.sparkfun.com/iridium-gps-glonass-passive-antenna.html,IoT & Wireless
+1021,ESP32 WROOM MCU Module - 8MB (Dual Antenna),$2.44,In stock,https://www.sparkfun.com/esp32-wroom-mcu-module-8mb-dual-antenna.html,IoT & Wireless
+1022,ESP32-S2 WROOM Module - 4MB (PCB Antenna),$2.50,In stock,https://www.sparkfun.com/esp32-s2-wroom-module-4mb-pcb-antenna.html,IoT & Wireless
+1023,ESP32-C3 Mini Development Board,$8.95,In stock,https://www.sparkfun.com/esp32-c3-mini-development-board.html,IoT & Wireless
+1024,ESP32 WROOM MCU Module - 16MB (PCB Antenna),$3.95,In stock,https://www.sparkfun.com/esp32-wroom-mcu-module-16mb-pcb-antenna.html,IoT & Wireless
+1025,ESP32 WROOM MCU Module - 16MB (U.FL),$5.99,In stock,https://www.sparkfun.com/esp32-wroom-mcu-module-16mb-u-fl.html,IoT & Wireless
+1026,XBee 3 Pro Module - RP-SMA Antenna,$28.95,In stock,https://www.sparkfun.com/xbee-3-pro-module-rp-sma-antenna.html,IoT & Wireless
+1027,XBee 3 Module - RP-SMA Antenna,$24.95,In stock,https://www.sparkfun.com/xbee-3-module-rp-sma-antenna.html,IoT & Wireless
+1028,XBee 3 Pro Module - U.FL Antenna,$32.50,In stock,https://www.sparkfun.com/xbee-3-pro-module-u-fl-antenna.html,IoT & Wireless
+1029,XBee 3 Module - U.FL Antenna,$21.50,In stock,https://www.sparkfun.com/xbee-3-module-u-fl-antenna.html,IoT & Wireless
+1030,XBee 3 Pro Module - PCB Antenna,$30.95,Out of stock,https://www.sparkfun.com/xbee-3-pro-module-pcb-antenna.html,IoT & Wireless
+1031,XBee 3 Module - PCB Antenna,$19.50,In stock,https://www.sparkfun.com/xbee-3-module-pcb-antenna.html,IoT & Wireless
+1032,SparkFun ESP32 Thing Plus DMX to LED Shield,$18.50,In stock,https://www.sparkfun.com/sparkfun-esp32-thing-plus-dmx-to-led-shield.html,IoT & Wireless
+1033,Particle Xenon IoT Development Kit,$19.50,In stock,https://www.sparkfun.com/particle-xenon-iot-development-kit.html,IoT & Wireless
+1034,Neutis Development Kit,$99.95,In stock,https://www.sparkfun.com/neutis-development-kit.html,IoT & Wireless
+1035,Neutis Quad-Core Module,$19.95,Discontinued,https://www.sparkfun.com/neutis-quad-core-module.html,IoT & Wireless
+1036,"LTE Hinged External Antenna - 600MHz-2700MHz, SMA Male",$5.95,In stock,https://www.sparkfun.com/lte-hinged-external-antenna-600mhz-2700mhz-sma-male.html,IoT & Wireless
+1037,SparkFun Digi XBee® Cellular Kit,$139.95,In stock,https://www.sparkfun.com/sparkfun-digi-xbeer-cellular-kit.html,IoT & Wireless
+1038,Sparkfun Digi X-ON Kit for LoRaWAN® (Europe),$399.95,In stock,https://www.sparkfun.com/sparkfun-iot-node-lorawan-gateway-kit-europe.html,IoT & Wireless
+1039,SparkFun GPS-RTK Dead Reckoning Kit (SMA),$379.95,In stock,https://www.sparkfun.com/sparkfun-gps-rtk-dead-reckoning-kit-sma.html,IoT & Wireless
+1040,SparkFun GPS-RTK Dead Reckoning Kit (U.FL),$339.95,Discontinued,https://www.sparkfun.com/sparkfun-gps-rtk-dead-reckoning-kit-u-fl.html,IoT & Wireless
+1041,LoRa 1W Breakout - 433M30S,$29.95,Discontinued,https://www.sparkfun.com/lora-1w-breakout-433m30s.html,IoT & Wireless
+1042,LoRa 1W Breakout - 868M30S,$29.95,Discontinued,https://www.sparkfun.com/lora-1w-breakout-868m30s.html,IoT & Wireless
+1043,GNSS Antenna Splitter (Power Divider) with DC Pass,$19.95,Discontinued,https://www.sparkfun.com/gnss-antenna-splitter-power-divider-with-dc-pass.html,IoT & Wireless
+1044,SparkFun DataLogger IoT GPS Kit,$99.95,Discontinued,https://www.sparkfun.com/sparkfun-datalogger-iot-gps-kit.html,IoT & Wireless
+1045,ESP32-C6 MINI Module - 4MB (PCB Antenna),$2.50,In stock,https://www.sparkfun.com/esp32-c6-mini-module-4mb-pcb-antenna.html,IoT & Wireless
+1046,ESP32-C6 WROOM Module - 16MB (PCB Antenna),$3.50,In stock,https://www.sparkfun.com/esp32-c6-wroom-module-16mb-pcb-antenna.html,IoT & Wireless
+1047,Edimax 2-in-1 Wi-Fi 4 N150 & Bluetooth® 4.2 Nano USB Adapter,$12.99,Backorder,https://www.sparkfun.com/edimax-2-in-1-wi-fi-4-n150-bluetoothr-4-2-nano-usb-adapter.html,IoT & Wireless
+1048,Espressif Border Router - ESP Thread BR-Zigbee GW,$10.00,Backorder,https://www.sparkfun.com/espressif-border-router-esp-thread-br-zigbee-gw.html,IoT & Wireless
+1049,SparkFun Wireless Joystick Kit,$44.95,In stock,https://www.sparkfun.com/sparkfun-wireless-joystick-kit.html,IoT & Wireless
+1050,Espressif ESP8266EX,$1.50,In stock,https://www.sparkfun.com/espressif-esp8266ex.html,IoT & Wireless
+1051,Raytac Bluetooth AT-Command Set Module - MDBT42TV-PAT,$3.25,Discontinued,https://www.sparkfun.com/raytac-bluetooth-at-command-set-module-mdbt42tv-pat.html,IoT & Wireless
+1052,Raytac Bluetooth AT-Command Set Module - MDBT42T-AT,$4.25,In stock,https://www.sparkfun.com/raytac-bluetooth-at-command-set-module-mdbt42t-at.html,IoT & Wireless
+1053,Raytac Bluetooth 5.2 Module - MDBT53-1M,$9.95,Discontinued,https://www.sparkfun.com/raytac-bluetooth-5-2-module-mdbt53-1m.html,IoT & Wireless
+1054,Roving Networks RN-52 Wireless Audio Module,$25.00,In stock,https://www.sparkfun.com/roving-networks-rn-52-wireless-audio-module.html,IoT & Wireless
+1055,Experiential Robotics Platform (XRP) Kit,$119.95,Backorder,https://www.sparkfun.com/experiential-robotics-platform-xrp-kit.html,Robotics
+1056,Experiential Robotics Platform (XRP) Chassis with Plastic Parts,$39.95,In stock,https://www.sparkfun.com/experiential-robotics-platform-xrp-chassis-with-plastic-parts.html,Robotics
+1057,Hobby Gearmotor - 140 RPM (Pair),$7.50,In stock,https://www.sparkfun.com/hobby-gearmotor-140-rpm-pair.html,Robotics
+1058,SparkFun Qwiic Haptic Driver - DA7280,$11.50,In stock,https://www.sparkfun.com/sparkfun-qwiic-haptic-driver-da7280.html,Robotics
+1059,JetBot Chassis Kit V2,$9.95,In stock,https://www.sparkfun.com/jetbot-chassis-kit-v2.html,Robotics
+1060,"Muscle Wire® - 0.005"" Diameter (1 foot)",$1.95,In stock,https://www.sparkfun.com/muscle-wire-0-005-diameter-1-foot.html,Robotics
+1061,Actuonix PQ12-100-6-R Micro-Actuator,$149.95,In stock,https://www.sparkfun.com/actuonix-pq12-100-6-r-micro-actuator.html,Robotics
+1062,Mount for the RockBLOCK 9704 - SMA,$14.95,In stock,https://www.sparkfun.com/mount-for-the-rockblock-9704-sma.html,Robotics
+1063,SparkFun Motor Driver - Dual TB6612FNG (1A),$14.77,In stock,https://www.sparkfun.com/sparkfun-motor-driver-dual-tb6612fng-1a.html,Robotics
+1064,SparkFun Mini Stepper Motor Driver - TC78H670FTG,$12.70,In stock,https://www.sparkfun.com/sparkfun-mini-stepper-motor-driver-tc78h670ftg.html,Robotics
+1065,Big Easy Driver,$21.50,In stock,https://www.sparkfun.com/big-easy-driver.html,Robotics
+1066,"Standoff - Nylon (3/8"", 4-40)",$0.50,In stock,https://www.sparkfun.com/standoff-nylon-3-8-4-40.html,Robotics
+1067,Experiential Robotics Platform (XRP) - DIY Kit - Set of 10,$999.50,Backorder,https://www.sparkfun.com/experiential-robotics-platform-xrp-diy-kit-set-of-10.html,Robotics
+1068,"Muscle Wire® - 0.012"" Diameter (1 foot)",$2.75,In stock,https://www.sparkfun.com/muscle-wire-0-012-diameter-1-foot.html,Robotics
+1069,Servo - Generic High Torque Continuous Rotation (Standard Size),$20.50,In stock,https://www.sparkfun.com/servo-generic-high-torque-continuous-rotation-standard-size.html,Robotics
+1070,"Stepper Motor - 32 oz.in (200 steps/rev, 1200mm Wire)",$26.95,In stock,https://www.sparkfun.com/stepper-motor-32-oz-in-200-steps-rev-1200mm-wire.html,Robotics
+1071,Haptic Driver - DA7280 (SMD),$1.60,In stock,https://www.sparkfun.com/haptic-driver-da7280-smd.html,Robotics
+1072,Arducam Upgraded Camera Pan Tilt Platform,$22.95,In stock,https://www.sparkfun.com/arducam-upgraded-camera-pan-tilt-platform.html,Robotics
+1073,SparkFun Qwiic Haptic Driver Kit - DA7280,$10.50,Discontinued,https://www.sparkfun.com/sparkfun-qwiic-haptic-driver-kit-da7280.html,Robotics
+1074,Full-Bridge Motor Driver Dual - L298N,$4.95,In stock,https://www.sparkfun.com/full-bridge-motor-driver-dual-l298n.html,Robotics
+1075,Hobby Motor with Encoder - Metal Gear (DG01D-E),$12.50,In stock,https://www.sparkfun.com/hobby-motor-with-encoder-metal-gear-dg01d-e.html,Robotics
+1076,SparkFun ProDriver - Stepper Motor Driver (TC78H670FTG),$22.95,In stock,https://www.sparkfun.com/sparkfun-prodriver-stepper-motor-driver-tc78h670ftg.html,Robotics
+1077,"Wheel - 65mm (Rubber Tire, Pair)",$4.50,In stock,https://www.sparkfun.com/wheel-65mm-rubber-tire-pair.html,Robotics
+1078,Vacuum Pump - 12V,$25.50,In stock,https://www.sparkfun.com/vacuum-pump-12v.html,Robotics
+1079,Caster (2-Pack),$2.50,In stock,https://www.sparkfun.com/caster-2-pack.html,Robotics
+1080,"Standoff - Metal Hex (4-40; 3/8""; 10 pack)",$4.75,In stock,https://www.sparkfun.com/standoff-metal-hex-4-40-3-8-10-pack.html,Robotics
+1081,"GNSS Magnetic Antenna Mount - 5/8"" 11-TPI",$40.50,In stock,https://www.sparkfun.com/gnss-magnetic-antenna-mount-5-8-11-tpi.html,Robotics
+1082,"Stepper Motor - 29 oz.in (200 steps/rev, Threaded Shaft)",$55.95,In stock,https://www.sparkfun.com/stepper-motor-29-oz-in-200-steps-rev-threaded-shaft.html,Robotics
+1083,Analog Servo - FeeTech S0005 (Sub-Micro Size),$5.50,Discontinued,https://www.sparkfun.com/analog-servo-feetech-s0005-sub-micro-size.html,Robotics
+1084,Cable Carrier - 10x15mm (0.5m Length),$16.50,In stock,https://www.sparkfun.com/cable-carrier-10x15mm-0-5m-length.html,Robotics
+1085,Experiential Robotics Platform (XRP) - DIY Kit,$99.95,In stock,https://www.sparkfun.com/experiential-robotics-platform-xrp-diy-kit.html,Robotics
+1086,SparkFun Qwiic Motor Driver,$23.78,In stock,https://www.sparkfun.com/sparkfun-qwiic-motor-driver.html,Robotics
+1087,Wind Sensor Mounting Arm,$5.95,In stock,https://www.sparkfun.com/wind-sensor-mounting-arm.html,Robotics
+1088,Servo - Generic (Sub-Micro Size),$12.95,In stock,https://www.sparkfun.com/servo-generic-sub-micro-size.html,Robotics
+1089,Mates Stand,$20.95,In stock,https://www.sparkfun.com/mates-stand.html,Robotics
+1090,"Tube - Aluminum (1""OD x 2.0""L x 0.82""ID)",$1.29,In stock,https://www.sparkfun.com/tube-aluminum-1-od-x-2-0-l-x-0-82-id.html,Robotics
+1091,"Hex Standoff Threaded - #4-40, Aluminum, 2.375in. (60.33mm)",$1.95,In stock,https://www.sparkfun.com/hex-standoff-threaded-4-40-aluminum-2-375in-60-33mm.html,Robotics
+1092,Metal Mast,$7.95,In stock,https://www.sparkfun.com/metal-mast.html,Robotics
+1093,"Hobby Motor with Encoder - Plastic Gear (Pair, Red)",$28.50,In stock,https://www.sparkfun.com/hobby-motor-with-encoder-plastic-gear-pair-red.html,Robotics
+1094,Servo - Hitec HS-422 (Standard Size),$22.50,Backorder,https://www.sparkfun.com/servo-hitec-hs-422-standard-size.html,Robotics
+1095,Servo - Hitec HS-425BB (Standard Size),$25.95,Discontinued,https://www.sparkfun.com/servo-hitec-hs-425bb-standard-size.html,Robotics
+1096,Wheel Encoder Kit,$13.95,In stock,https://www.sparkfun.com/wheel-encoder-kit.html,Robotics
+1097,"MicroMod Machine Screw - M2.5x3mm, Phillips Head (5 Pack)",$0.30,In stock,https://www.sparkfun.com/micromod-machine-screw-m2-5x3mm-phillips-head-5-pack.html,Robotics
+1098,Micro Gearmotor - 460 RPM (6-12V),$23.50,In stock,https://www.sparkfun.com/micro-gearmotor-460-rpm-6-12v.html,Robotics
+1099,Servo - Generic Metal Gear (Micro Size),$20.95,In stock,https://www.sparkfun.com/servo-generic-metal-gear-micro-size.html,Robotics
+1100,Angle Bracket - 4-40,$0.60,In stock,https://www.sparkfun.com/angle-bracket-4-40.html,Robotics
+1101,Camera Mounting Hardware Kit,$1.10,In stock,https://www.sparkfun.com/camera-mounting-hardware-kit.html,Robotics
+1102,N20 Motor With Encoder and Cable (Pair),$19.95,In stock,https://www.sparkfun.com/n20-motor-with-encoder-and-cable-pair.html,Robotics
+1103,"Flexinol® - 0.012"" Diameter (1 foot)",$4.25,In stock,https://www.sparkfun.com/flexinol-0-012-diameter-1-foot.html,Robotics
+1104,SparkFun RedBot Mainboard,$16.95,In stock,https://www.sparkfun.com/sparkfun-redbot-mainboard.html,Robotics
+1105,"Tube - Stainless (1""OD x 8.0""L x 0.88""ID)",$8.19,In stock,https://www.sparkfun.com/tube-stainless-1-od-x-8-0-l-x-0-88-id.html,Robotics
+1106,"Servo - Generic, 180° Rotation (Sub-Micro Size)",$12.95,In stock,https://www.sparkfun.com/servo-generic-180-rotation-sub-micro-size.html,Robotics
+1107,Planetary Gearmotor - 140RPM,$6.75,In stock,https://www.sparkfun.com/planetary-gearmotor-140rpm.html,Robotics
+1108,Micro Gearmotor - 900 RPM (6-12V),$23.50,In stock,https://www.sparkfun.com/micro-gearmotor-900-rpm-6-12v.html,Robotics
+1109,Shadow Chassis,$14.95,In stock,https://www.sparkfun.com/shadow-chassis.html,Robotics
+1110,"Hobby Gearmotor - 140 RPM, Male Connectors (Single)",$3.50,Backorder,https://www.sparkfun.com/hobby-gearmotor-140-rpm-male-connectors-single.html,Robotics
+1111,Servo to Pigtail Cable - Shrouded,$2.25,In stock,https://www.sparkfun.com/servo-to-pigtail-cable-shrouded.html,Robotics
+1112,Cable Clamps,$5.95,In stock,https://www.sparkfun.com/cable-clamps.html,Robotics
+1113,Micro Gearmotor - Enclosure,$2.25,In stock,https://www.sparkfun.com/micro-gearmotor-enclosure.html,Robotics
+1114,SparkFun Full-Bridge Motor Driver Breakout - L298N,$4.50,In stock,https://www.sparkfun.com/sparkfun-full-bridge-motor-driver-breakout-l298n.html,Robotics
+1115,Micro Gripper Kit A - Straight Mount,$3.75,Discontinued,https://www.sparkfun.com/micro-gripper-kit-a-straight-mount.html,Robotics
+1116,Phillips Machine Screw - M2.5 - 0.45x8mm,$0.15,In stock,https://www.sparkfun.com/m2-5-0-45x8mm-machine-screw-phillips-head.html,Robotics
+1117,TB6612 1.2A DC/Stepper Motor Driver Breakout Board,$4.95,Discontinued,https://www.sparkfun.com/tb6612-1-2a-dc-stepper-motor-driver-breakout-board.html,Robotics
+1118,"Silicone Bumpers - Large (10x16.5mm, 4 pack)",$1.10,In stock,https://www.sparkfun.com/silicone-bumpers-large-10x16-5mm-4-pack.html,Robotics
+1119,"Standoff - Nylon (4-40; 3/8""; 10 pack)",$3.75,In stock,https://www.sparkfun.com/standoff-nylon-4-40-3-8-10-pack.html,Robotics
+1120,"Hobby Gearmotor -  65 RPM (Right Angle, Pair)",$7.50,Backorder,https://www.sparkfun.com/hobby-gearmotor-65-rpm-right-angle-pair.html,Robotics
+1121,Three Phase Brushless Gimbal Stabilizer Motor,$45.95,In stock,https://www.sparkfun.com/three-phase-brushless-gimbal-stabilizer-motor.html,Robotics
+1122,"Screw - Phillips Head (3/8"", 2-56)",$0.15,In stock,https://www.sparkfun.com/screw-phillips-head-3-8-2-56.html,Robotics
+1123,Servo - Generic High Torque (Standard Size),$18.95,In stock,https://www.sparkfun.com/servo-generic-high-torque-standard-size.html,Robotics
+1124,Slip Ring - 12 Wire (2A),$27.95,Backorder,https://www.sparkfun.com/slip-ring-12-wire-2a.html,Robotics
+1125,Dolly Wheel Plate - Drive B (pair),$5.99,In stock,https://www.sparkfun.com/dolly-wheel-plate-drive-b-pair.html,Robotics
+1126,SparkFun Servo Trigger - Continuous Rotation,$17.50,In stock,https://www.sparkfun.com/sparkfun-servo-trigger-continuous-rotation.html,Robotics
+1127,Pan/Tilt Bracket Kit (Multi Attachment),$6.75,Backorder,https://www.sparkfun.com/pan-tilt-bracket-kit-multi-attachment.html,Robotics
+1128,Slip Ring - 6 Wire (2A),$21.50,In stock,https://www.sparkfun.com/slip-ring-6-wire-2a.html,Robotics
+1129,Servo to Alligator Clip Cable - Shrouded,$2.25,In stock,https://www.sparkfun.com/servo-to-alligator-clip-cable-shrouded.html,Robotics
+1130,Metal Gearmotor with Encoder - 12V (9.7:1),$119.95,In stock,https://www.sparkfun.com/metal-gearmotor-with-encoder-12v-9-7-1.html,Robotics
+1131,"Tubing - Aluminum (5/8""OD x 10""L x 0.569""ID)",$4.39,In stock,https://www.sparkfun.com/tubing-aluminum-5-8-od-x-10-l-x-0-569-id.html,Robotics
+1132,SparkFun Brushless Motor Driver - 3-Phase (TMC6300),$17.95,In stock,https://www.sparkfun.com/sparkfun-brushless-motor-driver-3-phase-tmc6300.html,Robotics
+1133,"SparkFun IoT Brushless Motor Driver (ESP32 WROOM, TMC6300)",$99.95,In stock,https://www.sparkfun.com/sparkfun-iot-brushless-motor-driver-esp32-wroom-tmc6300.html,Robotics
+1134,"Screw - Phillips Head (1/2"", 4-40, 10 pack)",$1.60,In stock,https://www.sparkfun.com/screw-phillips-head-1-2-4-40-10-pack.html,Robotics
+1135,Servo - Generic Continuous Rotation (Micro Size),$17.50,In stock,https://www.sparkfun.com/servo-generic-continuous-rotation-micro-size.html,Robotics
+1136,"Hex Standoff - Aluminum Threaded (4-40; 3/4"")",$0.75,In stock,https://www.sparkfun.com/hex-standoff-aluminum-threaded-4-40-3-4.html,Robotics
+1137,Experiential Robotics Platform (XRP) - Build-Your-Own Robotics Kits (Parts for 30 DIY Kits),"$2,849.95",Backorder,https://www.sparkfun.com/experiential-robotics-platform-xrp-build-your-own-robotics-kits-parts-for-30-diy-kits.html,Robotics
+1138,"Gimbal Servo Motor - 12V, 467RPM",$129.95,In stock,https://www.sparkfun.com/gimbal-servo-motor-12v-467rpm.html,Robotics
+1139,Universal Mounting Hub - 5mm Aluminum,$8.50,Discontinued,https://www.sparkfun.com/universal-mounting-hub-5mm-aluminum.html,Robotics
+1140,"Standoffs Plastic - (4-40; 3/4""; 10 pack)",$4.50,In stock,https://www.sparkfun.com/standoffs-plastic-4-40-3-4-10-pack.html,Robotics
+1141,Slip Ring - 3 Wire (10A),$42.95,Backorder,https://www.sparkfun.com/slip-ring-3-wire-10a.html,Robotics
+1142,Solenoid - 36v,$27.95,In stock,https://www.sparkfun.com/solenoid-36v.html,Robotics
+1143,"Stepper Motor - 125 oz.in (200 steps/rev, 600mm Wire)",$47.95,In stock,https://www.sparkfun.com/stepper-motor-125-oz-in-200-steps-rev-600mm-wire.html,Robotics
+1144,Dolly Wheel Plate - Idler A (pair),$5.99,In stock,https://www.sparkfun.com/dolly-wheel-plate-idler-a-pair.html,Robotics
+1145,Silicone Bumpers - 5x11mm (4 Pack),$1.05,In stock,https://www.sparkfun.com/silicone-bumpers-5x11mm-4-pack.html,Robotics
+1146,Center Hole Adapters - 4 pack,$1.99,In stock,https://www.sparkfun.com/center-hole-adapters-4-pack.html,Robotics
+1147,"Gimbal Motor with Encoder - 12V, 467RPM",$49.95,Backorder,https://www.sparkfun.com/gimbal-motor-with-encoder-12v-587rpm.html,Robotics
+1148,Kitronik Simply Servos Board for Raspberry Pi Pico,$11.55,Discontinued,https://www.sparkfun.com/kitronik-simply-servos-board-for-raspberry-pi-pico.html,Robotics
+1149,SparkFun RedBot Buzzer,$1.95,In stock,https://www.sparkfun.com/sparkfun-redbot-buzzer.html,Robotics
+1150,SparkFun Qwiic Motor Driver Kit,$24.95,Discontinued,https://www.sparkfun.com/sparkfun-qwiic-motor-driver-kit.html,Robotics
+1151,#4-40 Hex Nut,$0.10,In stock,https://www.sparkfun.com/4-40-hex-nut.html,Robotics
+1152,SparkFun Servo Trigger,$21.95,In stock,https://www.sparkfun.com/sparkfun-servo-trigger.html,Robotics
+1153,"Stepper Motor - 68 oz.in (400 steps/rev, 300mm Wire)",$29.50,In stock,https://www.sparkfun.com/stepper-motor-68-oz-in-400-steps-rev-300mm-wire.html,Robotics
+1154,Hex Standoff - Aluminum Threaded (M2.5; 16mm; 4.5mm AF),$0.75,In stock,https://www.sparkfun.com/hex-standoff-aluminum-threaded-m2-5-16mm-4-5mm-af.html,Robotics
+1155,WA-SMSI SMT Steel Spacer with internal Thread M2.5,$0.25,In stock,https://www.sparkfun.com/wa-smsi-smt-steel-spacer-with-internal-thread-m2-5.html,Robotics
+1156,EasyDriver - Stepper Motor Driver,$18.50,In stock,https://www.sparkfun.com/easydriver-stepper-motor-driver.html,Robotics
+1157,"Tube - Aluminum (3/8""OD x 10""L x 0.30""ID)",$3.39,In stock,https://www.sparkfun.com/tube-aluminum-3-8-od-x-10-l-x-0-30-id.html,Robotics
+1158,"Nut - Metal (4-40, 10 pack)",$1.60,In stock,https://www.sparkfun.com/nut-metal-4-40-10-pack.html,Robotics
+1159,Solenoid - 12V (Latch / Lock),$15.95,In stock,https://www.sparkfun.com/solenoid-12v-latch-lock.html,Robotics
+1160,"Small Stepper Motor - 100 g.cm (48 steps/rev, 100mm Wire)",$13.95,In stock,https://www.sparkfun.com/small-stepper-motor-100-g-cm-48-steps-rev-100mm-wire.html,Robotics
+1161,Pan/Tilt Camera Bracket Kit (Single Attachment),$11.50,In stock,https://www.sparkfun.com/pan-tilt-bracket-kit-single-attachment.html,Robotics
+1162,Experiential Robotics Platform (XRP) Kit - Set of 10,"$1,199.50",Backorder,https://www.sparkfun.com/experiential-robotics-platform-xrp-kit-set-of-10.html,Robotics
+1163,SparkFun Motor Driver - Dual TB6612FNG (with Headers),$14.50,In stock,https://www.sparkfun.com/sparkfun-motor-driver-dual-tb6612fng-with-headers.html,Robotics
+1164,Hobby Motor - Gear,$2.75,In stock,https://www.sparkfun.com/hobby-motor-gear.html,Robotics
+1165,"Gimbal Motor w/o Encoder - 12V, 467RPM",$34.95,In stock,https://www.sparkfun.com/gimbal-motor-w-o-encoder-12v-587rpm.html,Robotics
+1166,Liquid Pump - 350GPH (12v),$30.50,In stock,https://www.sparkfun.com/liquid-pump-350gph-12v.html,Robotics
+1167,Servo - Hitec HS-805BB (Giant Scale),$49.95,Backorder,https://www.sparkfun.com/servo-hitec-hs-805bb-giant-scale.html,Robotics
+1168,Servo - Hitec HS-85MG (Micro Size),$37.50,Backorder,https://www.sparkfun.com/servo-hitec-hs-85mg-micro-size.html,Robotics
+1169,Phillips Machine Screw - 4-40 Thread - 3/8in.,$0.15,In stock,https://www.sparkfun.com/phillips-machine-screw-4-40-thread-3-8in.html,Robotics
+1170,REV Robotics Smart Robot Servo,$34.95,In stock,https://www.sparkfun.com/rev-robotics-smart-robot-servo.html,Robotics
+1171,Micro Gripper Kit B - Hub Mount,$5.95,In stock,https://www.sparkfun.com/micro-gripper-kit-b-hub-mount.html,Robotics
+1172,Solenoid - 5V (Small),$6.50,In stock,https://www.sparkfun.com/solenoid-5v-small.html,Robotics
+1173,SparkFun Haptic Motor Driver - DRV2605L,$11.95,In stock,https://www.sparkfun.com/sparkfun-haptic-motor-driver-drv2605l.html,Robotics
+1174,Experiential Robotics Platform (XRP) Chassis with Plastic Parts - Beta,$4.99,In stock,https://www.sparkfun.com/experiential-robotics-platform-xrp-chassis-with-plastic-parts-beta.html,Robotics
+1175,Vibration Motor,$2.95,In stock,https://www.sparkfun.com/vibration-motor.html,Robotics
+1176,"12V Solenoid Valve - 3/4""",$9.25,Backorder,https://www.sparkfun.com/12v-solenoid-valve-3-4.html,Robotics
+1177,Standoff - Nylon (4-40; 3/4in.),$0.50,In stock,https://www.sparkfun.com/standoff-nylon-4-40-3-4in.html,Robotics
+1178,"Standoff - Nylon (4-40; 3/4""; 10 pack)",$4.75,In stock,https://www.sparkfun.com/standoff-nylon-4-40-3-4-10-pack.html,Robotics
+1179,PD Stepper - NEMA 17 Stepper Driver and Controller,$64.95,In stock,https://www.sparkfun.com/pd-stepper.html,Robotics
+1180,"Screw - Phillip Head (M3 x 12mm, 3 pack)",$0.95,In stock,https://www.sparkfun.com/screw-phillip-head-m3-x-12mm-3-pack.html,Robotics
+1181,Liquid Pump - 500GPH (12V),$32.95,In stock,https://www.sparkfun.com/liquid-pump-500gph-12v.html,Robotics
+1182,"Screw - Phillips Head (1/4"", 4-40, 10 pack)",$1.75,In stock,https://www.sparkfun.com/screw-phillips-head-1-4-4-40-10-pack.html,Robotics
+1183,M3 Hex Nut,$0.05,In stock,https://www.sparkfun.com/m3-hex-nut.html,Robotics
+1184,Nut - Metal (2-56),$0.15,In stock,https://www.sparkfun.com/nut-metal-2-56.html,Robotics
+1185,"Tube - Stainless (1""OD x 10""L x 0.88""ID)",$10.19,Discontinued,https://www.sparkfun.com/tube-stainless-1-od-x-10-l-x-0-88-id.html,Robotics
+1186,O-Ring (2-Pack),$1.25,In stock,https://www.sparkfun.com/o-ring-2-pack.html,Robotics
+1187,Micro Gearmotor - 90 RPM (6-12V),$23.50,In stock,https://www.sparkfun.com/micro-gearmotor-90-rpm-6-12v.html,Robotics
+1188,Micro Gearmotor - 175 RPM (6-12V),$23.50,In stock,https://www.sparkfun.com/micro-gearmotor-175-rpm-6-12v.html,Robotics
+1189,"Standoffs Plastic (4-40; 3/8""; 10 pack)",$3.75,In stock,https://www.sparkfun.com/standoffs-plastic-4-40-3-8-10-pack.html,Robotics
+1190,Tripod Mount for Raspberry Pi Camera Modules,$6.95,Backorder,https://www.sparkfun.com/tripod-mount-for-camera-modules.html,Robotics
+1191,Hobby Motor and Encoder Kit,$21.50,Discontinued,https://www.sparkfun.com/hobby-motor-and-encoder-kit.html,Robotics
